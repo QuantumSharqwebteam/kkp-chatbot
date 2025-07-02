@@ -1,0 +1,1001 @@
+date,quality,weave,quantity,composition,status,_id,rate,agentName,customerName
+2025-05-07T07:23:59,premium ,Plain,701m,20%,Pending,de7419b5-b330-4d34-b9c1-e8f8a1d378ee,524,Priya,Kumar
+2025-05-03T22:38:02,Primium,Twill,986,Nylon 40%,Confirmed,09aa2c07-9c8c-42ad-afb7-346b3fcb9353,81,Sundar,jogoco
+2025-05-14T19:21:55,Primium,Spandex,753,Viscose 70%,Pending,67092703-edea-41f3-ae4e-6e6502b8aef7,433,Priya,Tom
+2025-05-29T21:22:12,Primium,Spandex,438m,Nylon 40%,Confirmed,8a9a0577-b71c-4d35-b1e2-c8652fa8319e,222,Ravi,Anita
+2025-05-19T08:24:39,Stand,Denim,253m,20%,Pending,2e396a03-3480-491c-837d-a971ebd243da,389,Mukilan,Anita
+2025-05-04T02:05:26,Premium,Crepe,906,Cotton 100%,Pending,f0c39f14-63ad-490d-b148-ae8b54f83e7d,166,Sundar,qilyze
+2025-05-19T02:29:04,Economy,Spandex,94,Polyester 80%,Pending,425808b8-256e-4cce-985f-04edff082744,206,Mukilan,Sara
+2025-06-16T21:35:11,Primium,Satin,726,Polyester 80%,Pending,95b11dbc-2624-4c76-be73-0aac781741de,549,Priya,Sara
+2025-05-22T22:13:22,Premium,Linen,361m,Polyester 80%,Pending,a4ea4c77-3aaf-44ef-a6dc-a877cabb4c82,442,Mukilan,qilyze
+2025-05-07T02:02:24,Standard,Linen,348,Cotton 50%,Cancelled,e51fd090-a5a5-4a9f-a8d4-51f9009f34d9,333,Nisha,Kumar
+2025-06-02T14:52:47,Premium,Spandex,593,Cotton 50%,Cancelled,208e7df3-9fbc-46e3-b25e-05ada6724557,210,Arun,jogoco
+2025-05-24T00:45:04,Premium,Crepe,414m,Nylon 40%,Confirmed,ce20ba3b-d7e0-4843-92bb-75fba5e9d502,251,Arun,Jhon
+2025-05-22T10:45:04,Premium,Linen,647,Nylon 40%,Pending,6bce0544-87d9-40dd-bca0-873dd9adb025,356,Priya,qilyze
+2025-06-25T13:13:10,Primium,spandex ,255m,Nylon 40%,Pending,c74a2590-c719-4e18-acd6-baa14d06a9c0,411,Sundar,Anita
+2025-05-07T17:33:12,Economy,spandex ,389m,Nylon 40%,Pending,8949243a-011d-41d6-b649-a3ddcc9194bb,260,Nisha,qilyze
+2025-05-24T00:28:58,Standard,Spandex,138,Nylon 40%,Pending,b7263841-3c5a-43fd-be15-adbdcb7000b5,512,Arun,qilyze
+2025-05-09T01:54:11,Standard,Plain,760m,Cotton 100%,Pending,19e79681-1c0e-49b2-a414-bca092773195,505,Sundar,Anita
+2025-06-26T14:46:58,Economy,Spandex,81,Silk 60%,Confirmed,375a7b46-c4ce-48c7-8a90-89d564fc35c3,419,Priya,Jhon
+2025-05-01T18:58:12,Stand,Linen,974m,Cotton 100%,Cancelled,5416b7ae-bb1e-4d1b-a29e-0873e689ea9c,425,Arun,jogoco
+2025-05-19T23:39:53,Standard,linen,350,Nylon 40%,Confirmed,63da5a05-e461-461f-9b2f-eb52c6ae8b36,583,Arun,Anita
+2025-06-09T10:14:43,Standard,Denim,574,20%,Confirmed,c069a4b3-ea6c-45d8-ba43-fa565a47c769,567,Sundar,jogoco
+2025-05-28T00:05:49,Premium,Plain,671m,Polyester 80%,Confirmed,1cace10d-66fb-4d3b-94d9-2b2cc9a91c76,513,Nisha,Kumar
+2025-06-17T08:57:28,Stand,spandex ,642m,Silk 60%,Cancelled,c3f11907-f454-412b-a6de-f2799e38fb4c,352,Ravi,jogoco
+2025-05-31T09:06:14,Premium,Satin,277,Cotton 50%,Confirmed,260460d0-e9e8-48a2-bf97-ad42fcf413e5,561,Ravi,Sara
+2025-05-16T04:29:11,Standard,Spandex,524m,Polyester 80%,Cancelled,ebfeb8eb-39ad-4c1c-8063-02f38b2e810d,379,Sundar,qilyze
+2025-06-06T06:03:39,Premium,Crepe,216m,Cotton 100%,Confirmed,50d73fd1-e7a9-4a89-bfcd-f361be7152ae,287,Sundar,jogoco
+2025-05-12T06:15:32,stand ,Denim,554,Polyester 80%,Confirmed,0f1423b0-93d8-4c8b-a3d5-ed2d21e47924,294,Priya,Deepak
+2025-05-03T08:17:03,Economy,Crepe,68,Polyester 80%,Pending,3d1c4a75-456d-4f30-ac29-1de7ba157a82,576,Arun,Anita
+2025-05-03T19:39:02,Standard,Crepe,970m,20%,Cancelled,b3a23c61-cef4-4d28-9079-8aa945c1386c,132,Arun,Deepak
+2025-05-08T21:25:31,Economy,Linen,434m,20%,Cancelled,4258aed5-ccd1-467f-866c-fd9d5c516cb5,214,Arun,Jhon
+2025-06-04T00:10:24,Economy,spandex ,138m,20%,Pending,5b01c326-fd40-463d-bf18-630e479a6ffe,487,Sundar,Kumar
+2025-05-27T03:12:52,Economy,spandex ,879,Polyester 80%,Cancelled,dcd10ff6-f953-49d4-b3e5-30a835717455,54,Ravi,jogoco
+2025-06-20T19:57:28,Stand,Denim,551,Nylon 40%,Cancelled,c2a8bad6-0f07-420f-a12d-d647d7c02b8a,172,Priya,Kumar
+2025-05-11T15:53:14,stand ,Twill,165,20%,Pending,7dfe7cc8-0b6f-4f4e-9f6c-d75cfd40ba37,66,Sundar,qilyze
+2025-05-13T18:51:11,Standard,Linen,790m,Silk 60%,Pending,46262d4a-8a32-436d-87a2-a0e22a5cc024,376,Nisha,Deepak
+2025-06-21T07:16:31,Standard,Linen,85,20%,Confirmed,a90d7dc6-2d48-4dd2-9d07-b204a8a4fd3a,191,Arun,qilyze
+2025-05-30T07:31:22,Premium,linen,379,Polyester 80%,Pending,0797e7a1-de20-450b-a247-871e12a23973,91,Sundar,Kumar
+2025-05-03T02:03:11,stand ,Satin,928m,Viscose 70%,Cancelled,e3b2506b-964b-480a-808c-d3508445bec2,498,Sundar,jogoco
+2025-05-18T01:41:05,premium ,Twill,75m,Cotton 100%,Pending,e60fee14-9796-4868-bd84-b658c77f2151,440,Ravi,Kumar
+2025-06-22T21:55:24,stand ,Denim,977m,Viscose 70%,Confirmed,86b49685-baef-4a89-b7a7-2b9d961fb2d0,400,Arun,Anita
+2025-05-13T03:48:43,premium ,linen,420,Silk 60%,Confirmed,49693d09-4aa6-4eee-aa1c-3d6d18cebd30,274,Sundar,Tom
+2025-05-18T16:06:50,Stand,linen,176m,Silk 60%,Pending,e8dd249b-982d-4fef-8c37-a74b98ed60a0,572,Priya,Sara
+2025-06-06T19:24:28,Economy,Crepe,247,Cotton 50%,Confirmed,a9e399c5-9cd5-49af-b92c-8231a8bece68,358,Priya,Deepak
+2025-05-27T15:25:37,Standard,Twill,172,Cotton 50%,Pending,bf974a40-57ce-4158-b793-4cf1d2441e89,438,Nisha,Tom
+2025-05-14T11:16:16,Economy,Satin,121,Polyester 80%,Confirmed,def56115-8685-49ea-8f9f-1d06b9f596c0,247,Nisha,qilyze
+2025-05-25T04:57:51,premium ,Crepe,689,Viscose 70%,Pending,8a4228b9-451e-4e5c-ae35-4f94de6ad3c9,58,Arun,Jhon
+2025-06-05T12:35:11,stand ,Crepe,146m,Nylon 40%,Confirmed,fe08ea2d-0336-4973-9834-b5e7acf454d9,487,Ravi,jogoco
+2025-06-10T11:44:21,Standard,Plain,706m,Cotton 50%,Pending,4024e9d8-d708-4e8a-a875-8cd33d5eb3dd,497,Sundar,Sara
+2025-05-17T05:10:11,stand ,Denim,840m,Polyester 80%,Cancelled,d2aa79b3-029a-4e01-ba53-3d0e8e8785da,535,Sundar,Kumar
+2025-05-17T13:18:43,premium ,Twill,363m,Cotton 50%,Cancelled,25ebc5ed-2a41-41e9-9f6d-353a7a18adbf,70,Sundar,Kumar
+2025-05-17T01:24:51,Standard,linen,907m,Cotton 100%,Pending,caec3311-79ef-4cd2-a223-71c14e2b4060,110,Nisha,Tom
+2025-06-23T13:07:59,premium ,Spandex,510m,Cotton 100%,Cancelled,cfa2ba24-c64d-4a2c-8c99-5f914370dfd0,446,Mukilan,Anita
+2025-06-22T21:29:49,Standard,Linen,627,Cotton 100%,Cancelled,c2e3eda4-3870-430a-9f79-c6bf78c92075,470,Ravi,Jhon
+2025-06-29T08:15:32,Premium,linen,69m,Cotton 100%,Pending,6df7ec77-fa12-43b4-b5b3-2759fab763ff,180,Priya,qilyze
+2025-06-01T21:53:01,Stand,Linen,573,Cotton 50%,Cancelled,da1ecc01-aa15-4438-9346-9d612271b7f8,588,Mukilan,Jhon
+2025-06-25T07:54:30,Premium,Denim,356m,Cotton 50%,Cancelled,819528ee-f8e2-4167-b510-192940da53be,543,Arun,Jhon
+2025-05-16T05:30:20,Economy,spandex ,709,20%,Confirmed,84dbe647-64f3-4757-992d-92333d575c54,257,Mukilan,Kumar
+2025-06-10T04:11:54,Standard,Linen,186m,Viscose 70%,Pending,43fd5430-1ff8-4d26-aded-1cca1e67ec61,156,Ravi,Anita
+2025-06-30T23:10:51,Economy,Linen,179,Silk 60%,Pending,433a8d1d-d41d-4d66-bdcd-97c2c176b76c,264,Nisha,qilyze
+2025-05-18T13:25:01,stand ,linen,234m,Nylon 40%,Pending,67c8daf6-09aa-4cf1-8bff-4e3f29f9c7fa,547,Priya,Tom
+2025-05-13T02:31:53,Primium,Denim,220m,Cotton 100%,Pending,7924de76-a5b1-47de-90d5-afdc6749935a,503,Priya,Tom
+2025-06-22T18:53:53,Economy,Twill,307,Viscose 70%,Cancelled,fab1db63-2718-4565-affd-6cfe5ed2289c,185,Arun,qilyze
+2025-06-06T23:35:23,stand ,Plain,771m,Nylon 40%,Confirmed,ff36c760-5f83-4a28-9772-5495d011dcaf,101,Priya,Deepak
+2025-06-15T10:24:21,stand ,Satin,879m,20%,Pending,5530df27-9a48-4de3-ad1e-564fd02ef903,77,Nisha,Jhon
+2025-05-24T19:37:32,Economy,Spandex,373,Nylon 40%,Confirmed,55f7eb60-1d91-45c6-b133-7ec9f4b85457,419,Mukilan,Jhon
+2025-06-07T19:06:35,stand ,spandex ,456,20%,Pending,5ca42f6a-7a23-4876-91f3-e5a25c786d55,152,Ravi,Sara
+2025-06-06T00:58:30,premium ,Twill,479,Cotton 50%,Pending,0ba97c13-aa01-47ff-beee-4ae8ab1c180f,473,Ravi,Anita
+2025-05-02T09:06:01,Primium,Crepe,538,Nylon 40%,Cancelled,c36a5316-49fd-42da-ac32-3d0d32ec03f7,362,Nisha,Tom
+2025-06-23T12:09:22,Economy,Plain,581,Cotton 100%,Cancelled,9b8fdd8b-1b17-4a7f-b377-21e78e1374fd,138,Priya,Sara
+2025-06-10T21:15:56,Standard,Satin,872,Cotton 100%,Cancelled,e0eea4e9-5886-4727-b978-cd626681df56,84,Ravi,Deepak
+2025-06-09T11:58:56,stand ,Spandex,908,Polyester 80%,Cancelled,356808e8-ef44-444b-a4ce-83e857494a47,99,Nisha,Deepak
+2025-05-02T15:07:51,Economy,Twill,112m,Silk 60%,Cancelled,eae79f1b-1e7b-4558-98e6-e74f67c05ec8,275,Nisha,Sara
+2025-06-18T15:36:12,Economy,Satin,862m,Silk 60%,Cancelled,40efb66c-3298-470c-8c1b-775b4f2a0ba1,332,Mukilan,qilyze
+2025-06-16T10:37:37,premium ,Plain,610m,20%,Confirmed,e2b182e2-5ade-46f8-b651-4da477951740,499,Sundar,Sara
+2025-05-15T10:13:49,Economy,Denim,501,20%,Cancelled,c4eea63c-6456-462d-9710-b20a3ea75e84,494,Mukilan,Deepak
+2025-05-15T09:37:22,Premium,Crepe,726m,20%,Cancelled,2f2d536e-8676-415c-b164-4f66de785068,93,Nisha,Deepak
+2025-06-25T16:00:13,Economy,Linen,415,Cotton 50%,Confirmed,1771774b-ce46-428b-a705-5cd661f16ec7,109,Mukilan,Kumar
+2025-05-21T22:19:35,Standard,Crepe,803,Cotton 100%,Pending,decc5515-df9c-4afd-a448-242b300ea2da,341,Mukilan,Sara
+2025-06-30T09:01:41,premium ,Denim,80,Viscose 70%,Confirmed,6c901761-69a4-4a54-960a-e1df3f501b6e,236,Priya,Kumar
+2025-05-15T17:11:20,Economy,Twill,92,Silk 60%,Pending,33c54fe9-0b92-43b1-a99b-ac49f9c1abc9,432,Arun,Anita
+2025-05-27T00:25:25,Stand,Denim,336m,Nylon 40%,Cancelled,e6c40281-d07e-494d-96f9-aa0e7ce3fb4a,468,Arun,Sara
+2025-05-20T08:50:40,Stand,Satin,258m,Nylon 40%,Confirmed,46eed875-17a4-442b-bf03-cb73c7a5617b,183,Sundar,qilyze
+2025-06-11T07:28:29,Standard,Linen,56m,Nylon 40%,Cancelled,e853ae68-3976-4948-a428-6f03b03c11b5,215,Mukilan,Kumar
+2025-06-27T01:08:44,Premium,Denim,245,Polyester 80%,Cancelled,88e7c81b-5347-4948-b8ac-f7d509b66a85,378,Sundar,Kumar
+2025-06-07T00:50:40,Standard,Plain,218,Viscose 70%,Cancelled,ec066512-eee3-4758-90cf-e184732945e6,237,Mukilan,Anita
+2025-05-22T22:26:03,Economy,spandex ,486,Cotton 50%,Confirmed,5156969a-af4d-44dd-95b2-1d258fc782af,293,Mukilan,jogoco
+2025-06-02T10:23:40,Primium,spandex ,758,20%,Confirmed,acf8e00c-f60d-431f-a81d-b7ec75041588,381,Nisha,Sara
+2025-05-19T12:55:46,Stand,Crepe,771,Silk 60%,Cancelled,6fb03b45-64ec-47e1-90c6-051cb6d077f8,490,Ravi,Anita
+2025-06-04T00:42:30,stand ,spandex ,486,Silk 60%,Confirmed,0cf69b99-6950-452d-9fa7-0a8ef45ef8c8,543,Sundar,Deepak
+2025-06-11T06:47:22,Economy,Linen,274,Cotton 50%,Confirmed,8273c68b-5d3e-4287-bc74-3306b0fd102c,226,Nisha,qilyze
+2025-05-11T13:16:48,Standard,Denim,458m,Cotton 50%,Confirmed,13e0fdeb-7eb2-4d1b-b9f2-455d3fbc6ae9,216,Priya,Anita
+2025-05-12T10:07:50,Primium,Satin,150m,Polyester 80%,Pending,aea6540e-d98b-41c3-84a3-e6b389a78d63,109,Nisha,Tom
+2025-05-27T03:58:49,stand ,linen,998m,Silk 60%,Cancelled,85b477d1-6609-4f0c-92f8-9fcf2e16868e,498,Priya,jogoco
+2025-06-28T15:03:58,Primium,Twill,120,Nylon 40%,Confirmed,87360a92-4ae9-4cc8-b0e3-8baaefc43994,464,Sundar,Deepak
+2025-05-20T08:33:01,Primium,Plain,530,20%,Pending,e4c9d389-63b1-4d03-b6ac-fbfc55f8b3d0,177,Ravi,Tom
+2025-06-12T12:38:11,Primium,Linen,249,Silk 60%,Pending,01c274a1-10d7-4cdb-92c7-c3f81213534a,118,Mukilan,Kumar
+2025-05-07T19:22:59,stand ,linen,137m,20%,Confirmed,400afd36-85b0-4066-9e32-e1aa78965b70,382,Priya,Kumar
+2025-06-06T04:30:09,Economy,Linen,264m,Silk 60%,Cancelled,b996ab61-9a6b-466b-9c26-dd30c62e082a,352,Mukilan,qilyze
+2025-06-16T12:09:14,Standard,Satin,148,Silk 60%,Cancelled,a13672ed-94ac-4b0b-b4ce-a171da22afd6,445,Mukilan,Kumar
+2025-06-19T11:35:41,Economy,Denim,54m,Nylon 40%,Cancelled,7b986523-26e0-443e-bc31-421dd647be04,97,Arun,qilyze
+2025-06-07T07:56:05,stand ,Denim,424m,Cotton 50%,Cancelled,cf89165a-071f-454b-a3df-689268eec26a,351,Mukilan,Kumar
+2025-06-25T22:51:45,Stand,linen,412,Polyester 80%,Pending,a3636ec3-8afd-4fff-b58a-e12d4f3ede47,79,Sundar,Jhon
+2025-05-15T09:35:38,Economy,Linen,639,Silk 60%,Confirmed,5a0082ee-6f9b-45c5-b0ec-d76cb5c02aaa,74,Arun,Tom
+2025-05-02T01:19:38,Stand,Denim,52m,Cotton 50%,Cancelled,fa75cc10-24d7-4f33-823f-fb5d73d9b4cf,294,Priya,Sara
+2025-05-05T04:44:20,Stand,spandex ,837,Cotton 50%,Pending,f17d908f-abdc-4961-8e52-80f666ac53e0,314,Sundar,Tom
+2025-06-18T08:16:26,Stand,linen,569m,Viscose 70%,Pending,cd801c63-9c5a-4fe1-b096-e81517c2ef32,461,Sundar,jogoco
+2025-06-24T03:20:05,Economy,Twill,257,Cotton 50%,Pending,d0f40ab7-eb30-475d-86a2-9909b6f736b6,282,Priya,Sara
+2025-06-27T06:08:44,stand ,Linen,137m,Viscose 70%,Cancelled,1b6ee14f-90e8-437d-a346-643556d7f9a8,456,Arun,Sara
+2025-06-30T19:59:25,stand ,Spandex,98m,Polyester 80%,Pending,d0008b8f-868e-4d4e-8dd8-b912224388d6,435,Mukilan,Sara
+2025-05-29T16:01:40,Standard,spandex ,646m,Nylon 40%,Confirmed,ad2ae942-bca7-4b3d-845c-f1b9e22f32cd,326,Priya,jogoco
+2025-06-08T12:55:59,Primium,linen,446m,Cotton 100%,Pending,e679249c-562b-4499-845a-add906d24d68,591,Arun,Sara
+2025-05-17T10:56:09,premium ,Denim,993,Nylon 40%,Pending,2f73b058-36db-4452-b651-bbc5b638ccb2,535,Priya,qilyze
+2025-05-15T15:21:32,Economy,Twill,457m,20%,Pending,1f30d36f-a81e-4852-ab73-0a2ec18104e2,214,Arun,qilyze
+2025-05-12T07:48:41,premium ,Spandex,517,Polyester 80%,Cancelled,de6f1e33-977f-472e-833a-ebf73d91c8d0,320,Ravi,Jhon
+2025-05-04T14:44:44,premium ,linen,976m,Polyester 80%,Confirmed,5df7a8d9-3a17-4b7c-81fa-1e0d781972eb,317,Nisha,Sara
+2025-05-16T18:52:29,Premium,Denim,270m,Cotton 50%,Pending,f026ab22-457d-437e-9441-3e181e28b80a,525,Arun,Tom
+2025-06-03T12:56:09,Premium,Spandex,394,20%,Pending,11316d56-f3cb-4b1a-92c2-8c21cb8810a1,254,Nisha,Tom
+2025-05-24T11:30:21,Premium,Spandex,926m,Cotton 50%,Pending,9a38f3f8-6942-4d05-9917-0f6a274c50a3,469,Nisha,qilyze
+2025-05-24T14:42:29,Primium,spandex ,962m,20%,Pending,4b09239e-1577-450b-8b3c-5d1fef85599b,153,Ravi,Deepak
+2025-06-27T11:10:21,stand ,Plain,913m,Cotton 100%,Pending,1a415eda-44a2-420b-9a1f-1a2dd33f4ff2,495,Nisha,jogoco
+2025-05-10T01:18:04,premium ,Satin,568m,Silk 60%,Confirmed,2af43e50-07d0-4741-8cd7-271ce5acd199,214,Arun,Tom
+2025-06-21T14:09:50,Standard,Crepe,516,20%,Confirmed,5c4964d1-9dae-4947-9bed-289547bf9c43,431,Arun,jogoco
+2025-06-01T11:15:33,stand ,Crepe,676m,20%,Pending,699144d8-9373-4000-8a1d-7237a62f5aad,87,Nisha,Kumar
+2025-05-17T21:27:11,stand ,Crepe,970,Polyester 80%,Cancelled,9593bb8b-d391-4a7b-9f70-8c32493dbe36,324,Priya,Jhon
+2025-06-19T18:42:26,premium ,Satin,805,Cotton 50%,Cancelled,d8fcf802-a550-4fbe-8a1f-215cf9e0da3c,216,Arun,Kumar
+2025-05-15T10:00:24,premium ,Satin,182m,Cotton 50%,Confirmed,cf986776-66d4-4ecd-b4f8-8124c5641b4f,401,Mukilan,Anita
+2025-06-08T14:11:12,stand ,Plain,501m,Cotton 50%,Confirmed,8bf3632d-639b-48f7-8e10-270ce22cd166,482,Sundar,jogoco
+2025-06-22T09:31:30,premium ,spandex ,544m,Viscose 70%,Pending,b0b4b603-9768-410b-915d-95a9b8e7d835,512,Priya,qilyze
+2025-06-16T22:53:04,stand ,linen,860,Polyester 80%,Pending,a078faf6-7bb0-4182-8796-5d02123e79f2,179,Ravi,Jhon
+2025-05-07T04:33:10,premium ,Denim,523,Nylon 40%,Cancelled,c3965ee1-f0a6-46ba-a0c5-4ac658fdcc9b,396,Priya,Anita
+2025-05-24T09:01:12,Economy,Spandex,553m,Cotton 50%,Confirmed,7bf04b70-f414-423b-9cd1-0892a7787b60,479,Arun,jogoco
+2025-05-06T08:01:05,stand ,Spandex,255,Cotton 100%,Pending,cc2fc0ed-4f4e-4fe7-840b-9c3e13888ef6,170,Ravi,qilyze
+2025-06-02T16:59:38,Stand,Plain,109,Cotton 100%,Cancelled,18e1990d-11f3-459d-9540-3cf623382492,128,Mukilan,Sara
+2025-05-23T11:36:29,Economy,Twill,723m,Cotton 100%,Cancelled,3152389e-c9ac-4ce9-bdd7-28843350be35,121,Mukilan,qilyze
+2025-06-24T10:31:14,Economy,Spandex,57m,Cotton 50%,Cancelled,b389c8fe-53b2-49a2-90fb-6c4161841639,321,Mukilan,Kumar
+2025-05-20T13:15:09,Stand,linen,161,Silk 60%,Confirmed,586a65d7-9c61-4bf1-8163-58bb59fd3a7f,58,Arun,Deepak
+2025-05-11T19:17:45,Stand,Denim,351m,Viscose 70%,Cancelled,577866a7-7730-485b-9bcd-5e96456485fc,504,Priya,Deepak
+2025-05-25T04:48:33,Primium,Denim,482m,Viscose 70%,Cancelled,62a6125a-7bb0-4d59-b5b6-5b1e23742283,436,Sundar,Kumar
+2025-05-11T08:15:33,stand ,Crepe,782,Nylon 40%,Pending,9b675f3a-13ef-4bb9-a0b4-76633c83c899,542,Sundar,jogoco
+2025-05-06T18:04:07,Premium,Spandex,520m,Silk 60%,Confirmed,7c0f41f2-feb1-4ef2-a168-c4b415fd89f6,230,Ravi,jogoco
+2025-06-13T21:24:25,Premium,Plain,109,Nylon 40%,Pending,0559640a-7e98-47e7-b5f0-b748e69e625f,302,Sundar,Deepak
+2025-05-14T06:32:33,stand ,Denim,581m,Cotton 100%,Cancelled,56a980f1-6b5e-46e3-bd96-b877f8be37f4,196,Ravi,qilyze
+2025-06-03T19:28:06,Standard,Denim,783m,Cotton 50%,Confirmed,38d07e8a-ceb6-4c9e-8567-57b2419d63b2,410,Nisha,Sara
+2025-06-21T21:17:50,premium ,Twill,452,Silk 60%,Cancelled,c11e7559-8dd7-45a7-b071-82d7651cc301,74,Arun,Tom
+2025-06-03T13:42:16,Primium,Crepe,314,Viscose 70%,Cancelled,d5cb8847-1241-4054-b881-9fdbc40e04fe,350,Ravi,Deepak
+2025-05-23T05:49:18,stand ,Satin,624,Polyester 80%,Pending,eefad660-2a17-45b4-8f00-5498c1ecea41,281,Nisha,Jhon
+2025-05-07T21:44:34,Premium,Twill,51m,Nylon 40%,Cancelled,d17e4e42-7fd7-4b26-9120-b7c733c3d615,134,Sundar,Tom
+2025-05-04T07:15:30,premium ,Plain,699,Silk 60%,Confirmed,5b6c49e1-a045-4402-ac73-215ebd5469e2,207,Priya,Jhon
+2025-06-27T01:49:49,Stand,linen,805m,Viscose 70%,Pending,f12ecd74-ecb7-4e33-8535-4e09179f3ec8,139,Priya,Deepak
+2025-06-01T05:26:45,Primium,Twill,505,20%,Confirmed,3147ffa6-c733-42e4-b162-f21f88cb35f8,479,Priya,qilyze
+2025-06-10T02:07:15,Economy,Satin,184,Cotton 50%,Cancelled,61de3a73-d7b0-4750-939d-6bdb863e48ce,120,Nisha,Tom
+2025-06-09T14:45:08,Premium,Satin,865m,Nylon 40%,Pending,1bf73b4e-9b5a-43a2-91f2-14249ae08350,327,Priya,jogoco
+2025-05-19T12:14:41,Standard,Satin,879m,Cotton 100%,Cancelled,fe03b262-e614-4f24-8f1e-f0e43e39f62d,273,Nisha,Tom
+2025-05-30T03:17:09,stand ,Twill,97m,Viscose 70%,Confirmed,35d4a1ec-9919-40bc-9896-e29ecc34cb37,94,Ravi,qilyze
+2025-05-25T17:42:02,Economy,Denim,110m,Cotton 50%,Cancelled,583c75c6-9dec-447a-b57a-a1afa7d05163,497,Nisha,Deepak
+2025-05-09T17:59:35,Primium,Satin,75m,Cotton 50%,Pending,a9783d53-85a6-466b-a8e3-75bcae19a05d,188,Mukilan,Deepak
+2025-06-18T23:25:33,Primium,Spandex,611m,Viscose 70%,Confirmed,9ae5fe38-a800-4e22-b067-01df013fa03d,69,Mukilan,Sara
+2025-06-27T14:26:52,stand ,spandex ,350m,Cotton 50%,Pending,5a515fae-4ade-44be-8fb8-962aafd02c81,468,Priya,jogoco
+2025-05-11T20:24:56,Standard,Twill,605m,20%,Cancelled,ecf48974-523e-4356-8e60-6ee89afd1448,165,Sundar,qilyze
+2025-05-03T17:42:20,Primium,Denim,787,20%,Confirmed,61fead10-a5a9-4cee-ad41-671f8e80922a,591,Priya,Deepak
+2025-05-03T18:44:57,Stand,Spandex,838m,20%,Cancelled,23179e64-3eeb-4f89-8433-88dac6704910,223,Ravi,Tom
+2025-06-01T13:17:50,Primium,spandex ,68m,20%,Cancelled,261d597c-e305-43de-831d-f013e30620d2,390,Sundar,Tom
+2025-05-01T09:05:38,Premium,Twill,344,Viscose 70%,Confirmed,312d4128-3b3c-4f26-af10-c25f276950a6,597,Ravi,jogoco
+2025-05-02T11:02:20,Primium,Denim,406m,20%,Cancelled,d83ae69e-4ba9-4ebe-98b2-97f63e926b6b,481,Ravi,Sara
+2025-06-30T02:34:36,Premium,Twill,915m,Viscose 70%,Cancelled,0daea820-d572-46bb-9aab-4c89da576089,162,Priya,Deepak
+2025-05-06T16:13:07,stand ,Spandex,334,Cotton 50%,Cancelled,13b79d8d-ff88-455d-9642-fafb52ffa49a,68,Ravi,Tom
+2025-06-14T20:34:48,Economy,Denim,239m,Silk 60%,Pending,49c697a4-726b-4183-99da-18a61b7cca1d,124,Ravi,qilyze
+2025-05-09T07:06:17,stand ,Satin,336m,Nylon 40%,Pending,6dfe3390-2a7e-4a15-879a-102df297e70b,351,Mukilan,Jhon
+2025-06-08T16:29:52,Stand,Satin,348m,Nylon 40%,Cancelled,7f84ea2d-bea6-4c1b-9118-dc58b6e5d4b8,467,Mukilan,Jhon
+2025-06-01T21:20:38,Stand,Plain,323,Viscose 70%,Pending,aad574d9-103c-4441-97da-07c0b1d60ca2,359,Ravi,jogoco
+2025-05-09T01:10:59,Economy,Plain,167m,Nylon 40%,Cancelled,43ab945a-e2b5-40f3-bc46-9d175006b245,481,Mukilan,qilyze
+2025-06-23T02:52:49,stand ,Linen,608m,Viscose 70%,Pending,c8aa507e-ed80-4ca9-95a4-3c3a6361b970,430,Mukilan,qilyze
+2025-06-06T11:20:05,premium ,Denim,891,Cotton 50%,Cancelled,18962724-374a-4b3a-8234-eda2ca388959,447,Ravi,Kumar
+2025-06-24T02:21:21,Stand,Satin,396m,Cotton 100%,Confirmed,c538bf18-f140-4e1c-a0ba-293db90caf36,64,Mukilan,Sara
+2025-05-20T02:08:05,Primium,Crepe,333,Cotton 50%,Pending,5545907a-fe2b-430b-93b3-eeba700de1c9,571,Priya,qilyze
+2025-06-06T23:02:17,Primium,Twill,50m,Silk 60%,Pending,dc7b2e6d-d2a9-4d3d-a969-9187537fc7ab,451,Mukilan,Deepak
+2025-06-03T19:20:27,Economy,Satin,707,Nylon 40%,Cancelled,f626a4ef-5d54-47dc-b866-d6c04103ef09,239,Priya,qilyze
+2025-05-30T16:12:29,Primium,spandex ,933m,Polyester 80%,Pending,3655d891-144c-4b63-9116-5d5f473d72fd,498,Arun,Tom
+2025-06-03T16:07:09,Stand,Plain,428m,Cotton 100%,Confirmed,27bb8e5d-18d6-4a4b-b104-0da944d98a3a,63,Nisha,Kumar
+2025-06-22T23:03:37,Economy,spandex ,54,Cotton 100%,Pending,c774f48c-50a8-4675-9dbb-8729d0d051c3,389,Arun,Deepak
+2025-06-13T13:56:53,premium ,linen,966,Nylon 40%,Pending,068174d0-c7ba-46a2-bc12-5f8791ea085a,291,Ravi,Anita
+2025-06-15T18:23:45,Premium,Spandex,548,20%,Cancelled,fa1231c4-448a-491a-a957-cdae184cb3a8,536,Sundar,jogoco
+2025-06-16T17:35:42,premium ,Spandex,873,Cotton 50%,Pending,d2b9a58a-bfa6-4728-bf6e-f966c781c957,186,Priya,Sara
+2025-05-08T02:47:35,Standard,Plain,994m,Silk 60%,Pending,feb53267-0d3a-45dd-aef3-989da0fcf5a2,294,Priya,qilyze
+2025-06-14T17:06:25,premium ,linen,107m,Silk 60%,Cancelled,b13b05de-77e4-468f-ae2f-a8586fb49d9e,428,Mukilan,Tom
+2025-05-03T14:33:36,Economy,Spandex,820,Polyester 80%,Confirmed,35ff48a5-c8ce-4fad-84b6-eecb03645569,529,Nisha,Deepak
+2025-06-18T11:07:35,Standard,linen,411m,Nylon 40%,Cancelled,5d0e612d-724c-4aae-bf85-8d6b7eafc4ec,302,Arun,jogoco
+2025-06-04T07:10:51,Stand,spandex ,308,Cotton 50%,Pending,4b75a62c-5a43-443e-928c-58c499b3e948,208,Nisha,Kumar
+2025-05-12T16:06:35,Standard,Plain,316,Cotton 100%,Confirmed,711d7ebc-800b-4a7b-8ea1-4ffead4dec27,282,Mukilan,Jhon
+2025-06-23T06:10:08,Stand,Denim,152m,Viscose 70%,Pending,8116ee3e-0557-4814-b067-63f0b57d57ee,133,Nisha,Kumar
+2025-05-01T08:45:37,Economy,Denim,340m,Polyester 80%,Cancelled,da8e06a8-3b0c-44c0-9e10-2fb2ac023ffe,480,Mukilan,jogoco
+2025-05-07T10:49:26,Standard,spandex ,911,Viscose 70%,Cancelled,fc37d08c-8ab5-4408-a990-2973d6faa244,133,Priya,jogoco
+2025-06-08T23:41:58,Premium,spandex ,168,Cotton 50%,Confirmed,3247cce5-182e-4d84-a63d-b3dd52f96852,565,Sundar,Kumar
+2025-06-18T19:51:08,Premium,Linen,288m,Viscose 70%,Pending,e35937f3-6c89-43e1-bafa-fa3a02e82096,108,Arun,Deepak
+2025-05-17T00:21:27,Primium,Plain,282m,Silk 60%,Confirmed,d4986ec6-40eb-4fce-8910-f71002cc3b9f,576,Mukilan,Anita
+2025-05-09T07:21:33,Standard,Denim,676m,20%,Confirmed,38d4a3b9-b570-473a-a49d-083c8a344e38,349,Mukilan,Jhon
+2025-06-04T22:55:56,premium ,Twill,768,Cotton 100%,Pending,74a39b1b-6ea4-4f9f-98b2-603899a13c66,536,Mukilan,Sara
+2025-06-11T06:49:48,premium ,Satin,264,Nylon 40%,Cancelled,2af940cd-2e02-42fc-a1c7-ffbf210d55f7,216,Priya,Anita
+2025-06-30T14:57:17,Economy,Spandex,377,Nylon 40%,Pending,9a208302-8e82-4806-9968-0f32b8502d17,187,Mukilan,jogoco
+2025-05-06T02:53:51,Premium,Spandex,439m,Viscose 70%,Cancelled,346d6acc-a6a8-461e-9c06-3cf0abae8429,418,Priya,jogoco
+2025-05-03T10:04:32,Premium,Plain,873m,20%,Cancelled,c5514e21-d346-4ca4-aa80-d8c7efc0ec27,131,Sundar,Kumar
+2025-05-11T13:24:54,Stand,Satin,975m,Cotton 100%,Pending,5fcbbb63-8d3a-4bf3-932f-b618a046d657,432,Nisha,Kumar
+2025-06-25T04:51:54,premium ,linen,99m,Viscose 70%,Pending,fcc2f781-539d-4387-9980-544aa608d51d,558,Nisha,Deepak
+2025-05-29T09:59:56,premium ,Crepe,517m,20%,Pending,ea78a05b-ae78-49d3-9e62-ce12df67688e,330,Priya,Deepak
+2025-05-16T21:40:24,Stand,Plain,447m,Silk 60%,Cancelled,99e25f42-e0e8-4f0b-8f74-a69cfb765303,362,Priya,Kumar
+2025-06-01T17:27:41,Stand,Satin,423m,Cotton 100%,Confirmed,c0ff354d-bf81-4f72-9d17-82300d81465c,240,Arun,Anita
+2025-06-21T09:52:04,Stand,Crepe,462m,Cotton 100%,Confirmed,18f32af0-a42f-4099-b568-db44135d0527,588,Ravi,Anita
+2025-05-17T10:47:51,Stand,Twill,981m,Cotton 100%,Cancelled,731ad571-0672-4d6e-8a46-4482df4c6a19,226,Mukilan,Sara
+2025-05-18T16:03:10,Primium,Denim,588,Polyester 80%,Cancelled,0ef8b3e7-61e3-4204-a73b-ccf664cfacc7,257,Priya,Tom
+2025-05-29T10:01:13,Premium,Spandex,935m,Silk 60%,Pending,1818cce2-237c-4725-848b-a2cef8b2f01e,87,Ravi,Sara
+2025-06-19T18:44:09,stand ,Twill,290m,20%,Cancelled,9303bfbc-c84d-4ea3-b132-f0ba4e4924d1,97,Priya,Jhon
+2025-05-14T03:46:07,Stand,Crepe,738m,Viscose 70%,Pending,8b8f30fb-2517-4882-a179-0087923ac474,187,Mukilan,Deepak
+2025-06-01T11:58:32,Stand,Twill,747,Viscose 70%,Confirmed,af3b2b9f-4187-46a5-aee2-a635039b2ece,180,Nisha,Sara
+2025-05-08T22:24:11,Stand,Satin,344m,20%,Pending,266eec54-3380-4c78-83bc-919919dbff4f,118,Ravi,jogoco
+2025-06-02T02:38:47,Economy,Satin,987m,Cotton 50%,Cancelled,40c7e3c5-61b7-4ed0-965f-84933ab96f6e,281,Nisha,Kumar
+2025-05-08T09:11:35,Stand,Satin,348,Viscose 70%,Cancelled,b48c3610-a215-42d2-8767-742778d9e902,98,Arun,jogoco
+2025-05-07T19:19:41,premium ,Satin,409,Cotton 100%,Confirmed,14b6f985-4789-44e6-a46b-19380ba5e051,424,Mukilan,Deepak
+2025-06-21T06:57:11,Premium,Linen,543,20%,Confirmed,8f1fadc7-49dc-4f32-a326-e31e7704797e,157,Priya,qilyze
+2025-05-10T17:16:23,Economy,Crepe,602,Cotton 100%,Cancelled,cafd086d-ae90-4a2d-bb27-5cc6b7effa0e,298,Mukilan,Jhon
+2025-05-07T16:53:00,Standard,Crepe,585,Polyester 80%,Cancelled,f5a419e8-d387-4049-a375-7db1531c0efd,217,Arun,Deepak
+2025-05-31T00:09:07,Standard,Plain,320m,Polyester 80%,Pending,e2106d7d-1679-471c-bfb6-25a6525c73ef,294,Mukilan,Anita
+2025-06-11T08:48:17,premium ,Crepe,261,Cotton 50%,Pending,ec629ceb-e437-4fa2-a1fb-a647798873d1,272,Arun,Kumar
+2025-06-25T12:47:22,premium ,Twill,234,20%,Pending,16ee6911-9585-4722-a063-a62e09d8699f,227,Nisha,Anita
+2025-05-31T01:15:34,Economy,Plain,963,Silk 60%,Pending,2eca160b-7a5b-4ce7-995c-f8cba617f659,278,Ravi,Sara
+2025-05-06T17:46:13,Standard,Satin,197m,Silk 60%,Confirmed,82efcd58-e96d-4305-b112-306a33f5c99a,114,Arun,Anita
+2025-06-01T18:52:18,premium ,Denim,792m,Cotton 100%,Cancelled,41fec5ac-e9fa-4764-bf18-8f3555404e0f,101,Priya,qilyze
+2025-05-27T13:32:34,Premium,Linen,482,Nylon 40%,Cancelled,381f0b2d-a054-4507-a6bd-af979b9cd570,526,Mukilan,Kumar
+2025-06-25T13:51:32,stand ,spandex ,218,Cotton 100%,Cancelled,e788100f-8466-4f8c-92b5-e338be636d8d,512,Priya,Anita
+2025-06-25T04:07:08,Premium,Satin,528,Cotton 100%,Pending,2770a285-4bff-4057-8e99-a7ca7b4ca250,577,Sundar,Tom
+2025-05-15T11:31:44,Primium,Twill,852,Cotton 50%,Cancelled,d58fe4d3-bfee-459d-b4a0-53a5ffe50ee1,552,Sundar,Kumar
+2025-06-13T12:35:10,Economy,Twill,950,20%,Confirmed,d0f10af7-1d53-4fe4-9a6b-fe769c0bd42d,464,Nisha,jogoco
+2025-05-01T06:48:13,stand ,spandex ,868m,Cotton 100%,Cancelled,34ce0c32-d237-49a0-820a-95643c7a8e8d,555,Mukilan,Jhon
+2025-05-30T18:58:44,Economy,spandex ,205,Cotton 100%,Confirmed,f835dcfb-9838-44c3-935f-6e1b96673c5f,130,Arun,Deepak
+2025-06-01T13:07:39,Primium,Plain,549,Cotton 100%,Confirmed,ca598f6b-edd5-4bda-9253-1ef350003396,292,Priya,Deepak
+2025-06-29T12:54:26,premium ,Satin,773,Silk 60%,Pending,2db4b3c7-8449-4b45-91e2-2391e09890ba,292,Ravi,Kumar
+2025-05-23T18:55:18,Standard,linen,943m,Viscose 70%,Pending,3cf68754-1c21-42bc-903b-3348f890a85e,102,Ravi,Tom
+2025-06-06T18:06:04,Premium,spandex ,708,Cotton 50%,Cancelled,f688ab45-57ee-44d1-b1cd-48d2a89f0eb7,505,Mukilan,Sara
+2025-05-09T00:57:41,premium ,Denim,309,Viscose 70%,Confirmed,05a73510-c4c8-4fe5-b50e-c130ba058b1a,142,Sundar,qilyze
+2025-05-26T11:15:00,stand ,Denim,194,Nylon 40%,Cancelled,77de7f23-7663-48ae-95c5-7585770e5986,480,Priya,Deepak
+2025-06-30T18:14:56,Economy,Denim,855,20%,Pending,8c34e77e-5a0c-4a44-925d-aacf50bcb614,422,Mukilan,Kumar
+2025-05-06T14:06:22,Premium,Twill,462m,Nylon 40%,Pending,b0422e8d-3674-47c3-b8c2-df26e534f702,73,Mukilan,Anita
+2025-05-14T03:06:22,Primium,Plain,266m,Viscose 70%,Cancelled,3a9331b8-75ac-498d-8b86-7dbd1037ade7,173,Priya,Sara
+2025-06-03T05:54:29,Premium,spandex ,918m,20%,Cancelled,63f0382a-ee63-4b42-93c7-918b2ce557dd,596,Priya,jogoco
+2025-06-19T17:49:22,Standard,Plain,587,Silk 60%,Pending,675cab20-8878-437a-82ad-6a7468715aa5,422,Priya,jogoco
+2025-06-09T05:15:19,Primium,Twill,218m,Nylon 40%,Confirmed,7b34154a-04aa-44fa-8ead-e5ebd3855ce5,494,Priya,Deepak
+2025-06-03T21:44:11,premium ,Spandex,810m,Cotton 100%,Cancelled,f10a35df-938c-46d6-88cf-ae1aa80aefb1,121,Priya,jogoco
+2025-06-02T13:52:56,Stand,Spandex,511,Cotton 50%,Confirmed,f5de50eb-5373-437c-9692-bd4fac95f959,226,Ravi,Sara
+2025-05-08T00:20:44,Economy,Satin,892m,Viscose 70%,Confirmed,e6897ca0-abfc-4acc-be98-90d7e3cbac58,126,Arun,Jhon
+2025-06-29T23:40:29,stand ,Twill,988m,20%,Pending,639d5fa7-058c-4543-b7d9-7cd5a53ca098,540,Nisha,qilyze
+2025-05-02T04:11:01,Economy,spandex ,871,20%,Pending,7782339f-fc1e-4b79-9fa9-14cf174172b0,563,Arun,qilyze
+2025-05-31T08:49:42,Primium,Satin,177,Silk 60%,Cancelled,22a6cac9-cf68-4ee8-a680-c427d4bb6eb2,304,Sundar,Sara
+2025-06-02T23:12:39,Premium,Linen,813,20%,Cancelled,4d1d8e20-cadd-4ab3-9c35-d3ebf9e7f2ce,486,Ravi,Tom
+2025-05-16T04:38:22,Premium,linen,535m,Nylon 40%,Confirmed,7f13a754-17be-45b0-a94d-49648e6dc69e,264,Sundar,Tom
+2025-05-18T01:12:39,stand ,spandex ,729,Polyester 80%,Confirmed,fa5f46e0-9a58-4694-bb0a-4c88e37a757c,181,Nisha,Kumar
+2025-05-04T14:51:05,Stand,Linen,314m,Nylon 40%,Confirmed,339bf09d-f69d-4457-b623-bf5f2afca115,593,Priya,Anita
+2025-06-07T00:15:34,stand ,Plain,283m,Polyester 80%,Cancelled,a29a091a-bed7-434c-b5e5-9c2b0ee98082,584,Ravi,Anita
+2025-06-15T22:40:35,Economy,Crepe,215m,Silk 60%,Cancelled,02772fa7-5a5d-4741-b897-555bd8494393,233,Mukilan,jogoco
+2025-06-29T15:44:10,Economy,Linen,724,Cotton 100%,Pending,db2bad5f-7e98-4f7c-8934-065082112a23,93,Mukilan,Deepak
+2025-06-26T07:39:41,stand ,Spandex,468,20%,Confirmed,1f484659-fba3-4e04-b649-442cea501197,420,Priya,Kumar
+2025-06-25T02:43:00,Standard,linen,240,Cotton 50%,Pending,612ae55c-f7b4-4ded-a15e-eb79661ec55f,413,Sundar,Jhon
+2025-06-27T21:22:52,Standard,Twill,973m,Nylon 40%,Cancelled,2ca15608-313c-4ba7-ac9e-b3cb39c0dae7,333,Ravi,Kumar
+2025-06-19T21:30:41,Primium,Crepe,858,Cotton 100%,Confirmed,a886669d-9618-4be9-89ac-0f5e8b87dadc,51,Arun,Jhon
+2025-05-02T13:50:20,Standard,Spandex,282,Nylon 40%,Pending,52fc80bd-f207-4ee6-a59c-00789ed01138,294,Sundar,Anita
+2025-06-21T11:42:52,Standard,Denim,146,Cotton 100%,Cancelled,9d0a64ab-d5d4-43c7-90b5-31c08307fb8c,132,Nisha,qilyze
+2025-06-26T22:35:05,Stand,Twill,234m,20%,Confirmed,4f30b7d3-2322-448f-8abf-996e81923b95,590,Ravi,Jhon
+2025-05-13T03:22:58,Premium,spandex ,206,Silk 60%,Pending,0622ef24-5a81-494f-9a9b-4329a10b9dd2,430,Mukilan,Anita
+2025-05-09T13:41:06,Primium,Plain,76,20%,Confirmed,1bfbf6db-5d91-428b-b0c2-c2f992b87269,129,Arun,Deepak
+2025-05-04T21:04:40,premium ,Denim,292,Nylon 40%,Cancelled,675c52ad-2a3c-45ec-8295-a7d178496fe1,453,Priya,Anita
+2025-06-09T10:09:40,Standard,Satin,863,Cotton 100%,Cancelled,b399bd02-39d2-4d37-8212-273e2aa10799,424,Nisha,jogoco
+2025-06-30T06:38:04,Premium,Twill,958,Cotton 50%,Confirmed,6b616e6f-3b53-4349-8da9-a4d9ed88fa41,288,Mukilan,Kumar
+2025-05-06T15:42:29,Stand,Crepe,269,Cotton 100%,Cancelled,6992d6b3-e4d3-4c59-bb67-6c686cb2b6fe,299,Priya,Tom
+2025-06-07T01:55:22,Economy,Twill,882,Cotton 100%,Confirmed,399edc79-9320-4607-9817-a1347d4f5150,272,Sundar,Anita
+2025-06-15T01:50:49,Primium,Linen,645,Cotton 100%,Confirmed,b2a21976-24b9-4ff9-b906-0c446ec9df6b,581,Arun,Jhon
+2025-05-23T21:29:18,Primium,Twill,293m,Cotton 50%,Pending,fe1a1517-5e6c-4b7e-9313-ebf966583fcb,423,Ravi,Sara
+2025-06-20T18:08:07,Primium,Linen,846m,Cotton 50%,Pending,4309f4ae-1050-451e-a89d-747894c52dab,188,Mukilan,qilyze
+2025-06-11T20:19:13,premium ,Plain,179,20%,Pending,170a07c9-62f2-4cac-bb97-38ca3c9511ef,404,Priya,jogoco
+2025-06-08T02:26:26,stand ,Crepe,279m,Polyester 80%,Pending,8950d67a-e467-42cd-ae80-7891c77dd178,92,Priya,Jhon
+2025-06-17T01:53:12,Standard,Twill,789,Silk 60%,Confirmed,cabfad3c-b684-411b-9df6-3a85efb57615,300,Arun,Tom
+2025-05-21T08:59:30,Premium,Linen,731m,20%,Cancelled,d94c133f-d8a6-4413-9930-c07698ed70dd,260,Ravi,qilyze
+2025-06-12T23:58:06,premium ,Spandex,174m,Cotton 50%,Pending,f9c529a1-220b-4116-b9b0-2b45fd45bbe2,555,Priya,jogoco
+2025-05-08T01:51:12,Primium,Spandex,546m,Cotton 50%,Confirmed,2a0651ac-fe10-424e-b6b6-07e172964821,166,Nisha,Tom
+2025-05-10T12:52:35,Stand,Linen,482,Nylon 40%,Pending,d42cc5b6-8551-43db-8bb3-1cddb11d3a1e,366,Priya,Jhon
+2025-06-19T04:23:16,Standard,Denim,232m,Nylon 40%,Cancelled,a243a5d8-e93c-442a-a3bb-93488b1593d3,417,Priya,qilyze
+2025-05-14T12:00:05,stand ,Crepe,411,Viscose 70%,Cancelled,8873bc42-7ba4-41c9-a89a-48ac2db70f52,323,Nisha,Tom
+2025-06-05T06:29:28,premium ,Denim,319m,20%,Confirmed,67e12c69-b5c6-40ea-9c1d-f45250da9aa0,521,Ravi,jogoco
+2025-06-13T02:42:11,Stand,Plain,823m,Nylon 40%,Confirmed,d8197693-1c18-4f0d-b859-2e3718b7f731,66,Mukilan,jogoco
+2025-06-12T02:49:41,Primium,Twill,915m,Cotton 50%,Confirmed,be910179-1b46-428d-b88b-65299a7fcefa,505,Sundar,qilyze
+2025-06-10T08:25:29,Stand,Linen,891,Silk 60%,Pending,2189963d-befc-4f51-b7ab-650e910389ca,523,Nisha,jogoco
+2025-06-19T11:55:16,Premium,Denim,838m,Cotton 100%,Cancelled,e0cda2df-7042-40de-b1ef-991ac373c14b,278,Nisha,Tom
+2025-06-14T07:11:54,Standard,Crepe,686,Viscose 70%,Confirmed,e3d5ccc4-cc68-4497-a476-9d5976ada5fc,508,Ravi,Anita
+2025-05-14T18:33:28,stand ,Denim,521m,Nylon 40%,Confirmed,7b87f228-8597-4d70-bbac-1f8b10575242,589,Mukilan,Deepak
+2025-06-24T23:56:46,premium ,Linen,265,Cotton 50%,Pending,aa725385-7f1e-48a9-ab70-a7f27e64a1ed,213,Mukilan,Tom
+2025-06-03T04:52:24,Primium,Twill,607,Nylon 40%,Cancelled,1eb206f8-4660-467f-88ec-28c618297d71,599,Ravi,Deepak
+2025-05-03T23:15:35,Economy,Crepe,687,Nylon 40%,Cancelled,096496b8-0793-4e8f-93e9-28681b8acb30,151,Ravi,Sara
+2025-05-09T16:06:07,Stand,Satin,292m,Cotton 100%,Confirmed,c72b9beb-1f96-4406-9766-152af6ba76ec,108,Sundar,Tom
+2025-05-25T10:27:03,premium ,Twill,848,Viscose 70%,Confirmed,c5717cfc-e4dd-464e-ad22-2c4bc1bd7421,62,Ravi,Anita
+2025-05-09T00:18:32,Premium,Spandex,915m,Cotton 50%,Cancelled,e466df7d-c6d2-4701-b455-8eb8bf488353,176,Ravi,qilyze
+2025-06-14T21:08:21,Standard,Spandex,500,Viscose 70%,Cancelled,affeed12-d255-4280-b312-70913cf5dda9,134,Nisha,Tom
+2025-05-30T10:29:11,Primium,linen,970m,20%,Pending,6a1c18b2-fe57-48ff-acd8-efc80c15c562,384,Priya,qilyze
+2025-06-03T21:36:50,Premium,Plain,559,Nylon 40%,Confirmed,6b66557f-64f3-4960-9c3e-3eb27ec5922b,131,Sundar,jogoco
+2025-05-06T14:12:37,Primium,Satin,225m,Silk 60%,Cancelled,c953b1e4-c00a-4304-85e7-92dc9acf1906,354,Mukilan,qilyze
+2025-05-10T06:59:35,Economy,Plain,169,Viscose 70%,Pending,e9e8c8a9-6c18-401b-9c34-51e530c19bf1,173,Nisha,Jhon
+2025-05-10T21:14:20,Premium,Twill,891,Silk 60%,Cancelled,e5348e31-5fe4-45a1-88c3-3f32da95ec1c,282,Priya,Anita
+2025-06-12T18:55:59,Premium,Crepe,553,Cotton 50%,Cancelled,fabf68cf-fbe3-4d35-9112-27ce0cd4376d,467,Arun,Sara
+2025-06-19T06:45:37,Economy,Spandex,974,Nylon 40%,Confirmed,dcc09680-ab9a-4c2d-bdc8-a614bf5edd6f,55,Mukilan,Kumar
+2025-05-14T19:53:07,Standard,spandex ,901m,Viscose 70%,Confirmed,111fca50-4b5a-4831-98a0-f261f10becdf,220,Sundar,qilyze
+2025-06-15T16:25:24,Standard,Satin,867m,Cotton 50%,Cancelled,1ca08ef6-77fa-4217-9188-60c951aa3ca9,256,Priya,qilyze
+2025-05-06T16:31:20,stand ,spandex ,872m,Viscose 70%,Confirmed,1f839303-287a-48c5-95bd-d437ea8d82a1,430,Sundar,Sara
+2025-05-16T22:47:05,Economy,Linen,499m,Cotton 100%,Confirmed,b849e56b-7d4d-4e84-a6a5-89f9ec698072,276,Ravi,Kumar
+2025-06-19T05:40:58,Standard,Spandex,995,Nylon 40%,Confirmed,bd443be5-ba87-463f-9dcc-f646e97011a3,56,Sundar,Deepak
+2025-06-26T19:53:03,Stand,Linen,352m,Nylon 40%,Pending,39508a3a-ac5c-4f9d-ac5d-3ec7ec8cd6e7,184,Mukilan,Anita
+2025-05-09T01:57:30,premium ,Twill,147m,Cotton 100%,Confirmed,d826c9cd-b85c-4a1b-9b84-8b5059449300,141,Sundar,qilyze
+2025-05-28T01:21:57,Premium,Crepe,846m,Viscose 70%,Cancelled,138785fd-83b4-4665-aff0-f6ff0be1ff04,520,Priya,Tom
+2025-05-15T21:57:55,Primium,Plain,178,Cotton 100%,Confirmed,a6be5457-b26d-4907-82eb-f71802a4fd9f,198,Ravi,Deepak
+2025-06-25T10:25:36,Primium,Satin,471m,Cotton 100%,Pending,c99b86e6-8e32-4ad8-927c-e9a8ea4a7410,268,Sundar,Jhon
+2025-06-07T11:04:38,premium ,Satin,676m,Cotton 50%,Pending,36f36afb-3f49-4dcb-9dac-07de0f6c9015,299,Ravi,Anita
+2025-06-29T09:27:47,Economy,spandex ,870,Cotton 50%,Pending,d3406e8c-3fa5-4763-aefb-b20bcc7dace7,207,Ravi,Deepak
+2025-05-29T13:23:07,Stand,Twill,414m,Cotton 50%,Cancelled,36490cd9-c95b-4b81-9142-a5766a27a957,172,Sundar,Sara
+2025-06-11T10:39:30,Economy,spandex ,599m,20%,Cancelled,63f48297-8db7-45ea-b032-49bb480e78c6,76,Arun,Deepak
+2025-05-27T06:41:06,Standard,Linen,302,Cotton 50%,Confirmed,6bceabb9-d45e-4b95-80ae-b0cf58b1558f,532,Arun,Anita
+2025-06-10T17:24:32,Primium,Crepe,407m,Silk 60%,Cancelled,1735a755-cff5-4ebc-880b-e8658aa036fe,586,Arun,Kumar
+2025-06-27T12:12:25,Premium,Plain,884,Nylon 40%,Pending,cc79c3c5-72c5-4571-b464-382b0bf03ed7,198,Arun,Tom
+2025-06-04T01:40:29,premium ,Linen,266,Silk 60%,Confirmed,2a0b9b7b-eba9-4333-9917-36614bbfbe3c,366,Nisha,Kumar
+2025-05-24T12:12:46,Economy,linen,948m,Viscose 70%,Cancelled,f8bd046c-1d3d-481f-a370-22b2264793b6,235,Ravi,Jhon
+2025-06-01T13:03:25,premium ,spandex ,901m,Silk 60%,Confirmed,25c5774e-a631-4407-80b8-6f2f2557eb73,283,Mukilan,Jhon
+2025-05-29T23:12:58,Economy,Spandex,485m,Nylon 40%,Pending,cfa80de6-b658-4410-b9c3-20da93c04a53,50,Sundar,Sara
+2025-06-09T22:55:52,Economy,Crepe,813,Polyester 80%,Cancelled,67cea2b9-8d38-4310-aaaf-6a00f60c77d2,397,Sundar,Tom
+2025-06-26T21:12:50,Economy,Twill,573m,Cotton 100%,Cancelled,f7ca74f7-0904-4ab3-9b3c-8c8a9521eff7,573,Arun,jogoco
+2025-05-01T21:09:26,stand ,spandex ,810m,Nylon 40%,Cancelled,f8aaf94c-cc09-46f9-af37-e1558eba7a09,101,Sundar,Kumar
+2025-06-16T23:52:34,Primium,Crepe,850,Nylon 40%,Cancelled,f4c17ecf-3ce2-48a9-b48d-0d30a0a57685,80,Mukilan,Tom
+2025-05-12T19:09:58,Standard,spandex ,396m,Viscose 70%,Confirmed,7fa91f5a-60c9-40ec-8ccd-2ab98d26a3cf,331,Ravi,Anita
+2025-06-26T01:12:22,Stand,Denim,721m,Cotton 100%,Cancelled,4f187d4b-5f89-4055-8192-2637e4738fc3,139,Sundar,jogoco
+2025-06-05T07:01:03,Premium,spandex ,623m,Viscose 70%,Confirmed,15daf133-9526-4352-bc04-bb886dab1cc8,150,Arun,Kumar
+2025-05-06T12:30:51,Standard,Spandex,999m,Viscose 70%,Pending,c99ef062-f67d-4937-a9c6-80cc1146a329,525,Mukilan,Jhon
+2025-06-24T12:57:18,Standard,Spandex,408,Silk 60%,Pending,bf539b90-628d-4086-bdfe-a8db9111c193,101,Ravi,Anita
+2025-06-05T03:00:40,Stand,Spandex,758,Silk 60%,Pending,8f3eecbb-cc01-4bde-9387-5bd2b5d2d9d3,581,Ravi,Kumar
+2025-06-19T15:39:47,Stand,Denim,987,Cotton 50%,Pending,1b03e85c-988f-41f8-9897-ee47acc0db2a,474,Sundar,Deepak
+2025-06-24T22:48:43,Stand,Spandex,79,Cotton 50%,Confirmed,89cd368c-67de-4621-b678-671daa7ad98f,487,Sundar,qilyze
+2025-06-22T02:12:54,Economy,Spandex,589m,Polyester 80%,Pending,1abc4852-729e-4c0e-bbac-30de1beac18d,373,Sundar,Tom
+2025-05-25T09:33:03,premium ,spandex ,334m,Polyester 80%,Confirmed,d78fde0e-9578-46fe-b8fe-e55435945350,122,Arun,qilyze
+2025-05-25T10:28:34,Economy,Denim,132m,Cotton 50%,Pending,20e04fc2-da62-4706-b560-bcb4ab1d6b8f,113,Nisha,qilyze
+2025-05-29T16:22:15,stand ,Twill,495m,Viscose 70%,Pending,c132f83a-a6eb-4886-9ff4-833f7866f00c,354,Sundar,Kumar
+2025-05-07T22:16:33,Stand,linen,376m,Nylon 40%,Confirmed,350d5738-2988-417e-847e-780123cf9430,548,Ravi,qilyze
+2025-05-27T02:36:08,Premium,Twill,689m,Cotton 50%,Pending,a8a6c7ae-f370-4912-91fa-36b7d7ff6357,571,Priya,jogoco
+2025-05-24T07:03:30,stand ,Twill,557m,Cotton 100%,Pending,d1327ead-3679-4ccb-bc21-c77ef58c89ce,530,Nisha,Jhon
+2025-05-31T14:07:44,Standard,Spandex,279,20%,Cancelled,91745777-fba8-4c57-8136-9a63f9fc85bc,292,Nisha,Tom
+2025-05-21T10:58:36,Stand,linen,655,Cotton 50%,Confirmed,e2b90638-6d3a-4ffe-b063-80ef517a54ca,251,Arun,qilyze
+2025-06-26T05:25:56,Premium,linen,829m,Cotton 50%,Confirmed,bab984e3-537c-4fee-97d4-0575563e3afc,162,Priya,Anita
+2025-05-15T16:40:04,Standard,spandex ,441m,Cotton 100%,Pending,25cdb271-79e7-496f-b022-f9698a8c37ed,209,Ravi,qilyze
+2025-06-13T13:12:52,stand ,spandex ,416m,Cotton 50%,Cancelled,a84bc2fb-be3a-44a6-919d-c986a6cff7b8,334,Ravi,Deepak
+2025-05-23T04:55:27,Premium,Plain,405,Cotton 50%,Confirmed,bbe2f50e-61e6-431d-92cf-39c54789459c,190,Sundar,jogoco
+2025-06-09T21:12:55,Primium,spandex ,641m,Silk 60%,Confirmed,867736f4-43e1-471e-a1aa-7b47a549d3c0,248,Arun,Sara
+2025-06-24T09:45:52,stand ,Plain,272m,Nylon 40%,Confirmed,1e930279-796f-4c56-a3f0-11a616c06e21,114,Nisha,Tom
+2025-05-08T23:14:35,premium ,Twill,831,Silk 60%,Pending,dd60a50d-43b8-4496-aba5-99c64dd30272,346,Arun,Deepak
+2025-05-07T05:49:47,Premium,Satin,561m,Viscose 70%,Pending,e66896c9-0b8f-469f-a4d5-441cdc38b5db,401,Nisha,Deepak
+2025-05-07T02:26:40,Premium,Plain,715m,Viscose 70%,Pending,66adaf75-f1e7-47c0-894e-4361214c7d7f,528,Mukilan,Kumar
+2025-05-06T18:51:41,premium ,Crepe,944m,Cotton 100%,Confirmed,12cb1a14-7de8-43f4-9f0a-b5f56d0c19b6,413,Ravi,Deepak
+2025-05-27T02:10:56,premium ,Spandex,469,Nylon 40%,Pending,e958e952-9e20-4ace-8984-af2110784823,230,Sundar,qilyze
+2025-06-29T02:28:07,Economy,Satin,867m,Cotton 100%,Cancelled,54cf1945-912a-49c2-8893-ebb59cdef108,121,Sundar,Sara
+2025-05-27T02:38:55,Primium,Crepe,286,20%,Pending,0899d9cb-9820-487e-9a2e-41522960371d,522,Arun,Kumar
+2025-05-07T11:23:44,stand ,Denim,190m,Cotton 100%,Pending,bbce7b59-34a7-4d15-be9b-caa9046af4e9,134,Priya,Jhon
+2025-06-20T00:06:11,stand ,spandex ,444,Polyester 80%,Confirmed,c9425234-8076-4bd6-b4d0-08c84e9fa6ee,75,Sundar,Kumar
+2025-05-08T22:56:33,Premium,Crepe,657m,Polyester 80%,Pending,846a9058-c514-4fc1-b367-7d449e28ad69,479,Sundar,Deepak
+2025-06-10T23:54:37,Premium,Plain,299,Viscose 70%,Confirmed,555176e7-949e-4730-92d6-e09742e3d6e1,494,Mukilan,Sara
+2025-06-29T04:13:29,Premium,Plain,599m,Nylon 40%,Confirmed,30d4bcfb-a72d-4948-828d-6c64090ce0bd,372,Nisha,Jhon
+2025-05-22T03:44:46,Standard,Linen,527,Polyester 80%,Pending,af7a5bbc-3217-4f7b-a6f7-3e1c355a6872,497,Arun,Tom
+2025-06-07T20:27:29,Premium,Plain,242m,20%,Confirmed,7efd45b2-e28f-4fbd-8300-96aa64c7f331,319,Nisha,jogoco
+2025-06-06T13:51:32,stand ,Plain,415,Viscose 70%,Confirmed,0fdc5a5f-0c97-4216-9a79-36cfb9e316a0,95,Mukilan,jogoco
+2025-05-11T21:45:48,premium ,Spandex,855m,Silk 60%,Cancelled,2250d495-2465-40be-8054-999744be1ff4,73,Mukilan,jogoco
+2025-06-08T20:12:36,Standard,Spandex,980m,Viscose 70%,Cancelled,9389a0bb-aa3f-4e9a-879c-982a9779aadf,479,Priya,jogoco
+2025-06-10T14:32:58,stand ,linen,590,20%,Cancelled,fa80ecf0-a316-49c8-8f54-cb31617356dd,396,Ravi,Sara
+2025-05-06T02:37:52,Standard,linen,485m,Cotton 50%,Confirmed,27a93306-eee7-4c39-8493-18d7a088768a,211,Nisha,Anita
+2025-05-12T15:07:18,stand ,Satin,588,20%,Confirmed,589f25d4-028a-4a61-9d7f-5cc1f384420c,414,Sundar,qilyze
+2025-05-19T15:10:27,premium ,Crepe,466,Polyester 80%,Pending,81b6047f-ebba-4845-b8a3-e520e4a524fe,131,Mukilan,Jhon
+2025-06-06T07:56:29,premium ,Crepe,892,Silk 60%,Confirmed,63f4f957-28d1-438d-9df3-65ad12ae5bbc,66,Sundar,Anita
+2025-05-27T12:30:10,Stand,Plain,946m,Cotton 50%,Confirmed,87cbf36b-70f4-4d3c-adb5-222972bc3fb1,240,Arun,qilyze
+2025-05-02T19:54:28,Premium,Twill,293m,Cotton 50%,Cancelled,53b904d6-c227-476f-8ec2-f4863f92a94c,503,Sundar,Kumar
+2025-06-21T16:32:09,Economy,Denim,447,Silk 60%,Confirmed,a7a3b311-25df-4bca-b57f-954332cb8bd2,71,Priya,Deepak
+2025-05-12T23:10:34,premium ,Twill,271m,Viscose 70%,Cancelled,e0c57fc1-71d0-4232-9da3-2d32d2d11d7b,494,Arun,Sara
+2025-05-21T06:01:30,stand ,Crepe,688,20%,Confirmed,fffe26ce-b2a3-4992-a7b7-ff1e3ec43f36,582,Nisha,Jhon
+2025-06-11T13:00:16,Primium,spandex ,217,20%,Confirmed,890fd95d-4562-42f2-ae19-ab7fa5dc592b,494,Priya,Tom
+2025-06-23T03:20:56,Standard,linen,788m,20%,Cancelled,5894f706-eed0-48d8-bbd1-02ab2f46c20d,461,Arun,Anita
+2025-05-31T01:31:02,Primium,Spandex,718,Viscose 70%,Cancelled,e0ef4315-e80b-4863-9a67-975c0362d753,237,Ravi,Anita
+2025-06-28T20:05:36,premium ,spandex ,405m,Silk 60%,Pending,343b6643-3ff8-4efc-9376-4bea7b70a06b,383,Nisha,jogoco
+2025-05-30T15:23:09,Premium,Denim,480m,Viscose 70%,Confirmed,7fe4a2f0-617f-48ba-bcdc-926ce8329181,556,Priya,Deepak
+2025-06-27T19:05:13,premium ,spandex ,616m,Polyester 80%,Confirmed,1bbf8b5b-4492-47ed-9ac3-95e7ae3cc83c,590,Sundar,Sara
+2025-06-16T11:25:00,Primium,linen,524,Cotton 100%,Cancelled,6d88e48c-3f59-49f8-9a71-9371047d1eb5,183,Nisha,Tom
+2025-06-10T22:17:57,Primium,linen,813,Nylon 40%,Confirmed,56d162bc-84ba-471e-99d1-ac8974168458,489,Priya,Deepak
+2025-06-19T15:34:01,Stand,linen,986,Silk 60%,Cancelled,6add89be-8d5e-48f2-9d15-48afd38879f2,482,Priya,Sara
+2025-05-03T03:46:10,Economy,linen,477,20%,Pending,2c7cf674-b90f-4a9e-908c-c1d938093f5d,209,Ravi,Anita
+2025-06-18T05:59:00,premium ,spandex ,515,Nylon 40%,Confirmed,ac116eb7-71ad-4d65-a2d4-4efedf08fff6,465,Ravi,Tom
+2025-05-24T02:25:18,Standard,Twill,929m,Viscose 70%,Cancelled,02c6613f-e1eb-40bf-aa4b-02d6306b389b,347,Arun,qilyze
+2025-05-08T11:12:20,Stand,spandex ,693,Cotton 50%,Pending,afdcb48c-11e2-42f9-bccc-6c50fa5d13e5,130,Arun,Kumar
+2025-06-15T13:26:16,Economy,Twill,799,Polyester 80%,Pending,89c750ec-886a-4a8c-8d9b-0bbc8b6aa246,586,Ravi,jogoco
+2025-06-10T20:33:56,Premium,spandex ,108m,Cotton 100%,Cancelled,7a954981-fe90-4e85-8a29-1e0bd451b384,112,Mukilan,Kumar
+2025-05-21T07:11:54,Premium,Crepe,259,Viscose 70%,Confirmed,bfab555f-50dd-46c3-802b-b2e9b99bdcb6,511,Ravi,Kumar
+2025-05-04T10:04:06,Stand,Spandex,660m,Cotton 50%,Confirmed,66bdf3d0-8a22-49b5-a871-39da58b78dd7,529,Ravi,qilyze
+2025-05-14T19:57:37,Standard,Twill,519m,Viscose 70%,Pending,63a20e4b-61dc-45d2-846e-c952606df647,209,Mukilan,Jhon
+2025-06-12T13:40:33,Economy,Crepe,477m,Viscose 70%,Pending,28ed897c-55d4-46be-81be-ee56ad0684c0,361,Ravi,Anita
+2025-06-27T03:01:46,Primium,Crepe,884m,Cotton 100%,Cancelled,1813268a-a32a-4610-875c-6162cb23bacb,210,Sundar,Deepak
+2025-05-13T22:09:08,premium ,Linen,274m,Cotton 50%,Cancelled,69bddcd8-abb3-45e5-9e90-f4ea3b60221e,251,Nisha,Jhon
+2025-05-15T12:07:45,Primium,Linen,521,Cotton 50%,Pending,196b487f-bfc9-464d-9e83-4547ae420c81,289,Ravi,jogoco
+2025-05-16T16:12:18,premium ,Satin,284m,Silk 60%,Pending,16ce9c0a-6f76-405c-a548-a1c55d6b19ab,559,Priya,Deepak
+2025-06-15T15:44:53,Economy,Twill,64m,Nylon 40%,Confirmed,a73a169b-c75e-461b-9216-595232a0449d,136,Arun,Sara
+2025-05-06T06:13:16,Standard,linen,454,Silk 60%,Cancelled,2f7ba05a-05c8-4bab-bcfb-2074c7d8c5b9,159,Mukilan,jogoco
+2025-05-17T13:28:49,Premium,Spandex,446,Polyester 80%,Confirmed,3a99567f-40df-41e0-9ae9-d49af5dac404,387,Priya,Kumar
+2025-06-08T13:00:47,stand ,Plain,398m,Cotton 100%,Confirmed,1c04c9c2-dbee-4db5-9347-615c6552b792,227,Nisha,Deepak
+2025-06-26T19:56:46,Primium,spandex ,362,Cotton 50%,Pending,c7edc7f3-8d67-4692-8cf8-ddb36fde6077,308,Sundar,Kumar
+2025-05-08T01:28:07,Economy,Plain,571,Nylon 40%,Pending,50d9f3c2-65c7-4177-9f1a-2c7e0e09061f,358,Mukilan,jogoco
+2025-05-29T05:59:56,Economy,Spandex,580,Cotton 50%,Pending,0ec0cba4-80eb-4455-9670-8d5a1cdad642,471,Arun,Sara
+2025-05-11T16:36:03,Economy,Denim,195m,Cotton 50%,Cancelled,dbc62f7c-8bac-4100-9b37-f3b377ecb751,95,Sundar,Tom
+2025-06-12T08:23:16,Economy,spandex ,112m,Cotton 50%,Pending,6fb690a4-eb8b-4c6b-93cc-23a79381ef55,413,Priya,Kumar
+2025-05-28T22:03:46,premium ,Satin,875,Viscose 70%,Confirmed,584a0b92-0933-497c-98bc-ee1234fea14f,533,Nisha,Kumar
+2025-06-05T03:34:50,Standard,spandex ,542,20%,Cancelled,21f6bf72-ed39-4276-9b56-bee00b03dac3,381,Nisha,Sara
+2025-05-08T14:51:18,Standard,Crepe,142,Polyester 80%,Confirmed,16942cca-dcd9-41da-9419-b8b3353e2c35,326,Priya,Tom
+2025-06-13T19:18:03,Standard,linen,859m,Silk 60%,Confirmed,cfe4d346-ef7d-49de-86f1-1736b06b2058,332,Mukilan,Sara
+2025-05-08T22:46:13,Primium,Denim,414m,Cotton 50%,Confirmed,01067d4f-c60d-4c3d-8edb-a13d6a4774cc,121,Sundar,jogoco
+2025-06-26T00:57:20,stand ,spandex ,59m,20%,Pending,933ea569-0131-4aa8-94ea-fa363b6d1a28,385,Priya,Jhon
+2025-05-28T23:31:14,Premium,Spandex,523,20%,Confirmed,925cef0e-6f19-4bc4-bc31-3d669626b0b9,500,Ravi,Tom
+2025-06-07T17:30:40,premium ,Linen,483,Silk 60%,Pending,99baf821-884d-44b1-a015-5d8143948a8e,113,Sundar,Anita
+2025-06-22T19:44:03,Premium,Linen,690m,Cotton 100%,Pending,46b5df3a-391e-4041-8f61-79f51bfc39e1,306,Nisha,jogoco
+2025-06-25T14:36:51,Stand,spandex ,896m,Nylon 40%,Cancelled,0a18ef9b-fa1e-4f86-a756-873fbfe354d5,480,Sundar,jogoco
+2025-05-07T11:50:48,stand ,Denim,761m,Cotton 50%,Confirmed,d48a4365-22ab-4b8b-928f-37da4087292c,99,Nisha,Tom
+2025-05-08T10:04:32,Standard,spandex ,224m,Cotton 100%,Pending,5e62e41b-ec14-4662-8a4f-6338245d1af3,326,Ravi,Anita
+2025-06-10T20:11:46,Primium,Twill,389,Cotton 50%,Confirmed,7520cf22-528c-4595-8fba-b1fab6734f30,343,Priya,Anita
+2025-05-16T23:21:45,Stand,Linen,296m,20%,Confirmed,5a7bbcb7-0db1-4fbf-900e-50afbf558c95,152,Mukilan,Deepak
+2025-06-19T16:43:15,stand ,Plain,375,20%,Cancelled,3a3de32f-d6fd-4b8d-9b1d-55df9268dc6f,260,Sundar,Anita
+2025-06-29T06:03:34,Stand,Plain,171,Nylon 40%,Confirmed,4b710e9d-961c-463a-8a12-33533f756910,397,Mukilan,jogoco
+2025-06-25T07:07:15,Stand,linen,923,Silk 60%,Pending,05611759-7ba3-48b0-aaca-b4c78cbf6889,223,Arun,Sara
+2025-06-04T20:43:25,Stand,Plain,135m,Polyester 80%,Confirmed,3ac2a509-44cb-4c99-ae38-fc54ea7d8082,50,Nisha,Sara
+2025-06-05T05:37:42,Stand,linen,102m,20%,Confirmed,87d5df59-57aa-4530-8c06-2937cdaa5951,99,Sundar,qilyze
+2025-06-10T05:50:54,Premium,linen,51,Cotton 50%,Confirmed,d6c89be2-f4a2-426f-a456-3082cf9a93fe,272,Arun,Kumar
+2025-05-10T16:18:55,stand ,Twill,192,20%,Cancelled,40f5c467-163f-4509-b1c8-d7a7434e26c7,338,Nisha,Jhon
+2025-05-17T00:04:08,stand ,Crepe,214,Silk 60%,Cancelled,cf6e714b-c558-4cb6-80b4-56c49be96db9,575,Nisha,jogoco
+2025-05-24T21:24:10,Primium,Twill,917m,Cotton 100%,Cancelled,b87e9833-aa81-4c2f-9a29-be1aa4a8a3c1,369,Mukilan,qilyze
+2025-06-09T00:47:35,Stand,Spandex,593m,Cotton 100%,Confirmed,d22bd8c3-b1ac-4a51-94d1-b3545fc9383e,123,Sundar,Anita
+2025-06-15T13:17:34,Stand,spandex ,576m,Cotton 100%,Pending,918641d2-68d4-43ab-9cd6-b4f0f4b1cff6,429,Priya,Sara
+2025-06-13T22:14:58,Economy,Satin,325m,Nylon 40%,Cancelled,599cedf9-eff5-4c4d-b2e8-3c0f1d54d32a,433,Sundar,Kumar
+2025-06-03T06:11:28,stand ,Denim,113,Nylon 40%,Cancelled,2c1bcf81-9e72-48c6-882b-5387679874c0,368,Priya,Deepak
+2025-06-14T13:11:36,Premium,Linen,868m,Silk 60%,Confirmed,dd396b62-2ad8-415d-816b-89c4ee292d79,315,Sundar,Deepak
+2025-05-14T04:53:22,stand ,Twill,730m,Cotton 100%,Confirmed,b127d2df-fb6e-48c6-ab77-650f658bec4f,365,Nisha,qilyze
+2025-06-13T20:24:06,stand ,Denim,257,Nylon 40%,Confirmed,2066aa9b-dfc5-4e34-8a0a-ef1da01b1ca8,255,Mukilan,qilyze
+2025-05-28T06:43:22,stand ,spandex ,226,Cotton 100%,Cancelled,02199713-df92-4995-b9b3-a543bd1b270a,375,Arun,Sara
+2025-06-15T07:24:56,stand ,Satin,602,Viscose 70%,Confirmed,b0e26e0e-8dcf-4212-a46d-59d18c1199a3,235,Sundar,Kumar
+2025-06-09T05:01:24,premium ,Satin,740m,Polyester 80%,Cancelled,8b6cfa54-6d4e-4d75-83e5-a6565c2af1e9,482,Priya,Anita
+2025-05-04T15:20:51,Standard,spandex ,886,Cotton 50%,Pending,0666ad42-d746-4117-8ada-2923efb00035,316,Sundar,Sara
+2025-05-14T22:52:07,stand ,Plain,704m,Cotton 100%,Pending,7ab1bfc5-59dc-4bf1-bcfc-fdb8eb4dbbfd,478,Arun,Tom
+2025-06-23T19:56:02,Stand,Spandex,159,Nylon 40%,Confirmed,a02fadd5-5f7f-4460-964c-7aabf7d2b088,321,Nisha,Jhon
+2025-05-21T21:19:14,Premium,Satin,549m,Polyester 80%,Confirmed,94badf48-00e3-4a31-88ac-3a41b71f0035,240,Priya,Anita
+2025-05-10T12:12:53,stand ,Linen,299m,Viscose 70%,Pending,8dff3a60-86a1-48b6-a66c-2d1566a9468f,390,Arun,qilyze
+2025-06-26T14:18:21,stand ,Crepe,59,Cotton 100%,Confirmed,a58166f1-9af1-471e-8b46-a5c870f3c158,443,Mukilan,qilyze
+2025-06-26T05:35:41,stand ,spandex ,320m,Nylon 40%,Pending,87a3454f-15c3-422d-8653-4f6dab0f1e07,156,Sundar,Deepak
+2025-05-09T03:04:58,Premium,linen,878,Silk 60%,Cancelled,a928bb26-7d60-4fee-8862-3517e7c69955,421,Sundar,Anita
+2025-05-29T21:37:02,Stand,spandex ,999m,Nylon 40%,Pending,9e3daad1-b00d-405c-8730-d1dc6220445e,213,Sundar,Deepak
+2025-05-27T17:07:38,Economy,linen,779,Cotton 50%,Confirmed,02367d73-880d-4cdd-9eab-7c309006617e,505,Priya,Anita
+2025-05-28T06:27:03,Primium,Linen,331,20%,Confirmed,8338fe50-9192-434e-bee1-a566aef82b1e,73,Sundar,Anita
+2025-06-01T10:04:39,Stand,Plain,844m,Viscose 70%,Pending,25d938d0-b02a-4e94-82a6-bde5a4b7cd28,259,Ravi,Tom
+2025-06-07T16:01:17,premium ,Plain,307m,Cotton 100%,Pending,fdea569a-a8fb-42a5-ad7f-0f859d3032be,580,Sundar,Sara
+2025-06-03T10:40:10,Economy,Spandex,905m,Polyester 80%,Pending,da237a69-9cc7-4b53-88f9-bca2a9fb8223,436,Sundar,Tom
+2025-05-03T00:58:21,Primium,Crepe,390m,Cotton 100%,Pending,56a93c60-ac44-47ee-947d-aa17c34c1e9c,342,Arun,Anita
+2025-06-23T08:32:30,Economy,Linen,61m,Polyester 80%,Pending,1d10cb08-305f-4f7b-9d4c-cb16fc6abee8,282,Ravi,Kumar
+2025-05-02T01:01:26,premium ,Spandex,704,Nylon 40%,Confirmed,47ad7298-6394-4a74-9e36-ed4488161be9,441,Arun,Kumar
+2025-06-19T02:58:51,Stand,Satin,894,Cotton 50%,Confirmed,b45efc23-bffa-4fed-be9a-a0feefb642e1,198,Ravi,Jhon
+2025-06-19T12:39:19,stand ,Spandex,807,Viscose 70%,Pending,b55b7a74-ba62-4750-97d6-9568e2ce00fb,412,Mukilan,Jhon
+2025-05-06T09:17:04,Primium,Spandex,51,Viscose 70%,Cancelled,c5c1c2ec-4841-4513-9585-d9dfed170c5e,131,Arun,Anita
+2025-06-12T12:19:07,stand ,Linen,894,20%,Pending,9fb0a491-fc6b-438e-aa04-712ef1de32b2,467,Arun,Deepak
+2025-05-12T08:26:34,Standard,spandex ,907m,Cotton 100%,Cancelled,3841fb55-28bd-4726-8599-d7d0bf04ba77,164,Nisha,qilyze
+2025-06-21T03:41:19,premium ,Spandex,446,Viscose 70%,Confirmed,7e09ac76-dce3-458b-a12c-717fab31af03,186,Sundar,qilyze
+2025-06-24T23:07:46,premium ,Linen,745,Cotton 100%,Confirmed,c910ce3f-15db-4705-9c7b-a4977791f2dc,252,Priya,jogoco
+2025-06-30T17:51:58,Primium,Crepe,331m,Cotton 50%,Pending,15344ed1-bb51-46e6-8199-9ea3923adecc,531,Mukilan,Anita
+2025-06-19T00:56:05,Economy,Spandex,925,Nylon 40%,Confirmed,075bfebf-9473-4209-8157-17a95e38f0a0,270,Mukilan,Kumar
+2025-05-11T19:33:49,premium ,Spandex,961m,Cotton 100%,Cancelled,60474d9e-bc16-4b06-8b32-cdb6e9fa6f5a,197,Nisha,qilyze
+2025-05-11T06:56:05,Economy,Linen,257,Nylon 40%,Confirmed,86465b21-678f-4c1f-abc3-e48af32f3c67,218,Mukilan,Kumar
+2025-06-05T00:33:05,stand ,spandex ,93m,Viscose 70%,Cancelled,91d32e40-5cd3-464f-ba7f-4c4f4c6d9405,277,Priya,Kumar
+2025-05-10T12:38:10,Standard,spandex ,603,Silk 60%,Cancelled,3d8d6eca-592d-4cf4-8a0b-db0cadbcd8e9,445,Nisha,qilyze
+2025-05-22T03:10:47,Stand,spandex ,472m,Cotton 100%,Cancelled,7510507e-5d1f-4054-af47-0b2af1a0adaf,528,Arun,Deepak
+2025-06-26T11:58:07,Economy,Plain,498m,Viscose 70%,Cancelled,deac6828-f85d-45eb-9444-080b8e5f7592,405,Mukilan,Deepak
+2025-06-22T16:36:47,Standard,Twill,984m,Cotton 50%,Cancelled,12a6c76b-308a-4ca9-aa64-ca2fe8504b9b,148,Ravi,Anita
+2025-06-05T04:35:47,Economy,spandex ,328,Nylon 40%,Pending,9c6102bc-1d12-42a8-af8d-eb0933aa0ca7,136,Ravi,jogoco
+2025-06-09T21:11:57,Primium,spandex ,716,Silk 60%,Confirmed,594f877c-321c-410b-93c4-93ca0511431c,487,Priya,Jhon
+2025-05-10T06:45:03,premium ,Denim,80,Cotton 100%,Pending,e7ba19eb-9a15-4af6-8480-de885a74f932,129,Arun,jogoco
+2025-05-01T20:53:25,Standard,Satin,130m,Nylon 40%,Pending,aeee28b9-f66b-48b2-ba0e-1f4f11a5a836,525,Nisha,Deepak
+2025-05-17T23:15:36,Economy,Spandex,144m,Polyester 80%,Cancelled,bc67ae1b-78be-44fd-acdf-ce15453510da,243,Priya,jogoco
+2025-06-27T12:42:04,stand ,Spandex,283,Polyester 80%,Confirmed,b81bb46f-6079-47d1-b0cc-f42d4ee6c935,196,Ravi,Deepak
+2025-05-11T16:56:44,Standard,Spandex,960m,Cotton 100%,Confirmed,a3d6243f-bc68-4915-b999-bf864a428521,282,Arun,Sara
+2025-06-24T05:28:14,stand ,Denim,193m,Viscose 70%,Confirmed,e47a1953-2246-43f9-a88d-d996ade0b408,288,Arun,Jhon
+2025-06-10T04:57:30,Economy,spandex ,984m,Viscose 70%,Cancelled,cd57f374-cec5-4024-8e88-70bc218fc513,453,Priya,jogoco
+2025-06-26T19:58:54,Premium,Satin,842m,Polyester 80%,Cancelled,aedd88db-9aee-4615-a3c6-2c06205c327a,394,Arun,Jhon
+2025-05-13T15:41:24,Standard,Satin,893m,Silk 60%,Pending,707dfa0f-eb98-4d98-9546-08756be866b9,436,Sundar,qilyze
+2025-05-20T14:56:21,Stand,Satin,84m,Nylon 40%,Pending,5d5726dc-4c9b-4158-b11c-515d183924ea,496,Mukilan,Kumar
+2025-06-19T06:06:23,Primium,Denim,92m,Cotton 100%,Cancelled,4e409ffe-e384-4b3b-b535-e084c5975f70,569,Priya,qilyze
+2025-05-02T18:10:39,Stand,linen,889,Nylon 40%,Confirmed,c52abdb5-c3af-4e40-abc1-2607554e9260,352,Ravi,jogoco
+2025-05-24T10:20:34,premium ,Satin,306m,Cotton 100%,Pending,b2b45751-be55-49f1-a66a-92ef9af4c1ab,566,Priya,Jhon
+2025-05-20T00:32:21,Stand,Twill,359,Polyester 80%,Confirmed,f3b11fcf-119a-4226-ad9b-77a8f5d04903,196,Ravi,Jhon
+2025-05-14T00:33:21,Standard,Satin,751m,Nylon 40%,Confirmed,d9932e8f-7b44-4e6b-83e9-ca638e5f88dd,553,Arun,Sara
+2025-05-08T02:20:08,Primium,Plain,652m,Cotton 100%,Pending,476b0241-40ea-4714-869c-bd006737860a,557,Mukilan,Sara
+2025-06-12T10:30:58,Premium,Twill,91m,20%,Cancelled,cef0ec23-8ffe-406f-9b3b-66fdbc351a55,91,Sundar,qilyze
+2025-05-29T23:33:36,Primium,Crepe,128,20%,Confirmed,0a51cbab-96e7-49a2-9235-40385839db8d,243,Priya,Deepak
+2025-05-03T00:55:29,Premium,Crepe,76m,Nylon 40%,Pending,6a112115-2c1d-4d28-9c96-72fe25762e98,492,Ravi,Kumar
+2025-05-07T06:17:22,premium ,spandex ,229m,Cotton 100%,Pending,cdc9795d-c5c0-496b-8e0a-e5e0f3a85810,582,Nisha,Tom
+2025-06-13T04:16:23,Primium,Crepe,966,Silk 60%,Confirmed,7e0d9b90-2b1d-4415-88dc-03061b74a306,564,Priya,Jhon
+2025-06-24T09:35:40,stand ,linen,281,Viscose 70%,Confirmed,a3a0f733-b3c5-4c00-9f19-4ae1b7442ab2,212,Priya,Sara
+2025-06-20T15:44:32,Primium,Twill,995m,Viscose 70%,Cancelled,78534f98-116a-4b91-a633-d208d3332037,583,Arun,Sara
+2025-05-09T18:55:27,Stand,Spandex,929m,Polyester 80%,Cancelled,44bf687a-cbdd-4c74-a7c3-87b1fdf73c5b,278,Ravi,Kumar
+2025-05-19T23:06:36,Stand,Satin,124,Nylon 40%,Cancelled,56e58e66-f715-47bd-8ccb-0b0cca6a3e1b,302,Arun,Tom
+2025-05-29T00:46:13,Premium,Satin,538,Cotton 50%,Confirmed,b18a1f9f-92d2-4b80-b266-600db21a5f41,116,Priya,qilyze
+2025-06-05T15:02:38,Premium,Satin,489,20%,Confirmed,4c9097ab-2748-486d-bf20-6a234db57bf1,225,Nisha,Jhon
+2025-06-21T09:42:11,stand ,Spandex,144m,Nylon 40%,Confirmed,212dc01f-63e1-47db-b1c3-8c974c357686,142,Mukilan,qilyze
+2025-05-27T15:20:47,stand ,Satin,390m,20%,Cancelled,f66f393f-c3fe-41fd-b349-9f1e69a7c2a2,528,Arun,Jhon
+2025-05-03T11:19:13,Primium,Plain,696,Cotton 100%,Confirmed,b5ee7521-39a3-4c7b-82a9-dfb7e3dd1cf4,331,Ravi,Jhon
+2025-05-04T02:37:32,Economy,spandex ,135,Cotton 50%,Confirmed,d8434ede-ba62-455f-8d68-cf890fee6d04,409,Arun,Kumar
+2025-05-10T05:24:02,Stand,Plain,310m,Nylon 40%,Confirmed,9bc61b2d-0766-462b-9601-a08d11d0ec54,419,Mukilan,Sara
+2025-06-07T12:36:03,stand ,Spandex,72m,Polyester 80%,Pending,ed2e1caa-7d81-4c3a-81d4-f270d2ac71ba,157,Ravi,jogoco
+2025-05-13T21:52:16,Economy,linen,899,Nylon 40%,Pending,5d7babd0-9c13-49fc-8091-94c54b84df8d,101,Arun,Deepak
+2025-06-08T06:06:23,Premium,Spandex,468,Cotton 50%,Pending,6f58a138-42b7-4663-8a2a-27764c4c239f,287,Mukilan,jogoco
+2025-05-30T03:45:39,Primium,Linen,433,Polyester 80%,Confirmed,ef2c254a-e46f-492d-a927-f6a3c6c5ffda,372,Priya,Jhon
+2025-05-14T09:45:29,stand ,Spandex,254,Polyester 80%,Pending,5442b2a9-9920-4c19-a58f-7f08a317fa13,127,Nisha,qilyze
+2025-06-01T07:54:31,Standard,spandex ,545,20%,Cancelled,9540ef2d-f72c-4e1a-91d3-000d6aec0b20,480,Arun,qilyze
+2025-05-22T22:34:11,Primium,Satin,631,Silk 60%,Cancelled,ae2c111c-c987-4acf-a718-610b90c25be6,306,Ravi,qilyze
+2025-06-30T11:15:29,Economy,Spandex,445,Polyester 80%,Cancelled,69821b25-1c1d-499c-b3ba-c324046733ed,469,Sundar,Kumar
+2025-06-02T16:11:20,stand ,spandex ,501m,Nylon 40%,Cancelled,f5a8e62d-f35c-4ea6-8bb9-7934ccfd9193,577,Priya,jogoco
+2025-05-25T11:03:18,Primium,Crepe,510m,Nylon 40%,Cancelled,a7d1c84b-c672-4299-bfe4-dc24b889b6b0,564,Sundar,Sara
+2025-05-31T13:11:46,Standard,Crepe,633m,20%,Confirmed,0ff5f7a9-1213-49f1-b813-fce2a4e6e15a,597,Nisha,Deepak
+2025-05-30T01:07:31,stand ,Linen,910,Viscose 70%,Confirmed,ee4b7c41-1d26-49d4-8703-85ed427f66ee,430,Ravi,jogoco
+2025-05-05T01:11:24,premium ,Spandex,550,Cotton 100%,Confirmed,f453fe19-e79f-40cc-9690-631ad26ae39b,453,Priya,Deepak
+2025-05-14T10:49:01,Stand,Spandex,703m,20%,Pending,a3643231-6546-4f47-9417-af5917e9d6e7,256,Arun,Jhon
+2025-06-16T02:48:51,Economy,Spandex,886,Cotton 50%,Pending,a1e88775-f972-4030-9624-3d741d3490a6,489,Ravi,jogoco
+2025-05-24T17:00:25,Stand,Spandex,76m,Nylon 40%,Pending,adfba67c-7fe3-413f-9cd3-d1b28f925a6c,89,Ravi,Tom
+2025-05-31T18:45:10,Stand,linen,377,20%,Pending,c25d3f06-3d26-4b91-8a5a-6dcfb75a8147,76,Mukilan,Kumar
+2025-06-27T14:22:50,premium ,Satin,621,Cotton 100%,Confirmed,c7a03181-dde7-472f-8a53-0d1b81de9f1b,378,Ravi,Jhon
+2025-05-27T07:49:45,stand ,Plain,609,Cotton 100%,Cancelled,463e3d67-2a7a-430e-a294-86da1100f10f,130,Nisha,Sara
+2025-06-21T08:29:02,Standard,Linen,230m,Cotton 100%,Cancelled,977e12cc-d8a4-47a2-be3d-31c7d7be796c,322,Mukilan,Kumar
+2025-05-01T09:13:33,stand ,Satin,280,Viscose 70%,Confirmed,bcf3aaef-78ec-443e-b97b-dc5b13bd9e12,316,Ravi,Tom
+2025-06-29T20:10:01,premium ,linen,256m,Silk 60%,Pending,69dfbd83-c00b-4bca-907c-397326ebaba6,461,Sundar,Sara
+2025-05-07T17:35:29,premium ,Linen,931,20%,Cancelled,afe93431-824d-4096-b264-973b8e548ba6,466,Arun,qilyze
+2025-06-01T15:31:16,Stand,Denim,713,Cotton 50%,Pending,e4f0680e-2433-45cf-bd4f-7ef7263927d7,545,Priya,Sara
+2025-06-04T21:14:14,Primium,Satin,520m,Viscose 70%,Confirmed,67fcfc5a-4403-4ddd-ae01-922702b95c90,113,Ravi,Kumar
+2025-05-15T09:16:57,premium ,Crepe,904,Cotton 50%,Cancelled,87be1fb6-9d39-49ad-866a-720151f32c60,485,Priya,Sara
+2025-05-18T04:51:28,Primium,Denim,929,Nylon 40%,Pending,ecee8ca8-7230-46a6-a78b-d5798fb4544d,144,Priya,Sara
+2025-05-07T09:14:06,premium ,linen,532,Viscose 70%,Pending,59d56a4f-b5b6-43c3-806e-92ec9c9f2e79,468,Mukilan,Tom
+2025-05-11T22:46:56,premium ,spandex ,443m,20%,Cancelled,e4df7a1a-949b-420e-802b-574a5e9b42f7,564,Mukilan,qilyze
+2025-05-09T09:44:36,Economy,Linen,559,Cotton 50%,Cancelled,ffdff60f-65fe-4c98-82da-916e69d033e3,334,Sundar,qilyze
+2025-05-10T12:53:39,Primium,Linen,951m,20%,Pending,b19a77cf-2459-4a4b-9c28-3103cfc72c49,122,Arun,Deepak
+2025-05-09T13:22:51,Stand,Twill,215,Viscose 70%,Confirmed,d91d4de4-3f54-45b8-b6d2-215e91bdfc44,347,Nisha,Sara
+2025-06-07T09:54:47,Standard,Twill,85m,Cotton 50%,Cancelled,7a169d2b-ab8f-463d-8427-4fb13db0ac85,185,Priya,jogoco
+2025-06-27T17:46:46,stand ,Spandex,398,20%,Pending,499d254f-ccb3-4218-aba4-b210a84f2308,470,Ravi,Anita
+2025-06-22T19:54:11,premium ,Satin,456m,Cotton 50%,Confirmed,d1fed1e6-6f1e-43e6-a333-3b8948ec21f1,172,Mukilan,Deepak
+2025-06-24T08:54:37,stand ,Crepe,314m,Silk 60%,Confirmed,e0092853-a60a-49c0-987e-99cbcd030a14,99,Mukilan,jogoco
+2025-06-03T06:05:15,Economy,Satin,501m,Cotton 100%,Pending,57e1f4d6-12fc-41ab-9f5d-09f0596246a9,319,Ravi,Anita
+2025-05-19T19:17:21,Standard,Plain,466,Cotton 50%,Confirmed,d13fcd44-0f8d-4b7d-b8c8-83305da38463,552,Arun,Deepak
+2025-05-03T14:20:08,premium ,Plain,63,Viscose 70%,Pending,fdb37c44-ad06-4f0f-99c7-a2ee8729cc3e,558,Nisha,Anita
+2025-06-30T21:58:40,Premium,Twill,753,Viscose 70%,Cancelled,029189b9-911a-4a22-a6ad-9cda61a4a0a9,302,Nisha,Sara
+2025-05-11T07:57:43,Premium,Plain,294,Polyester 80%,Cancelled,618ee478-2b41-46be-9cc6-cd2a0297285d,119,Arun,Jhon
+2025-05-01T03:59:18,Standard,Denim,475m,20%,Confirmed,7c53a97b-72d1-48f7-bc2b-43fd3f2f86b9,282,Mukilan,jogoco
+2025-06-23T13:43:06,stand ,Crepe,98m,Silk 60%,Confirmed,6fccee95-3ac7-47ca-b9d4-1ae9b3e7b505,286,Mukilan,Sara
+2025-06-07T18:45:21,Economy,linen,259,Silk 60%,Confirmed,a651772d-09cd-4468-a85e-13145f13721e,140,Nisha,Kumar
+2025-05-31T03:26:07,stand ,Twill,909,Cotton 50%,Cancelled,f7c116fb-01c6-43b4-9ed3-7531f2e0684c,102,Arun,Kumar
+2025-06-08T11:52:41,Stand,Crepe,188m,Polyester 80%,Confirmed,0e089160-5149-48d4-9a1c-6da0aaeb0fb5,64,Arun,Kumar
+2025-05-13T00:42:41,Economy,Satin,307m,Cotton 100%,Cancelled,e0c659a9-008e-4cbd-b194-68046eb6eef6,99,Nisha,Kumar
+2025-05-15T04:59:54,Standard,Plain,957m,20%,Confirmed,e527f58f-9e2b-4d78-b7f8-f7355fea1262,104,Nisha,Tom
+2025-05-21T04:48:01,premium ,linen,449m,Cotton 100%,Pending,d139510d-81ad-48f0-b387-76a9213734fa,566,Priya,Anita
+2025-05-23T01:34:55,Standard,spandex ,991m,Cotton 50%,Pending,d5e1bb94-564c-42e2-8463-32389cbe6001,245,Sundar,jogoco
+2025-05-23T01:17:30,Premium,spandex ,991,Silk 60%,Pending,093f6200-be1b-4e28-8dd6-e935a247f168,246,Nisha,Jhon
+2025-06-09T23:31:20,Premium,Crepe,569m,Viscose 70%,Confirmed,017d44c6-138b-4d7e-ac1c-43b570f1b01b,113,Ravi,jogoco
+2025-05-23T04:38:29,Primium,Twill,399,Silk 60%,Pending,7c799737-1088-49f8-b144-57e3e77a68f2,507,Mukilan,jogoco
+2025-06-06T16:44:53,Standard,Denim,232m,Polyester 80%,Pending,621e6f30-e128-4a6c-b747-4878addeb36b,240,Arun,Sara
+2025-05-11T00:22:42,Stand,spandex ,745m,20%,Cancelled,575bd6f9-1d33-44a6-88c1-a54f5e19716d,495,Priya,Tom
+2025-05-31T14:13:45,Primium,Denim,518m,Cotton 50%,Pending,d1385db1-1def-493d-abf4-d6a7e1a4e41f,357,Sundar,Sara
+2025-05-22T15:48:10,Standard,Denim,491m,Polyester 80%,Cancelled,6392ed08-24d7-4704-9433-d53550cbd4aa,292,Ravi,qilyze
+2025-06-30T12:02:59,stand ,Spandex,602,Nylon 40%,Cancelled,62465d74-7974-4eb7-92ee-c5475f472227,180,Arun,qilyze
+2025-06-01T07:02:37,stand ,Plain,429m,20%,Cancelled,45835e2d-f4da-409a-9ef4-951cff54dc38,504,Ravi,Kumar
+2025-05-16T06:15:23,Economy,Crepe,396m,Viscose 70%,Pending,4fe67fdd-83d2-4dda-add9-88a9b8149172,473,Sundar,Deepak
+2025-05-10T15:12:41,stand ,Crepe,852m,Cotton 50%,Pending,989c4da1-f63d-4d85-82b4-f54f1ac0d4fa,223,Nisha,qilyze
+2025-05-09T07:34:42,Economy,Crepe,301,Viscose 70%,Confirmed,a84ff699-a022-47d9-92b1-f2a300a6eabb,391,Sundar,Kumar
+2025-05-01T06:18:12,Standard,Satin,638,Cotton 100%,Cancelled,2b5676e9-ca8d-41e9-afab-2579461c1d8c,192,Sundar,Anita
+2025-06-06T16:40:20,Stand,spandex ,133,20%,Confirmed,754f1e5b-ca3e-4d17-b94d-20bf5b45a004,213,Nisha,Tom
+2025-05-18T04:20:40,Stand,Plain,646,Cotton 50%,Pending,8d1d32fc-9ef6-406d-8a7a-f14b8661e330,106,Priya,Jhon
+2025-05-02T14:22:56,Stand,Plain,57,Silk 60%,Cancelled,a149c570-b79e-481f-8c60-e20cb4ef312a,432,Ravi,Sara
+2025-06-22T06:49:47,stand ,spandex ,1000,Cotton 100%,Pending,6863dd91-5bfb-4bd0-8630-e8d7cea32271,592,Nisha,qilyze
+2025-05-15T21:58:47,premium ,Twill,421m,Polyester 80%,Pending,e9d7d84a-da0a-4c34-b2c7-3b4f89d3808c,219,Mukilan,Anita
+2025-06-11T05:35:17,Economy,Denim,655m,Nylon 40%,Confirmed,db18244a-8d42-4021-8145-dcb8a54ae1f6,92,Ravi,Kumar
+2025-05-30T00:32:22,Stand,Plain,749m,Cotton 100%,Cancelled,e8893b42-6d17-4b07-8b77-c6c7be7da919,344,Priya,qilyze
+2025-06-29T22:46:26,Primium,Plain,198m,Nylon 40%,Cancelled,a3bd27a0-2515-47b3-bf76-d992951e3695,509,Sundar,Jhon
+2025-06-14T05:27:21,Economy,Denim,857m,Cotton 50%,Confirmed,1543eb80-a0ee-4595-bd9c-d7cea3705271,424,Priya,Kumar
+2025-06-27T23:08:12,Stand,spandex ,642,Silk 60%,Cancelled,7871d63d-12b1-48b6-ab1d-c9f6ad3f472c,302,Arun,Anita
+2025-05-27T19:19:23,Primium,Satin,52,Cotton 50%,Confirmed,8af637a8-a749-45e2-bed4-34cb88265b4e,117,Mukilan,jogoco
+2025-05-28T04:50:43,Stand,Crepe,509,Cotton 100%,Cancelled,8126e524-9b2f-4663-82d4-9d14dd0998ef,495,Priya,Jhon
+2025-06-18T23:20:40,Stand,Spandex,237,Viscose 70%,Pending,e191668c-1b8c-4608-8228-862455db19a8,239,Sundar,Kumar
+2025-06-02T22:54:33,premium ,linen,425m,Cotton 100%,Cancelled,758eca66-5283-4c52-8f7b-1b21f760476b,59,Sundar,Jhon
+2025-06-22T21:54:18,Stand,spandex ,783m,Viscose 70%,Confirmed,866abb9e-b429-4114-b91f-c64cb0f68868,400,Priya,Anita
+2025-05-24T15:12:38,Stand,Spandex,319,Cotton 50%,Pending,9af8d591-e1e2-497e-9d33-c3f41a58c6d6,481,Priya,Kumar
+2025-06-14T10:27:58,Premium,Twill,72,Cotton 50%,Pending,4e4c7306-75bc-4578-b681-d677df11a89e,585,Ravi,Anita
+2025-05-09T09:49:54,Premium,Denim,674,Polyester 80%,Confirmed,77cee78c-ed64-4787-97c9-2601ddf9f117,415,Sundar,Kumar
+2025-06-17T05:35:44,Standard,Linen,410m,Polyester 80%,Confirmed,635f731e-ec89-46f3-96cd-df7c1b22f044,186,Priya,Kumar
+2025-05-27T05:15:47,Premium,Denim,125,Nylon 40%,Cancelled,2e3f7159-8801-494e-98d3-83b02b782e38,264,Arun,Anita
+2025-05-20T14:52:24,Stand,Satin,203,20%,Pending,b98db60e-a39f-430f-9e75-c4b4bbe1a0b0,169,Arun,Kumar
+2025-06-03T07:18:28,Premium,Linen,693m,Cotton 50%,Pending,6fbb6efd-9d37-4310-82fd-05d3cd9a1d3c,174,Sundar,Sara
+2025-06-04T18:36:39,Standard,spandex ,200m,20%,Pending,adbcaa78-313e-4aff-ae09-64bd27d2557f,521,Sundar,Tom
+2025-05-25T17:29:46,premium ,Linen,990m,Silk 60%,Confirmed,df539183-32ab-4afb-a18e-5fa4e84806df,463,Ravi,Anita
+2025-06-15T09:01:07,Stand,spandex ,203m,Cotton 100%,Pending,cdf51aaf-7810-4bb5-a1dd-198b7505340b,465,Priya,Kumar
+2025-06-23T12:30:01,Standard,Denim,316,Polyester 80%,Pending,2ea610c2-4b0e-458e-a9e4-b604b013bbd8,248,Sundar,qilyze
+2025-05-31T01:32:58,premium ,Denim,643,20%,Pending,4fdb850b-95d7-4c22-b2b3-93eb3760cc7c,310,Sundar,Anita
+2025-06-01T21:00:37,Economy,spandex ,919,Viscose 70%,Cancelled,9ae808aa-f0ff-40ef-8e43-4582c12f3bd5,303,Mukilan,Jhon
+2025-05-08T04:21:20,premium ,Linen,223,Nylon 40%,Pending,4057418c-e99b-4a82-a32e-046b0586fbf2,231,Nisha,Kumar
+2025-05-29T00:22:23,Premium,spandex ,952m,Silk 60%,Pending,4395247a-c31b-4aa0-bf6e-de5f9610f110,403,Ravi,jogoco
+2025-06-01T00:27:56,Primium,spandex ,756m,Silk 60%,Cancelled,871f59fc-5bb6-411b-bbbe-6a22463ffc6a,215,Nisha,Jhon
+2025-06-02T04:00:01,Primium,Denim,302,Cotton 100%,Pending,db6fd086-caa2-4aa8-866a-aaed179b7a89,543,Nisha,Tom
+2025-06-21T04:13:32,Premium,Denim,972,Silk 60%,Confirmed,2eb9a114-66bd-4a65-b73c-8777b6fa7e25,499,Mukilan,Tom
+2025-05-09T07:26:53,Standard,Linen,445m,Nylon 40%,Cancelled,034a08f4-aa88-4df3-b5a9-d9a0ec2b8cc1,313,Priya,Sara
+2025-05-30T10:23:30,Premium,Denim,558m,Cotton 100%,Confirmed,d36eaf65-fff9-4de5-b061-4412374ce36f,213,Mukilan,Jhon
+2025-05-03T22:19:51,Primium,Denim,336,20%,Pending,2c9cff17-f428-4ebf-8876-b98cdb607ae2,145,Arun,Sara
+2025-06-26T07:08:48,Premium,Crepe,247m,Cotton 50%,Cancelled,7a7e427f-cd4c-4d5b-8adb-a2d356ea5dac,493,Arun,Kumar
+2025-06-30T13:30:24,stand ,Crepe,52m,Viscose 70%,Cancelled,70b56086-8941-4294-8541-fb0a5c4a37c4,581,Ravi,Sara
+2025-05-10T08:51:24,Primium,linen,635,Viscose 70%,Pending,a820cbb1-5cac-47aa-b332-1b9beddb6f67,103,Mukilan,Tom
+2025-05-16T11:48:22,Standard,Denim,118m,Cotton 100%,Confirmed,38ef3d42-0ba6-4766-be64-c4a917206b27,434,Ravi,Jhon
+2025-06-17T07:14:11,premium ,spandex ,290,Cotton 50%,Pending,98924658-4cae-4d48-ad63-2be63537d88e,317,Nisha,qilyze
+2025-05-25T23:07:56,Economy,Linen,874,20%,Pending,d5339d32-f939-44c3-a0e6-37e6713845bf,218,Priya,Kumar
+2025-06-13T14:49:38,Standard,spandex ,880m,Nylon 40%,Cancelled,5a2d9eea-027a-4604-8787-01fc2370660c,524,Mukilan,jogoco
+2025-05-13T12:09:02,stand ,Spandex,178m,Cotton 100%,Pending,935a3828-de7d-46d3-a80f-e288f4b01c92,126,Priya,Jhon
+2025-06-26T06:01:22,premium ,Linen,906m,20%,Confirmed,2ef560c2-7b1c-4cb2-af16-b63a425cd576,219,Priya,qilyze
+2025-06-20T13:59:15,Primium,Spandex,921m,20%,Pending,99cafb97-7137-4167-b17c-8c5c3f7c99ac,270,Priya,Jhon
+2025-05-09T16:26:38,Primium,spandex ,483m,Cotton 50%,Pending,e478fe06-80fa-468b-ba82-f2ded89b517d,559,Mukilan,qilyze
+2025-06-04T06:55:32,Primium,spandex ,847,Cotton 100%,Confirmed,e318f80c-2577-4149-9b33-c21ecdf45ff7,512,Priya,jogoco
+2025-06-27T21:15:50,premium ,Denim,597m,Cotton 100%,Cancelled,1ea8ef03-044c-4b54-b0b6-cc06f875df3b,333,Mukilan,Deepak
+2025-05-08T19:51:35,Primium,Spandex,982,Cotton 50%,Confirmed,8c1b8490-07a5-4f30-b3af-16e2ea826782,146,Mukilan,Anita
+2025-05-27T12:08:37,Standard,Satin,501,Viscose 70%,Pending,9397c1e1-15b6-4751-a9a0-96c0c3d1acaa,118,Ravi,jogoco
+2025-06-11T04:23:12,Premium,Crepe,455,Viscose 70%,Confirmed,f03879eb-aae3-40c0-ba81-a9000b8aa8cf,360,Nisha,jogoco
+2025-05-27T05:19:20,Primium,Twill,190m,Cotton 50%,Confirmed,d2e59643-37ae-496b-bf8e-588b2f8cfc45,259,Sundar,Tom
+2025-06-28T11:15:00,Standard,Satin,885m,Cotton 100%,Pending,33fc3dfa-d4fe-4c8e-bac8-2d768dca2ea4,552,Arun,Kumar
+2025-06-08T17:47:58,stand ,Crepe,617,20%,Pending,a2fd89b6-1ecb-4819-a771-596bde05b8fc,546,Arun,Anita
+2025-05-25T22:51:55,Stand,spandex ,748m,Cotton 50%,Cancelled,8b119d09-8ade-447a-a737-00682f30762a,80,Arun,Anita
+2025-06-28T08:01:24,Economy,Twill,196m,Polyester 80%,Pending,0a8c824d-1a8f-49ae-8f0b-a0bb896f8a33,51,Nisha,Deepak
+2025-06-23T02:07:17,Standard,Spandex,611,Polyester 80%,Confirmed,b2c37452-4f9c-439b-8cbc-f6a72c483361,383,Nisha,Sara
+2025-05-20T10:53:59,Standard,linen,971m,Cotton 100%,Pending,ac3df734-7f79-4de8-b343-a95f4401fbe6,328,Arun,Jhon
+2025-05-09T15:39:43,Economy,Linen,709m,Polyester 80%,Pending,c1f66aac-718a-4f73-9609-b2ee0547a3b9,255,Priya,Sara
+2025-05-06T23:46:42,Standard,Linen,532m,20%,Cancelled,45fa8f1a-5c99-450b-8992-5f8c0f1205e9,364,Sundar,Sara
+2025-05-27T05:21:14,Primium,Satin,645m,Nylon 40%,Confirmed,4ac4f2ed-0d7a-49aa-b7ed-6e8bc989b94d,174,Nisha,jogoco
+2025-06-26T10:15:22,premium ,Spandex,328m,20%,Cancelled,c9447f90-4a64-4263-bda4-a19434cb177f,73,Mukilan,Deepak
+2025-06-25T17:40:43,premium ,Satin,131,20%,Cancelled,c2a22a46-3812-4b71-b1dc-6cadaabd1875,418,Sundar,Tom
+2025-06-12T01:33:49,Standard,Denim,71,Silk 60%,Cancelled,1d9d00a2-53a2-4f07-bbd9-4c5b83190747,250,Priya,Kumar
+2025-05-24T19:37:10,Stand,Denim,810m,Nylon 40%,Pending,5f22070b-67d7-4ef6-9de0-02bd6b465ff9,328,Mukilan,qilyze
+2025-06-10T07:20:12,Premium,Plain,754m,Nylon 40%,Confirmed,9d14b431-5893-498b-b014-6b17d605f65e,263,Arun,Anita
+2025-05-03T09:30:12,premium ,Denim,505m,Nylon 40%,Cancelled,fae6fdd7-41cc-4d03-8a85-bc36a1d5fe1d,154,Ravi,Anita
+2025-06-01T00:38:10,Stand,Satin,464m,20%,Pending,dd61ac02-d409-4b1e-8ef9-2cf23144f902,343,Arun,Tom
+2025-06-12T20:27:41,Primium,Twill,602m,Cotton 50%,Cancelled,25112126-80a2-4914-a666-7468da39a7e1,137,Arun,Tom
+2025-06-04T07:30:38,Stand,Spandex,170m,Nylon 40%,Cancelled,ee95c8c6-fc05-462c-9af5-ebea7b272989,168,Arun,Kumar
+2025-06-26T06:20:23,Standard,Spandex,410,Polyester 80%,Pending,d37298f1-c553-4f13-aad8-696fd511c89c,160,Nisha,Sara
+2025-05-20T11:56:07,Primium,Denim,52,20%,Pending,df3d2de6-a547-4576-b97f-da063fd283b4,247,Arun,Deepak
+2025-05-02T10:55:30,Economy,Denim,181m,Polyester 80%,Confirmed,e063f2f6-b0d0-44f5-a3d9-450b6d31e2a2,269,Nisha,Sara
+2025-05-28T09:32:42,Stand,Satin,530m,20%,Pending,8549d4d2-5952-4d26-8eb8-622de2cbe5e5,548,Mukilan,Jhon
+2025-06-12T13:19:40,stand ,linen,402,Viscose 70%,Pending,4a438fdd-fe35-4cc5-8c90-c7aa696b23ff,567,Nisha,Sara
+2025-06-05T23:24:44,Economy,spandex ,504,Nylon 40%,Cancelled,cb15a891-a24f-468b-8afd-6ac2d2be9ffb,564,Sundar,Jhon
+2025-05-27T19:39:31,premium ,linen,356,Nylon 40%,Pending,40060c57-b796-47b7-9716-c82d3c7498c4,579,Ravi,Jhon
+2025-06-25T17:09:03,Premium,Crepe,875,Cotton 50%,Cancelled,b9c67aee-1506-4400-b76b-3e81f7210bc0,403,Nisha,qilyze
+2025-06-19T23:06:01,premium ,Satin,219m,20%,Confirmed,715486bd-d797-4035-8ca2-f6d776dcf758,315,Nisha,Tom
+2025-06-09T16:53:42,Stand,Denim,610,20%,Pending,d37136aa-eb5e-4c6e-bdc4-3ab13e885faf,81,Sundar,Jhon
+2025-06-18T10:40:30,Primium,Crepe,311m,Nylon 40%,Cancelled,ad5c6583-ac3a-4ea5-9ee0-0d64817e466b,356,Ravi,qilyze
+2025-06-29T09:36:32,Standard,Twill,673m,Polyester 80%,Confirmed,c93c1ac9-b14b-4c48-acca-ed34f9c7b70a,155,Priya,Deepak
+2025-05-22T11:16:53,premium ,Spandex,983,Polyester 80%,Cancelled,c380cbad-cb6a-467c-860a-92dcd74c9ad6,458,Priya,Sara
+2025-06-04T10:20:27,Economy,Plain,326m,Cotton 100%,Confirmed,35db1145-2c83-4e0e-ba63-e33d2be0080b,87,Nisha,Sara
+2025-06-18T06:22:24,premium ,linen,691,Silk 60%,Pending,c53ae225-b4f2-43e5-aab5-af7f1963caef,328,Nisha,Sara
+2025-06-14T14:08:03,stand ,Linen,360,Viscose 70%,Cancelled,1ea43544-2dc5-4002-b759-8af40cce49ab,94,Priya,qilyze
+2025-05-07T15:05:31,Standard,Linen,401,20%,Confirmed,26341948-0b9a-4983-af52-a5068d876165,58,Priya,jogoco
+2025-05-05T14:06:13,Standard,Twill,553,Polyester 80%,Cancelled,d2092e05-c817-4f99-866d-c5f2b1d4805a,530,Priya,Sara
+2025-05-13T12:32:27,Economy,spandex ,487m,20%,Cancelled,c524256a-9742-4cc1-bded-686cd787ba84,187,Arun,Sara
+2025-05-09T14:55:47,Stand,Crepe,237m,Silk 60%,Pending,6cd6ea5a-4993-4b71-aaf6-73b2bf34766d,281,Mukilan,qilyze
+2025-05-12T21:45:06,Stand,Spandex,945,Cotton 100%,Confirmed,fb34bbca-b1d6-414f-9f87-8c6735163a04,422,Sundar,Sara
+2025-05-08T06:43:49,Stand,Crepe,568,Cotton 50%,Confirmed,e6109748-638a-4543-9b3d-9892b84d55e1,300,Sundar,Deepak
+2025-06-26T15:22:54,Premium,Plain,285,Cotton 50%,Confirmed,3863247a-3034-4ce0-99c7-5f17d5ed854a,547,Mukilan,Jhon
+2025-06-16T18:31:28,premium ,Spandex,925,Silk 60%,Pending,87f185de-1b18-434f-b3d0-09ceafe902f4,189,Priya,Anita
+2025-05-04T02:46:02,Primium,spandex ,101,20%,Cancelled,5c48209f-7cc7-4521-a1d6-1a62a3d946fc,301,Priya,Tom
+2025-05-13T14:21:20,Premium,Twill,725m,Viscose 70%,Pending,39c594d8-999f-477a-b2d4-474c90d2b69e,377,Priya,Sara
+2025-05-20T15:03:35,Premium,Linen,766m,Polyester 80%,Pending,549f08b3-9b3b-472c-974a-413164fdd7e2,340,Mukilan,Anita
+2025-06-18T10:02:28,Stand,Satin,672m,Cotton 50%,Pending,c735d253-71e2-49f4-a3bb-36846a53abba,531,Sundar,Jhon
+2025-06-01T02:00:26,Stand,Plain,243m,Nylon 40%,Pending,ccf5d28b-1f95-4452-9134-a675a3561774,118,Nisha,Tom
+2025-06-09T01:40:38,Primium,Linen,462,Nylon 40%,Confirmed,08f1e827-4b04-4f2f-9c0e-6ad7da9398f2,556,Priya,Jhon
+2025-05-02T22:10:39,Premium,Plain,248m,20%,Confirmed,21ac5d09-b6e5-47d3-a968-79434db8101e,414,Priya,qilyze
+2025-05-22T05:00:16,Economy,Twill,513m,Polyester 80%,Cancelled,1c98e0ed-7f6f-4ac5-bf74-0d8d2fcf5b6d,380,Mukilan,Tom
+2025-05-06T14:36:27,Primium,spandex ,666m,Viscose 70%,Cancelled,b9675511-5d82-481d-95e8-ace93996fbaa,58,Priya,jogoco
+2025-06-19T04:42:35,Standard,spandex ,127m,Cotton 100%,Confirmed,a06c8614-5a10-40cf-bdc1-c5f27a61a4d6,404,Mukilan,jogoco
+2025-06-18T11:28:50,Premium,linen,515m,Nylon 40%,Pending,e7108420-be0c-479d-8a2d-f1cf060a2492,460,Arun,Deepak
+2025-06-05T02:14:22,Stand,Crepe,822,Cotton 100%,Confirmed,31591323-758d-4114-b4c9-b6b02319594f,557,Arun,qilyze
+2025-06-13T00:34:01,Premium,Plain,592m,Viscose 70%,Cancelled,0e9e15aa-96ed-4108-93f5-41c6eb8c817e,127,Nisha,jogoco
+2025-05-05T11:53:34,stand ,Linen,896,Nylon 40%,Confirmed,68f22621-f6d6-4a0c-bfef-eeff3c2cc657,369,Arun,Deepak
+2025-06-19T10:25:31,Standard,Satin,948,Cotton 100%,Cancelled,091f21fa-0f50-43de-b591-0f3847cbbdfb,369,Priya,Sara
+2025-05-05T08:09:23,Stand,Plain,998m,Cotton 50%,Confirmed,f6325070-2686-4df2-9daa-5a1067daa491,56,Mukilan,Tom
+2025-06-09T22:51:49,premium ,Satin,170,20%,Cancelled,5fd04bf4-1381-4039-ad0d-f296df701d9d,587,Arun,Anita
+2025-05-21T10:35:08,premium ,spandex ,555,Silk 60%,Pending,5ef0e2ae-4969-4af6-b82a-e880aef01de9,414,Nisha,Jhon
+2025-05-26T09:27:09,Stand,Plain,968m,Viscose 70%,Confirmed,5bed79d0-918d-4ba5-8ea8-780c27e9e6ab,160,Ravi,Tom
+2025-06-24T19:22:18,premium ,Crepe,511,Cotton 50%,Cancelled,2c001d78-b578-42f5-973e-cc6185adfe6a,568,Arun,Jhon
+2025-05-28T02:06:16,Premium,Linen,216m,20%,Confirmed,021d187c-247f-4e61-ae07-b17497494a4e,140,Arun,Kumar
+2025-06-13T11:39:49,stand ,Satin,138m,Silk 60%,Pending,f588fbac-b52f-4926-bf33-60f8b30e2926,398,Sundar,jogoco
+2025-06-20T19:16:24,Economy,Crepe,319,20%,Pending,606fbf37-9b8d-4ca0-890b-b101629c9717,144,Nisha,Kumar
+2025-06-26T10:15:15,Premium,spandex ,915,Cotton 50%,Pending,777230da-dfd0-492c-a79c-5a4486c31571,231,Arun,Deepak
+2025-06-29T12:18:14,Premium,Crepe,460m,Silk 60%,Confirmed,de651fb4-8062-43b0-8b2b-b3a466252319,63,Priya,jogoco
+2025-06-06T00:09:19,Premium,Spandex,181m,Cotton 50%,Cancelled,e9ee269a-8889-4b80-968f-b33dd8d078e3,591,Mukilan,Deepak
+2025-05-29T09:22:09,Premium,Crepe,348m,Cotton 100%,Confirmed,8de957a2-1aba-4aa4-849d-e7cb581ff644,259,Ravi,qilyze
+2025-05-24T13:25:31,Economy,Satin,877,Cotton 50%,Confirmed,99912a88-f39d-45cb-81b6-6de444d3c2f4,527,Priya,qilyze
+2025-06-07T13:43:46,Stand,Plain,872,Cotton 100%,Pending,8a5e6f95-1e55-45e9-b6dc-3bded1161f9e,142,Ravi,Jhon
+2025-05-14T20:01:48,Premium,Linen,997m,Cotton 100%,Confirmed,c761cc83-7fa6-4415-81f9-1dee0a23b8e9,372,Sundar,Sara
+2025-05-23T08:02:31,Stand,Linen,663,Cotton 50%,Pending,9435ab07-4133-454d-b656-9fd74f150c7d,116,Arun,Sara
+2025-06-13T21:17:08,Premium,Satin,659,Cotton 50%,Pending,49db66e2-729b-4c60-b2c2-be112ae0ebcc,440,Ravi,Sara
+2025-05-18T13:36:55,Stand,Linen,629,Cotton 100%,Cancelled,9f7fe522-95a5-44df-b850-a66f2d4df13e,512,Arun,Anita
+2025-06-02T17:32:35,Standard,linen,468m,Viscose 70%,Pending,6915945e-4cb1-4c51-8fa5-1869a0e71d64,238,Ravi,Jhon
+2025-06-08T04:55:36,Stand,linen,65m,Cotton 100%,Cancelled,efcd0d79-1edd-4b88-94f6-685dc41fe419,435,Arun,Deepak
+2025-05-07T04:28:49,stand ,Satin,486,Silk 60%,Cancelled,7846b16b-ba82-4116-b385-f57247c4a9a5,470,Priya,Anita
+2025-05-25T23:57:13,Stand,Twill,406m,Cotton 100%,Pending,0f273457-afc2-4b6e-b5e8-52fcc988b03c,173,Ravi,Tom
+2025-05-04T05:26:30,Premium,Spandex,248,Polyester 80%,Confirmed,dbb2e10b-437e-48aa-812f-197a527ec3c0,387,Priya,Tom
+2025-06-27T12:40:53,Economy,linen,538,Cotton 100%,Cancelled,6aa1ccef-4e3a-4161-bb2a-33594eae46d0,201,Sundar,Jhon
+2025-05-29T15:48:53,Primium,Denim,200m,Polyester 80%,Cancelled,15ac6fee-c87d-4e72-8fa3-be60922e9be0,72,Nisha,Deepak
+2025-06-02T19:19:06,premium ,Crepe,747m,Nylon 40%,Pending,277f5b61-168d-47cb-8d62-0fd1eacda371,342,Sundar,Tom
+2025-05-05T13:37:24,Premium,Twill,384m,Cotton 100%,Pending,97f689a9-db0e-411a-a6e9-d03ca22e49b2,284,Sundar,Jhon
+2025-05-17T21:17:51,Economy,Spandex,69,Cotton 50%,Pending,d0f7d671-011f-412e-b520-9987f452baa0,130,Nisha,Kumar
+2025-05-12T00:33:02,Primium,Crepe,891,Cotton 100%,Confirmed,ca2fbff1-fb10-4b6c-b858-3c4275c36329,186,Priya,Jhon
+2025-06-06T21:46:33,Stand,Spandex,867m,Viscose 70%,Confirmed,2f207d62-4bb0-4cad-9806-34a64d192f8c,396,Nisha,Kumar
+2025-05-22T11:45:32,Premium,Plain,474,20%,Cancelled,624e9273-caa8-4dd4-8c63-5a4654adcc76,487,Mukilan,Kumar
+2025-05-02T21:02:04,premium ,Plain,437m,Nylon 40%,Confirmed,42d5191e-398c-4f21-833a-a016f71f8857,371,Mukilan,qilyze
+2025-05-28T01:44:07,Primium,Crepe,200,20%,Pending,4a660870-c92a-4b11-8f24-9a9ed94abcc2,599,Ravi,qilyze
+2025-06-24T22:06:47,Standard,Plain,116m,Polyester 80%,Pending,401d67a5-57a3-4b62-b9c9-ee9e4b35df4a,216,Arun,jogoco
+2025-05-24T11:50:09,stand ,spandex ,477m,Cotton 50%,Pending,59e0666f-aff3-4553-881d-4786fa9322d2,282,Sundar,Deepak
+2025-05-08T05:28:54,Economy,spandex ,354m,Polyester 80%,Cancelled,167b3611-74eb-44f1-9985-2dbcc5189d23,180,Priya,Deepak
+2025-05-03T21:28:54,Standard,Satin,254m,Nylon 40%,Confirmed,d2f7f6b5-ec77-4ae8-b901-06c28d5d71bc,298,Priya,Sara
+2025-06-20T23:38:28,Stand,Plain,514,20%,Pending,90c59c7e-c60d-4b2f-b702-ac18595928be,56,Sundar,Deepak
+2025-05-04T10:19:24,Primium,Plain,234,20%,Confirmed,c932e0b4-ac71-4746-bb2d-3891612196ee,73,Sundar,Jhon
+2025-06-12T16:45:57,premium ,Twill,149,Cotton 100%,Confirmed,c5ac1b47-08d9-4eab-8b48-daff10191d58,219,Nisha,Anita
+2025-05-11T19:11:22,stand ,Plain,371,Polyester 80%,Pending,ffd26d7d-f279-4a75-942b-036a03775995,195,Nisha,jogoco
+2025-05-02T21:46:48,Standard,Twill,312m,Nylon 40%,Cancelled,e9f05573-6e45-48df-a513-067e83bd8b37,347,Arun,Sara
+2025-05-12T08:30:16,Premium,Satin,361,Viscose 70%,Cancelled,19632e7e-7080-4e20-afa3-b8ed38025822,314,Arun,Jhon
+2025-06-06T23:04:44,Standard,Satin,145,Polyester 80%,Cancelled,d00d2ae5-b261-494d-9ca3-c3754341f7a8,303,Sundar,Sara
+2025-06-06T18:12:41,Primium,Plain,573m,Cotton 50%,Cancelled,86fd306c-b083-4f38-8eda-808d5a0a52e1,289,Mukilan,Deepak
+2025-05-18T05:42:19,Stand,Crepe,533m,Silk 60%,Pending,5f5c2cfa-60d9-4363-848c-ab826ee37105,592,Sundar,Tom
+2025-05-12T17:42:48,premium ,spandex ,349,Silk 60%,Confirmed,71e6e425-d557-4864-a4e2-0088804f4f44,330,Nisha,Deepak
+2025-06-30T09:49:51,Primium,linen,341,20%,Pending,2f2d3574-56df-4316-89d3-463152bc20a2,222,Mukilan,Anita
+2025-05-16T21:39:21,Standard,Crepe,204m,Cotton 100%,Cancelled,4e1fd0c4-609e-45dc-bdea-a3a0750b7a6a,303,Nisha,jogoco
+2025-05-01T16:29:56,premium ,Denim,895m,Cotton 50%,Pending,b018b2bb-9bc5-448f-9a4d-15300579fccf,515,Sundar,Tom
+2025-05-28T05:50:27,Premium,Denim,672,Nylon 40%,Pending,e0d6cf43-28f9-4116-a382-71509334c829,203,Ravi,qilyze
+2025-06-26T07:02:01,Standard,Denim,88,Polyester 80%,Pending,518d1ff2-e0ac-493c-98e3-c0b0a041d487,142,Arun,Tom
+2025-06-12T12:14:17,Premium,Denim,539m,Polyester 80%,Cancelled,12c56a1c-68e3-4fc9-a146-ae4d093306f8,82,Sundar,jogoco
+2025-06-17T09:15:18,Primium,Spandex,62m,Nylon 40%,Cancelled,a65a4393-0fb4-4e77-935c-b060332277b9,455,Arun,Anita
+2025-06-17T12:16:54,Stand,Crepe,292,20%,Pending,4bb47279-95da-491e-88f9-48b0ee815713,238,Arun,Anita
+2025-05-29T20:30:27,Stand,Linen,183,Polyester 80%,Cancelled,a7ba0fef-f306-45bf-9c21-18da71ac5034,457,Sundar,Sara
+2025-06-04T07:17:10,Stand,Satin,470,Cotton 50%,Pending,1837528d-3265-4df5-8fc4-88964cbc35a9,335,Priya,Tom
+2025-06-16T17:32:41,stand ,linen,840m,20%,Confirmed,11c4979a-8f79-4141-a801-223b58925be3,485,Sundar,Jhon
+2025-05-18T19:37:46,Economy,Spandex,743m,20%,Confirmed,b9053633-993c-4c62-a93e-f6e2bc5fde46,171,Nisha,Sara
+2025-05-20T16:19:30,Economy,Linen,256m,Cotton 100%,Pending,6ab54464-6315-4898-8272-bd4cee6b151b,484,Sundar,Tom
+2025-06-02T10:30:01,Premium,spandex ,366m,20%,Confirmed,55d748e0-89f0-4cf6-83d5-4f77908f9fe8,580,Ravi,Deepak
+2025-06-26T02:32:48,Stand,linen,644m,Viscose 70%,Confirmed,1177ec42-4c6b-4d1e-8bdf-b599fe7cd1d0,489,Ravi,Kumar
+2025-05-04T16:00:11,stand ,Crepe,468m,Polyester 80%,Cancelled,721d4bc7-2fae-48e2-9ccb-8bf86d50085c,237,Sundar,qilyze
+2025-05-28T14:08:59,Premium,linen,224m,Cotton 100%,Confirmed,c993ab0d-a9ad-436f-b4ab-c7aacac6ad5a,537,Sundar,Sara
+2025-05-15T23:40:05,Standard,Plain,524m,Nylon 40%,Confirmed,dda4b493-f413-4e56-a5b0-43fe5bf645f6,451,Sundar,Anita
+2025-05-20T11:03:24,premium ,Plain,174,Viscose 70%,Confirmed,628609e8-fd9c-48f8-8343-8ab44ab94962,227,Nisha,Sara
+2025-05-24T07:06:30,Premium,spandex ,150m,20%,Cancelled,d8a9b9ef-d282-40c2-8dbe-40582ac658fc,505,Mukilan,qilyze
+2025-05-27T04:56:43,stand ,Satin,381,Nylon 40%,Cancelled,0c2b403a-dad3-4e58-b844-f3c8ad629e0a,599,Sundar,Anita
+2025-05-07T15:53:32,Primium,spandex ,494,Viscose 70%,Pending,fe71b30c-ca13-4cc9-a09a-58d32ffb2fe2,411,Arun,Deepak
+2025-06-22T03:58:17,premium ,Satin,571m,Viscose 70%,Cancelled,ceb46ded-1caf-4ce6-90be-d12bee387b3d,144,Mukilan,Tom
+2025-06-23T08:58:56,stand ,spandex ,748m,Cotton 50%,Confirmed,081f949e-040c-4976-888f-96df9150d7c9,548,Nisha,Kumar
+2025-06-20T11:50:00,Premium,Crepe,271,20%,Cancelled,b0628d42-f968-4bf1-8210-418922fd6f55,429,Arun,qilyze
+2025-05-24T20:22:02,Primium,Plain,578m,Viscose 70%,Confirmed,5ff930c3-239e-4cd4-bb31-fa25c9025188,528,Ravi,Tom
+2025-06-10T17:22:10,Stand,spandex ,295,Polyester 80%,Pending,bbb931a1-34b4-4901-ac6a-2992ba532b63,281,Nisha,Anita
+2025-05-01T09:57:51,Primium,Plain,757m,Cotton 50%,Cancelled,a1a5dc06-c72d-4355-9697-dd291930706c,188,Priya,qilyze
+2025-05-15T12:39:31,Economy,Spandex,874,Silk 60%,Cancelled,36952acf-aecf-4821-91d5-8dd87ecac608,542,Priya,Kumar
+2025-06-18T10:41:39,stand ,Spandex,397m,Cotton 100%,Pending,9c695a6b-09f5-4952-94bf-d85c2228b047,469,Sundar,Deepak
+2025-05-20T08:04:08,Standard,Plain,722,Nylon 40%,Confirmed,80d51de2-832f-417b-9011-fa39f30219d5,573,Arun,jogoco
+2025-06-28T23:30:55,Economy,Denim,91,Cotton 50%,Pending,3f55ce57-1476-4dd7-9675-b425fa692d8f,217,Arun,Anita
+2025-06-19T21:46:15,Economy,Plain,231,Polyester 80%,Confirmed,31e11546-2329-4f15-9601-7e2250209159,288,Ravi,Deepak
+2025-05-31T04:39:16,Primium,linen,491m,Cotton 100%,Confirmed,68908378-4e1c-4695-8945-c8a895cee446,482,Nisha,Kumar
+2025-06-05T14:25:30,Premium,Linen,168m,Polyester 80%,Pending,4f2201a5-4437-4883-86fb-4ed82a2a5f34,450,Priya,Kumar
+2025-05-15T23:59:40,Primium,linen,997m,Cotton 100%,Cancelled,d239a091-71c0-4829-9de5-4053f59d5688,165,Arun,jogoco
+2025-06-19T07:37:22,Standard,Spandex,948m,Nylon 40%,Pending,b10b011d-42bf-4fcf-88ed-53e0809f33a4,457,Nisha,Deepak
+2025-05-18T23:53:52,stand ,Spandex,245m,Polyester 80%,Cancelled,e50e2731-87ab-40a1-8bd1-b64f38beb7b1,280,Nisha,Jhon
+2025-05-05T22:14:44,Standard,Plain,500m,Silk 60%,Pending,d80c1c13-adcf-47fd-9f69-35aca2306f76,163,Arun,Anita
+2025-06-04T01:38:00,Economy,Spandex,877,Cotton 100%,Pending,0b62ebe5-e2b4-48e5-8a9e-e47c8aada42d,348,Mukilan,qilyze
+2025-06-10T02:26:31,stand ,Twill,517m,Polyester 80%,Pending,705c8601-4a33-44d1-85b9-10b0c799a0d8,362,Nisha,Anita
+2025-05-18T21:23:13,Standard,Plain,267,Cotton 100%,Cancelled,006f02c8-794f-410a-91b7-4c6f742c933e,314,Ravi,Anita
+2025-05-08T04:35:00,Stand,Linen,143m,Cotton 100%,Cancelled,f7aa6031-26e7-4af0-9d88-5286e80b2c39,127,Sundar,Kumar
+2025-05-14T13:16:48,Stand,Linen,940,20%,Pending,0b2eb58d-7d2b-4bef-9e06-52da8bef27b8,196,Arun,Kumar
+2025-06-07T01:34:42,Premium,Spandex,352m,Cotton 100%,Cancelled,694b069b-e6d5-4811-bac7-72fe975521b1,118,Nisha,qilyze
+2025-05-03T00:05:24,Primium,Crepe,855,Polyester 80%,Pending,df5284a6-bccd-4d47-b233-0898c7c61fc2,505,Nisha,Deepak
+2025-05-06T20:57:27,stand ,Satin,286m,Polyester 80%,Pending,47a05557-9187-4ee2-8b33-d2366fa16332,375,Sundar,qilyze
+2025-06-04T11:33:33,stand ,Crepe,704m,Cotton 50%,Cancelled,c115c9d1-7484-4214-a018-7f3b66149fe4,369,Arun,Jhon
+2025-06-09T18:21:45,Premium,Linen,894m,20%,Confirmed,43d82fcb-f366-4cf3-a51e-dfd6ad186d74,155,Priya,Jhon
+2025-05-31T20:38:44,Primium,linen,384m,Cotton 100%,Pending,9839d8a7-6fe9-43e9-a5f2-38effc5c2c9b,466,Arun,Kumar
+2025-06-03T07:13:35,Economy,spandex ,706,20%,Cancelled,168aaacc-5bf4-4373-bf21-1a487cef319d,377,Nisha,Kumar
+2025-06-07T22:32:42,Premium,Spandex,482m,Cotton 100%,Cancelled,cc07f8cd-dc6c-43a2-81b8-fcb5076476b4,304,Sundar,Deepak
+2025-05-21T00:46:43,stand ,Satin,880m,Polyester 80%,Cancelled,f8f0e6e9-965a-444d-be45-5ae9017161a9,245,Mukilan,qilyze
+2025-05-19T16:29:56,Standard,spandex ,376m,Viscose 70%,Confirmed,fe9023ab-3b19-4a84-8428-3369d345941e,481,Nisha,qilyze
+2025-06-20T13:20:41,Primium,Crepe,309,Silk 60%,Confirmed,6baaaec4-5fb4-4dc3-959c-9f44d50ee4d9,347,Ravi,Tom
+2025-05-01T01:57:57,premium ,spandex ,165m,Polyester 80%,Pending,09c74c53-24c6-439e-bf6e-4788cd34787e,336,Nisha,Kumar
+2025-05-01T09:27:10,Standard,spandex ,805m,Nylon 40%,Confirmed,ae83780d-1017-4b30-8ccc-7ec93c262757,117,Priya,jogoco
+2025-05-19T00:47:40,Stand,spandex ,181,Cotton 50%,Cancelled,cb967c7f-7d21-4c65-9f36-1a6d191e87d2,133,Mukilan,Jhon
+2025-05-01T09:02:31,stand ,Denim,71,Silk 60%,Cancelled,11c65e36-407e-489a-b4c2-ee31f356cf38,91,Ravi,Sara
+2025-05-14T04:39:22,Economy,Linen,87,Cotton 50%,Confirmed,8e78f8d5-ae1a-43d8-8669-306542594971,560,Nisha,qilyze
+2025-05-08T10:22:37,Stand,Denim,832,Nylon 40%,Pending,5f6da406-d9b1-4a06-b1b3-61a2161cb88b,541,Nisha,Sara
+2025-06-23T09:06:29,Primium,Twill,468,Silk 60%,Confirmed,88982f97-5ed7-4021-aab0-fc0e353c9cb1,281,Nisha,Jhon
+2025-05-14T16:15:05,Economy,Denim,427,20%,Confirmed,a9e5418c-e851-46b8-9129-6d05ee82c727,140,Ravi,Sara
+2025-05-12T15:35:47,Economy,Linen,997m,Viscose 70%,Confirmed,8d3a8426-f423-464f-840a-b77f1728e549,146,Mukilan,Jhon
+2025-06-01T21:02:52,Economy,linen,777m,Viscose 70%,Pending,ef5a0364-2fef-4ade-87ff-0db0b2008419,508,Arun,Sara
+2025-05-30T04:37:12,stand ,spandex ,191m,Cotton 50%,Confirmed,88b686f5-aaca-4139-802e-a01a34b91138,299,Ravi,Sara
+2025-05-23T15:16:21,stand ,Spandex,464m,Cotton 50%,Confirmed,0c24836f-4efe-43fb-9489-71529864b18c,103,Priya,jogoco
+2025-06-10T01:58:37,Primium,Satin,338,20%,Pending,212cf2b5-0895-481e-9a4d-4a22512f8d90,474,Sundar,Deepak
+2025-06-25T00:52:15,Stand,Linen,99m,Polyester 80%,Cancelled,c42c0bec-c057-4acb-880e-f3c2677f5412,70,Nisha,Jhon
+2025-06-06T23:21:43,Primium,Spandex,529,Cotton 100%,Confirmed,f53cb5cb-5d69-4a7b-8651-0566b354d610,115,Sundar,Kumar
+2025-06-21T06:21:46,Stand,Twill,614,20%,Confirmed,e4e331bf-45d7-439b-bb5f-e0cfba870d31,113,Ravi,Deepak
+2025-06-01T17:13:05,Primium,spandex ,730,Nylon 40%,Confirmed,e8d4e808-f260-4bbc-b595-9e7580744d33,368,Priya,jogoco
+2025-06-22T15:35:26,Stand,Crepe,915m,Cotton 100%,Confirmed,8c0df3a4-e8d6-4b86-be45-b5397021395b,121,Ravi,jogoco
+2025-06-15T20:57:07,stand ,Twill,645,Polyester 80%,Cancelled,4f197265-bcac-4fec-b992-9193b5076db3,246,Mukilan,Tom
+2025-06-10T05:47:33,Premium,Twill,517,20%,Confirmed,05902ae8-fd0e-4a7e-a56e-f739ee2f1205,491,Ravi,Deepak
+2025-06-23T07:47:37,premium ,Crepe,360,20%,Pending,988a7d9b-a8e5-4c01-8629-fff2e33491f2,594,Ravi,Jhon
+2025-06-20T05:00:53,premium ,Spandex,242m,Cotton 50%,Pending,2ec7a097-262c-42dd-835a-da0fe87879fb,468,Ravi,jogoco
+2025-05-27T11:48:02,Premium,Denim,920,20%,Confirmed,b1c08226-81df-4bc0-858c-4966cda6a42c,543,Priya,Anita
+2025-05-02T10:02:17,Premium,Crepe,174,20%,Pending,08c544bd-68ad-4ed3-a491-2ca23533bbe1,168,Priya,jogoco
+2025-05-18T20:22:03,Primium,spandex ,240m,Silk 60%,Pending,4ac866de-f68b-4101-8c27-93c5bc16b501,379,Priya,Jhon
+2025-05-14T14:21:04,Standard,Crepe,925,Cotton 50%,Pending,a0e34d0d-c5f6-484c-85be-6f684252057b,534,Priya,qilyze
+2025-05-25T09:03:29,Standard,linen,855m,Nylon 40%,Confirmed,f983ae06-1974-4ffc-b27f-4e60eb57ecaf,138,Arun,Sara
+2025-05-04T14:20:53,Premium,Plain,813m,Polyester 80%,Confirmed,7df4de30-6825-4f00-96df-3a43af432797,447,Mukilan,Anita
+2025-06-08T16:51:07,Premium,Crepe,737,Polyester 80%,Pending,3d02f4e9-8fab-4f8f-9eaa-65f2771fe05b,349,Arun,Deepak
+2025-06-28T06:31:57,Premium,Crepe,938,Nylon 40%,Confirmed,8527235a-6adc-4db7-9269-86097e021007,254,Sundar,Sara
+2025-05-13T23:52:28,premium ,Crepe,461m,Polyester 80%,Pending,bf51362f-a6d4-47bc-8be0-da6144ebd7a0,271,Mukilan,Anita
+2025-06-23T14:43:34,Premium,Twill,239,Polyester 80%,Pending,bc9aff95-a965-44f2-9fee-45764c70563b,574,Sundar,Jhon
+2025-05-06T03:54:16,Standard,spandex ,280m,Cotton 100%,Confirmed,8539a565-4351-4fc0-b846-95b66deb708b,119,Sundar,Kumar
+2025-06-19T15:25:51,Standard,Denim,574,Silk 60%,Confirmed,e20415aa-c01b-4ba0-92ea-46bff852cfc1,293,Sundar,Tom
+2025-05-16T16:28:17,Standard,Satin,150,Viscose 70%,Confirmed,e2296592-47f0-419b-a69d-0408cea2548e,435,Ravi,Deepak
+2025-05-10T08:25:19,Stand,Satin,554m,Cotton 100%,Pending,d9c17167-cfb6-433f-b609-827d8a81ef89,253,Ravi,Anita
+2025-05-01T12:58:21,Economy,Spandex,655,Cotton 50%,Cancelled,6ad5e8fb-1992-4974-8a39-5278049284b6,397,Ravi,Anita
+2025-05-28T03:40:51,Standard,linen,981,Cotton 100%,Pending,1f423da6-ea49-41b6-85f9-5d928329a988,119,Ravi,Anita
+2025-06-22T12:18:39,Stand,Crepe,972,Cotton 100%,Cancelled,1ae85aa0-9fb6-4390-8fdd-0b19e0de0690,536,Mukilan,Tom
+2025-06-15T12:43:52,Standard,Plain,934m,Silk 60%,Confirmed,329d9079-8e69-453d-abbc-ca945294610e,160,Ravi,qilyze
+2025-05-30T18:56:14,Standard,spandex ,551,Viscose 70%,Pending,e6aba114-1eee-4a73-9506-15b9a9fa3a6f,300,Ravi,Tom
+2025-05-29T06:05:48,Primium,Linen,766m,Polyester 80%,Cancelled,3ded18ed-4b96-4cfd-ae02-eeb01efb5fbb,220,Nisha,Jhon
+2025-06-24T14:48:54,Stand,Satin,384m,Cotton 100%,Confirmed,8540ff3b-be13-4900-aa4e-b46749df3f95,243,Nisha,Kumar
+2025-05-30T19:07:32,Premium,Plain,469m,Viscose 70%,Cancelled,1336b4fb-a9b7-48e7-9da1-db859959b6df,458,Sundar,Kumar
+2025-06-26T04:13:12,Standard,spandex ,303m,Viscose 70%,Cancelled,9f6a6e92-a8d6-41f0-8fe6-b40e0fe4832b,299,Mukilan,Jhon
+2025-06-30T09:03:47,Economy,Satin,851m,Cotton 50%,Cancelled,9d33e835-79df-488b-86ec-be696d9cc29c,321,Priya,Deepak
+2025-06-09T13:46:00,stand ,Twill,378,Silk 60%,Confirmed,d3888884-c0de-4461-af09-3c7c65afe180,496,Nisha,Tom
+2025-06-10T05:59:12,Premium,Satin,710m,Nylon 40%,Cancelled,3112a729-e76b-47fc-bbce-5d75cafddcd7,234,Nisha,Deepak
+2025-06-08T18:13:05,Stand,Denim,921,Cotton 100%,Confirmed,d005b5f9-1d1d-4c55-8d6a-861ccebe4af3,474,Sundar,Kumar
+2025-06-01T11:09:17,stand ,linen,359m,Cotton 100%,Pending,f4381af2-6518-4868-9789-3ab6bfbdadb0,320,Mukilan,Tom
+2025-05-17T08:44:49,Standard,Twill,265,Polyester 80%,Cancelled,759ab426-ac9a-4313-b861-8701cf06d18e,453,Nisha,Anita
+2025-06-22T13:32:58,premium ,Plain,574m,Nylon 40%,Confirmed,e92269b1-4bf9-4485-b8d3-a44236c216c2,572,Nisha,Kumar
+2025-06-07T20:43:56,Standard,Satin,603m,Cotton 100%,Cancelled,ea1c7ac4-f1dc-4e7f-9bcb-b5bd3f260a3b,240,Nisha,Jhon
+2025-06-24T09:17:48,Premium,Denim,788m,20%,Confirmed,01d95713-f4e5-4634-a912-4169674d9aac,293,Sundar,Tom
+2025-05-17T20:25:45,premium ,Plain,580,Polyester 80%,Pending,0ce3fd5b-aba2-44cd-9a10-e2983cbe8410,80,Ravi,Anita
+2025-05-14T05:21:48,stand ,Twill,252m,Silk 60%,Confirmed,2e001da0-9cc0-4c98-b73e-8a865403efcb,557,Nisha,qilyze
+2025-06-29T05:23:39,Standard,Spandex,105,Nylon 40%,Pending,f27ea551-d6c5-445f-860f-ada6989eaebc,378,Ravi,jogoco
+2025-05-19T00:12:14,premium ,Twill,931m,Silk 60%,Pending,a6f29397-2d6a-4675-87c5-add8652bab97,390,Priya,Jhon
+2025-05-03T05:09:00,Economy,spandex ,693m,Cotton 100%,Cancelled,0a01c309-6b7e-44a9-8aea-db44023900d4,303,Arun,Sara
+2025-06-04T09:50:10,Economy,Plain,89m,Nylon 40%,Pending,f1b9f0c6-7296-481e-8005-fed355343089,236,Sundar,qilyze
+2025-05-29T06:23:49,Primium,linen,703,Cotton 100%,Pending,fba3c011-1c5f-4afd-9e10-e5bd1acf9311,79,Sundar,Jhon
+2025-06-25T09:09:56,Stand,Linen,80m,Nylon 40%,Cancelled,13b7f21c-c80f-48b2-9448-d837016a053e,297,Nisha,qilyze
+2025-06-08T00:08:16,Standard,Plain,180m,Cotton 50%,Cancelled,f6282140-b91f-41c0-9306-19626d40b8fb,472,Arun,jogoco
+2025-05-22T05:12:51,Premium,Twill,828,Silk 60%,Pending,da6d29bf-c2fc-4edb-a437-2ef32b7bde12,598,Arun,Sara
+2025-05-13T21:04:32,Primium,Spandex,289m,Silk 60%,Pending,03a8012c-c3a3-41c6-932a-dd85b33f5c21,399,Arun,qilyze
+2025-05-14T20:45:20,Premium,Plain,882m,Nylon 40%,Cancelled,d943479b-c0cd-4c67-af29-d66132285098,446,Ravi,Deepak
+2025-05-04T08:24:02,stand ,spandex ,414m,Viscose 70%,Pending,63d2c766-e8bf-40c4-b954-5b4a2fd3388a,184,Arun,Sara
+2025-05-29T05:06:05,premium ,Linen,677,Cotton 50%,Confirmed,deb5f551-a748-4b74-b429-cfb8e868871f,72,Nisha,Kumar
+2025-05-15T18:33:47,Premium,linen,313,Cotton 50%,Cancelled,004e2dd3-4015-44f2-be9e-17aca39e3ee6,574,Ravi,Deepak
+2025-05-01T17:12:21,premium ,Denim,56m,Nylon 40%,Cancelled,e93e8500-27a8-4e99-b9ad-ffed5ef2b3a7,128,Mukilan,qilyze
+2025-06-02T00:12:41,Stand,Plain,592m,Cotton 50%,Pending,e7a67ba0-3d7f-47f7-9bf7-2a7acb5fe332,190,Priya,jogoco
+2025-05-07T08:33:38,Economy,Spandex,777,20%,Pending,7ec30a66-a293-4417-8c3b-46ddbe8b3ca7,410,Arun,Deepak
+2025-06-23T16:05:51,premium ,Crepe,709,Nylon 40%,Confirmed,a20d5827-97a9-48c9-ae11-986f169e30fd,478,Nisha,Anita
+2025-05-12T08:03:33,Premium,spandex ,688,Cotton 50%,Pending,1548281f-99e6-4402-9040-176e347f0017,256,Ravi,Sara
+2025-05-24T00:24:50,Economy,Spandex,349m,Cotton 100%,Cancelled,006c4232-bbcc-4b61-bfb8-e8b156f3e949,496,Sundar,Deepak
+2025-06-14T23:13:36,Standard,Spandex,170m,Silk 60%,Cancelled,b7ff861a-24b0-4664-9f90-a979ddf2a9a1,421,Arun,Sara
+2025-05-10T12:08:58,Stand,Denim,629m,Polyester 80%,Pending,a4546e57-abde-4208-a6db-4f99a0342e43,298,Sundar,jogoco
+2025-05-28T00:27:23,stand ,Spandex,211m,20%,Cancelled,efdd632c-954c-48fc-a5ac-92d7d65a225b,508,Nisha,Jhon
+2025-06-01T06:56:04,stand ,Satin,253,Nylon 40%,Cancelled,207e3c2c-18eb-4303-8640-d407af00fe64,593,Mukilan,jogoco
+2025-05-30T11:09:14,Stand,Denim,386m,Polyester 80%,Pending,eb00461d-a106-4fbe-8140-c94211dc68f4,150,Ravi,Tom
+2025-06-17T19:48:38,Stand,Plain,702,Cotton 100%,Cancelled,03d14af3-0c65-4269-b747-51c1b4c4789d,197,Ravi,Jhon
+2025-06-18T13:25:59,Economy,Spandex,303,Nylon 40%,Confirmed,c0e6fa36-a817-4c95-9454-c3c390f7a557,261,Arun,Deepak
+2025-06-24T16:39:24,premium ,Crepe,323,20%,Cancelled,bbee8c36-bf35-4e28-af0b-e9947a197089,187,Nisha,jogoco
+2025-05-23T01:50:03,Premium,spandex ,505,Silk 60%,Pending,19c5754a-cd25-4469-8383-d8255fc9065f,85,Sundar,qilyze
+2025-05-17T07:14:10,premium ,Denim,111m,Viscose 70%,Confirmed,10518e28-ca9d-4b67-a2ab-91450fccf6a8,308,Mukilan,qilyze
+2025-06-18T07:30:36,premium ,Satin,56,Cotton 100%,Confirmed,c640e876-12d7-403a-a299-48261a02e31d,391,Arun,Anita
+2025-06-21T15:54:42,premium ,Linen,117,Silk 60%,Cancelled,6e5205b9-5cdc-4b13-8c72-fd290ffd6f13,462,Sundar,Sara
+2025-06-08T04:45:17,Primium,linen,765m,20%,Pending,1b24f23e-b141-4f86-a717-f007809f736a,105,Mukilan,Deepak
+2025-05-26T21:28:20,premium ,Satin,844m,Nylon 40%,Confirmed,2c53ff9c-6cf7-40fa-9ba2-498a8098b093,521,Nisha,qilyze
+2025-05-11T20:50:22,Primium,Denim,96,20%,Pending,fa4fedff-7775-4988-bbb3-aac8b81f7069,542,Arun,jogoco
+2025-06-22T16:58:44,Stand,Linen,913m,Cotton 50%,Cancelled,3a645fca-eea8-4d40-991c-a7aa6012a080,458,Nisha,jogoco
+2025-05-22T21:57:39,Stand,Linen,220,Nylon 40%,Cancelled,1049ed30-9ccf-4c6a-93b9-06d0a617c53e,599,Sundar,Tom
+2025-06-09T19:37:59,stand ,linen,343,Silk 60%,Cancelled,ea212538-f3ab-4033-884b-07beb77851c5,546,Arun,Tom
+2025-05-01T10:02:30,Premium,Spandex,745m,Polyester 80%,Cancelled,8cd8b145-974c-455b-b3a6-5db5c3e5d5b9,237,Ravi,jogoco
+2025-06-20T23:41:06,Premium,Plain,60m,20%,Pending,1e166f48-5612-4c1d-9de3-8680df35b5f6,257,Ravi,Deepak
+2025-06-09T15:25:01,Primium,spandex ,154,20%,Confirmed,7da59275-d26e-4c63-ada4-90abfb694743,460,Arun,qilyze
+2025-05-13T15:26:39,Premium,Satin,226m,20%,Cancelled,37d79b9d-1c9f-4f10-b567-7e63db1b674a,437,Mukilan,Anita
+2025-06-03T09:17:11,Economy,linen,630,Cotton 50%,Cancelled,fe45d358-182f-4b1b-b4b8-e42833e20be2,348,Priya,Deepak
+2025-05-25T19:09:13,premium ,Crepe,646m,Silk 60%,Cancelled,7344e077-af1f-4f76-91cf-0863c88f28b4,261,Priya,Jhon
+2025-06-01T00:15:51,stand ,Linen,603m,20%,Confirmed,ede98856-5434-4691-8ff9-de40104b705c,558,Priya,Sara
+2025-06-15T20:24:14,stand ,Spandex,136,Cotton 50%,Confirmed,3025b80c-ba2d-4c5c-a2f3-25658b24b8b2,525,Mukilan,Tom
+2025-05-26T07:05:38,premium ,linen,447m,Cotton 50%,Pending,9c5f0204-ce46-4597-938b-55e3d9fb9b0d,211,Priya,Sara
+2025-06-04T09:19:23,Primium,Plain,881,Cotton 100%,Confirmed,6ee948a9-e830-4484-bc77-216462942bbc,65,Priya,Kumar
+2025-06-09T23:29:40,Primium,Denim,725,Nylon 40%,Pending,c03e5e15-3982-4b5a-af54-301bbcb2d041,123,Arun,Tom
+2025-05-11T05:03:11,Premium,Plain,113,Nylon 40%,Cancelled,ee78e640-6b44-4fca-9ee3-664e7cd09956,50,Priya,Tom
+2025-05-30T21:47:18,Stand,spandex ,548m,Cotton 50%,Cancelled,3838c7c5-8b75-43ea-956a-b1ae3b4f5804,376,Priya,qilyze
+2025-06-14T01:07:53,Primium,Crepe,442m,Viscose 70%,Confirmed,55462ab2-9325-4e33-8519-0d82a945c033,115,Nisha,Anita
+2025-05-31T07:54:25,Premium,Crepe,916,Silk 60%,Pending,a6c85320-9ac5-4cb5-8d7f-578d64f234a3,342,Ravi,Deepak
+2025-06-05T17:02:17,Stand,Spandex,407,Polyester 80%,Pending,9dedbeba-099e-47bf-8d09-7818048921a0,290,Ravi,qilyze
+2025-06-12T07:49:28,Standard,Denim,606,Viscose 70%,Pending,22f8ce8a-7754-4b66-bc96-7f0b543acdb4,487,Ravi,qilyze
+2025-06-02T03:36:58,Premium,Twill,118m,20%,Pending,0bd6f719-5e53-446a-b947-37c490b99831,372,Nisha,Jhon
+2025-05-03T07:43:59,Standard,Twill,325m,Cotton 50%,Cancelled,6e33f05e-ec6b-4c2d-932b-7a73161359b8,167,Mukilan,Tom
+2025-05-05T21:41:32,stand ,spandex ,508m,Cotton 50%,Confirmed,3f5f6543-258a-46fb-8a20-71ef0f27f3bd,279,Nisha,qilyze
+2025-05-14T20:23:10,Stand,linen,720,Silk 60%,Pending,e98a8fae-e1a0-4db8-99eb-485d93c3d19a,277,Sundar,qilyze
+2025-06-20T04:22:19,premium ,Denim,995,Viscose 70%,Pending,0b71bbdb-a8d6-49b3-b2b8-2a91759e02c6,492,Ravi,Tom
+2025-05-03T10:21:58,Standard,Twill,370,Polyester 80%,Pending,db9ee888-a41b-4897-b04c-7d48025109f1,466,Arun,Tom
+2025-05-18T23:14:59,Economy,Crepe,756m,Cotton 100%,Pending,cacf6b26-8eef-4610-b65b-2206d1c09fcb,531,Sundar,Jhon
+2025-05-07T03:02:53,Standard,Linen,69,Viscose 70%,Confirmed,74d0c8b1-4672-4b4a-a111-e9bf04565f23,226,Ravi,Anita
+2025-05-27T19:30:21,premium ,spandex ,620m,Cotton 50%,Cancelled,224e676f-cf56-4321-aa29-2176d623b34a,471,Ravi,Kumar
+2025-05-16T08:06:23,Stand,Twill,593m,Silk 60%,Cancelled,b064f037-6d62-456d-b66f-aea88b9d02f6,181,Priya,jogoco
+2025-05-07T04:04:32,Stand,linen,647,Silk 60%,Pending,414a70a8-20fb-4d09-9211-318fa625d0f2,75,Priya,qilyze
+2025-05-30T22:55:20,Premium,Linen,756m,20%,Cancelled,eb95e846-5274-446a-92ef-4fd98f8850e2,413,Priya,Sara
+2025-06-18T20:25:05,Primium,Satin,141,Cotton 50%,Pending,52bd520f-9c7d-4949-8a95-d109fb2c6da6,304,Nisha,Deepak
+2025-05-15T15:33:00,stand ,Crepe,53,Cotton 50%,Confirmed,3c2c4178-6fd3-4cce-a9db-8d77fa52ea05,457,Nisha,Jhon
+2025-06-15T02:55:41,stand ,Crepe,71m,Cotton 100%,Confirmed,01909f46-38b1-4911-be9c-2b7c0946d8c4,496,Arun,Tom
+2025-06-05T02:47:02,Primium,Crepe,221,Viscose 70%,Cancelled,c27338a5-4fb5-4133-a061-5d55fd1fd814,578,Mukilan,Sara
+2025-06-14T23:04:15,Primium,linen,143m,Cotton 100%,Confirmed,c5af1953-af3b-4728-bd10-ddea92c302dc,370,Priya,Tom
+2025-06-20T05:37:37,Premium,Spandex,733m,20%,Pending,6c3e9183-5d88-41e1-8ee4-16c0b33d13ad,191,Nisha,Sara
+2025-05-25T23:16:46,Premium,Crepe,923,Nylon 40%,Cancelled,97e377f2-519b-4388-be20-edf9c53e5d0d,487,Ravi,Tom
+2025-05-11T04:13:36,Standard,Spandex,542m,20%,Cancelled,b0f618aa-f358-488e-81c2-77620bdc2ae9,425,Mukilan,Sara
+2025-05-25T08:15:00,Economy,spandex ,808,Polyester 80%,Confirmed,c929b80d-6ec6-4e6c-bd35-c4e03900eb40,535,Ravi,jogoco
+2025-06-25T02:09:54,Primium,Satin,86m,Cotton 50%,Pending,d70ca197-a11b-49af-ab6a-dea3ac3d01c5,50,Arun,Kumar
+2025-05-26T20:34:12,Primium,Linen,196m,Silk 60%,Confirmed,4e954af2-8c87-486e-9c97-ae4358f297ce,376,Priya,Jhon
+2025-05-24T04:26:55,Primium,spandex ,405m,20%,Cancelled,0de59617-3afb-4132-b2bf-c95a5a614a0a,264,Mukilan,Deepak
+2025-06-25T18:06:10,stand ,Denim,968m,20%,Pending,366e9d64-2098-40dc-b27c-5c80d63bc202,183,Nisha,Jhon
+2025-05-24T13:55:36,premium ,Spandex,318,Cotton 100%,Confirmed,442d957f-ec6c-4d95-89e8-3f417bf377b8,297,Arun,Tom
+2025-05-09T16:16:14,stand ,spandex ,322,Silk 60%,Pending,ea287d9f-8520-4d56-9426-559d55b41cc5,110,Nisha,Anita
+2025-06-01T17:56:07,Standard,linen,494,Cotton 100%,Pending,87835188-d4dc-4f45-abf6-572a98e9ee10,64,Sundar,qilyze
+2025-06-01T08:06:43,stand ,Spandex,199,Cotton 100%,Confirmed,370f63f7-9468-43f1-9866-87409273894e,256,Sundar,Tom
+2025-06-14T11:45:50,Primium,spandex ,712m,Cotton 100%,Confirmed,59812dcf-0ca5-4794-8287-d99c01fd60c9,532,Nisha,qilyze
+2025-05-02T01:45:26,Stand,Denim,297m,Polyester 80%,Confirmed,558347d2-9418-4e8b-b15f-7af795631eaf,466,Nisha,Sara
+2025-06-21T03:57:09,Stand,Plain,492m,Viscose 70%,Cancelled,be564979-a67c-44b6-928f-92c576d30153,105,Sundar,Deepak
+2025-05-12T01:58:04,premium ,Crepe,61,Silk 60%,Cancelled,9a7927d4-cae6-43b2-ad5f-9eedb6e3b553,308,Ravi,jogoco
+2025-05-16T01:55:44,Stand,Crepe,928,Polyester 80%,Confirmed,5afb1d4f-467c-4d0f-926b-25002e0ac01b,474,Sundar,Jhon
+2025-06-14T19:42:13,premium ,Plain,489,Cotton 50%,Cancelled,e4f0a901-0508-4cbd-9dd8-d47e6abc8956,433,Ravi,Tom
+2025-05-07T08:50:19,Stand,Denim,743m,Silk 60%,Pending,003afa15-f21d-4a6c-a444-90e482102a3c,287,Priya,Jhon
+2025-06-02T08:16:10,Standard,Denim,804m,Cotton 50%,Cancelled,a2f5303e-82ac-4112-96a9-179615c1b426,90,Sundar,Anita
+2025-06-15T04:09:08,Stand,Linen,269,Polyester 80%,Cancelled,2744f857-9a5d-423c-9e2b-16885d6edb06,349,Sundar,Tom
+2025-05-14T01:01:47,Stand,Satin,423m,Silk 60%,Pending,fed7955e-3a0d-4ab0-bd8b-0706954b30b8,350,Priya,Kumar
+2025-05-28T05:39:41,Stand,Plain,899,Viscose 70%,Confirmed,40785da5-fe71-453e-85eb-d0676c72dccf,286,Sundar,qilyze
+2025-05-31T08:34:16,stand ,Twill,221m,Silk 60%,Pending,0c116e64-1278-4309-a79b-2f962cf3f35d,264,Sundar,Anita
+2025-05-17T02:46:58,premium ,Plain,209,20%,Confirmed,525b5ae4-0a63-4f79-825c-d5f30710851d,493,Priya,jogoco
+2025-05-01T22:59:38,stand ,Crepe,764,Polyester 80%,Confirmed,604233c2-1e86-4ff2-a560-dc2395e11d87,259,Nisha,qilyze
+2025-05-12T13:53:57,Premium,spandex ,691m,Silk 60%,Cancelled,649cd6b2-ac8e-420c-a07c-e4d192710cf2,51,Priya,Jhon
+2025-05-16T03:37:37,Primium,linen,172,Polyester 80%,Cancelled,df92c1de-6281-4eed-9067-06cea7f0d98d,78,Mukilan,jogoco
+2025-05-20T11:47:27,premium ,Spandex,386m,Nylon 40%,Cancelled,07a96f51-4237-4246-9982-0103610670ca,513,Arun,Anita
+2025-05-04T15:15:27,Primium,Twill,826m,Nylon 40%,Pending,17943490-0131-4137-8932-25dbb6e4ceb5,388,Arun,Sara
+2025-05-07T03:50:11,Economy,Denim,482m,20%,Pending,d03e15eb-e597-45d5-ac80-d5b5f6d06ace,561,Ravi,Deepak
+2025-06-01T20:21:03,Premium,Denim,383m,Cotton 50%,Pending,f6298c01-598b-4c44-a5a5-69815c084743,96,Nisha,qilyze
+2025-06-29T20:35:20,Standard,Satin,225m,Silk 60%,Cancelled,640f4117-243e-4297-a540-ba3fd64f5a09,452,Sundar,Deepak
+2025-06-19T10:18:29,Stand,Crepe,256m,Silk 60%,Cancelled,9eb29176-7691-4e1c-ab18-918e9bb56d69,145,Mukilan,qilyze
+2025-05-20T23:58:55,Stand,linen,57m,20%,Confirmed,a453269e-38dd-476f-89b7-34ae1ba05135,67,Mukilan,Kumar
+2025-06-16T16:54:00,stand ,Linen,411,Cotton 100%,Confirmed,cba2b758-b007-4b86-80f5-9e5dfc24bc6f,532,Sundar,Kumar
+2025-06-29T16:29:18,Economy,Denim,806,Cotton 50%,Cancelled,db0d22bd-c7f6-4e41-9ec2-c92d79b9369d,447,Nisha,Deepak
+2025-05-23T23:06:52,Economy,Plain,696,Silk 60%,Cancelled,bea9c7e7-8281-461d-acff-ec5bb584a0d1,176,Mukilan,Tom
+2025-05-03T10:54:02,premium ,spandex ,524,Silk 60%,Pending,0f488d93-7f06-455a-8ba4-fbaefb3f4c02,115,Priya,jogoco
+2025-05-04T13:03:20,Premium,Denim,455m,Nylon 40%,Pending,1311bd13-9cbe-4836-872b-05a4e972fc90,584,Ravi,qilyze
+2025-05-01T04:24:28,Economy,spandex ,520m,Polyester 80%,Confirmed,46432111-b96f-466f-8ce9-a2508017ffa1,360,Arun,qilyze
+2025-05-29T05:37:33,Premium,Twill,618,Viscose 70%,Cancelled,96f3a1a1-c18e-4839-a027-57c63c08e313,438,Arun,Kumar
+2025-06-25T03:32:05,Stand,linen,684,Cotton 100%,Confirmed,e2ca1304-054b-432d-aff9-cee48e7509ae,234,Nisha,jogoco
+2025-05-17T02:32:37,Premium,Twill,476,Silk 60%,Confirmed,d033c973-6b21-4245-8bca-a093d795a2e9,326,Arun,Sara
+2025-05-07T12:39:10,Stand,Denim,307,20%,Cancelled,d34d7e21-074e-450d-acd5-f437294c18e6,166,Sundar,Deepak
+2025-06-15T00:43:26,Primium,linen,387,Cotton 100%,Cancelled,a5c8af29-2a1a-43bb-8e93-6cda4c78ba72,160,Arun,Anita
+2025-05-18T12:05:20,Economy,Plain,563m,Viscose 70%,Confirmed,9a5b3e8c-4290-49a6-8503-36dc92ea46e6,512,Nisha,Kumar
+2025-06-21T20:21:56,Standard,Denim,894m,Cotton 50%,Pending,6e6414be-2e96-4ca0-b6f5-92912352e4e8,516,Ravi,Deepak
+2025-06-24T14:30:34,Primium,Plain,554,Viscose 70%,Pending,5c5eff7f-08eb-4004-bd42-1925c1b03e40,157,Arun,qilyze
+2025-06-18T20:53:36,Premium,Denim,826m,Viscose 70%,Pending,1e40e505-a794-4c00-90a9-5797161f8015,390,Nisha,Sara
+2025-06-14T12:33:43,Premium,Spandex,370,Cotton 50%,Confirmed,b12cc496-2050-4468-81ff-9b6d61773b8c,436,Nisha,qilyze
+2025-05-26T05:23:10,Primium,Plain,708m,Polyester 80%,Confirmed,7bdee8ea-89ed-4022-b9d3-921f01381797,350,Nisha,Tom
+2025-05-17T20:40:51,Primium,Spandex,510m,Nylon 40%,Confirmed,80783897-7616-4c9b-be37-c9e3b5be1bb9,473,Nisha,jogoco
+2025-06-26T08:58:10,premium ,Satin,62,Polyester 80%,Pending,f242091d-fd61-4bf0-aa7a-201f77655bd7,303,Priya,Kumar
+2025-05-09T02:04:39,stand ,Linen,410m,Polyester 80%,Confirmed,60687988-a01b-4be4-be7b-c4f6980658bb,68,Priya,Jhon
+2025-06-13T05:09:57,Standard,linen,289m,Cotton 100%,Cancelled,2696f649-33fd-45c1-a190-f8fad8aa65fc,454,Arun,Sara
+2025-05-31T01:56:50,Stand,spandex ,231,Silk 60%,Confirmed,0893f297-d268-48d3-ae87-9fd2ad42afa3,431,Ravi,Sara
+2025-05-27T20:16:54,Primium,Plain,503m,Cotton 50%,Confirmed,82ff81c2-3955-4006-ab64-221a4bf2f2fc,156,Arun,jogoco
+2025-06-18T00:02:44,Stand,Crepe,945m,Polyester 80%,Confirmed,b2dc90d1-bdb9-4a72-829f-ef22e3bb1d24,447,Arun,Anita
+2025-06-14T00:00:07,Stand,Spandex,453,Nylon 40%,Pending,d17d55f2-5aaf-487c-92a6-94ec4f77a8fa,289,Sundar,Jhon
+2025-06-16T14:49:33,stand ,linen,80m,Viscose 70%,Cancelled,07e70aa4-046c-411e-91ed-fa4a74f8a0ad,460,Nisha,Kumar
+2025-06-06T09:58:31,Premium,Spandex,784,Polyester 80%,Pending,e179a7db-d8ec-418b-963c-5a3b7f321279,180,Ravi,qilyze
+2025-06-29T11:57:34,Economy,Spandex,393,Cotton 100%,Confirmed,6ecfbe56-1c68-467a-954f-254cee2c59ca,468,Arun,Jhon
+2025-06-08T01:10:47,Stand,Twill,424,20%,Pending,351f737b-be2d-4875-a674-29d6fed2bf9f,272,Mukilan,Anita
+2025-06-07T23:10:52,Stand,linen,820m,Silk 60%,Confirmed,dad6e874-42af-4316-822f-4ae5b65c6365,489,Nisha,Kumar
+2025-05-27T23:09:33,Premium,Denim,553,Viscose 70%,Pending,29d1cca0-b907-4e11-beed-f05c77623ff4,250,Nisha,Anita
+2025-06-07T06:10:57,Premium,Twill,788m,20%,Confirmed,4dfe689a-e679-4d1f-a156-6a67c8e93e1b,432,Priya,Sara
+2025-05-08T20:48:11,Standard,Spandex,485,Cotton 50%,Confirmed,b6499a9b-1f8d-41fc-9828-b9a16e6f812e,107,Ravi,Tom
+2025-05-18T23:48:40,Premium,Plain,568m,Polyester 80%,Confirmed,a145574e-0764-43bc-b9d7-b015d7fd870d,537,Arun,jogoco
+2025-06-08T23:43:34,Economy,spandex ,94m,Polyester 80%,Confirmed,094c795d-307f-4f2a-ae94-0a7978a4a687,287,Ravi,jogoco
+2025-05-06T06:11:54,Standard,Denim,231m,Viscose 70%,Cancelled,22e15cff-f836-4217-9309-0cd102decd57,96,Mukilan,Anita
+2025-05-06T02:35:35,Stand,spandex ,165,Cotton 100%,Cancelled,6bb90a95-dba8-4cd1-95b8-1a8d3e056ed7,204,Arun,Anita
+2025-06-09T12:17:20,Standard,Linen,161m,Viscose 70%,Cancelled,9695b7f7-f3aa-44ab-b43f-cb1b34aa03c8,58,Nisha,jogoco
+2025-06-12T04:54:31,Standard,Crepe,776,Cotton 50%,Pending,3fde0683-3c14-4780-b20d-aadcc72048da,170,Sundar,Kumar
+2025-06-17T04:24:55,Stand,Twill,384,Silk 60%,Confirmed,1e1b9542-71c6-4f0e-82c6-4e4e974f7afb,572,Arun,qilyze
+2025-06-17T02:59:36,Premium,Plain,241,Silk 60%,Confirmed,47b93aa2-163a-4feb-82ed-768043a81157,376,Ravi,qilyze
+2025-06-21T09:47:39,Primium,Crepe,453m,Silk 60%,Confirmed,525c0b61-0356-4a07-bc54-60a5791919f2,262,Priya,Tom
+2025-06-06T06:27:59,Standard,spandex ,360,Polyester 80%,Confirmed,f805e5ca-6151-4f8c-a847-4a809aee3695,142,Nisha,Kumar
+2025-06-09T08:54:43,Premium,Linen,309m,Viscose 70%,Pending,ae189663-bc90-4560-a927-5bba3babacca,63,Arun,qilyze
+2025-06-17T03:08:53,Stand,Linen,749m,Nylon 40%,Cancelled,949a4d46-e3c0-412a-8373-45dd2ecfcb38,451,Ravi,Jhon
+2025-06-23T22:20:00,Premium,Linen,988m,Viscose 70%,Pending,ad052efc-c2c6-4fe3-89fd-2e8515d8cbbb,123,Sundar,jogoco
+2025-05-05T17:23:35,Premium,linen,120m,Cotton 100%,Pending,651e6709-7981-42f2-b7ae-0ef962ec5912,261,Priya,Tom
+2025-05-31T07:26:32,Stand,Twill,610m,Silk 60%,Confirmed,c11441b5-bb25-4d07-9c28-fbf7008a7154,313,Sundar,Tom
+2025-05-02T09:17:30,Primium,Denim,441m,20%,Confirmed,7fc22425-ffc4-4d89-8381-837b141d11d8,244,Mukilan,Anita
+2025-05-04T06:29:40,premium ,Crepe,877m,Viscose 70%,Cancelled,c3680b43-649a-428c-9a86-50dda1049a7f,134,Mukilan,Deepak
+2025-05-06T04:38:41,Stand,Twill,374m,Cotton 100%,Confirmed,f6cdd90d-3228-4bad-a5d1-e4a8a992e5f0,416,Mukilan,Anita
