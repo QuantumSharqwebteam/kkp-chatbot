@@ -36,10 +36,10 @@ class Config:
         if cls._GEMINI_API_KEY is None:
             try:
                 import streamlit as st
-                cls._GEMINI_API_KEY = st.secrets.get("GEMINI_API_KEY", os.getenv("GEMINI_API_KEY", "AIzaSyBwZR5MJm4r5NE1AX5FbzOveBJhuYYbJCQ"))
+                cls._GEMINI_API_KEY = st.secrets.get("GEMINI_API_KEY", os.getenv("GEMINI_API_KEY", "AIzaSyCYKuwXYcxW8u0y23UgYTKd9dx240bsm6U"))
             except Exception:
                 # Fallback if Streamlit context is not available
-                cls._GEMINI_API_KEY = os.getenv("GEMINI_API_KEY", "AIzaSyBwZR5MJm4r5NE1AX5FbzOveBJhuYYbJCQ")
+                cls._GEMINI_API_KEY = os.getenv("GEMINI_API_KEY", "AIzaSyCYKuwXYcxW8u0y23UgYTKd9dx240bsm6U")
         return cls._GEMINI_API_KEY
     
     # Validation
@@ -49,7 +49,7 @@ class Config:
         try:
             import streamlit as st
             api_key = Config.get_gemini_api_key()
-            if api_key == "AIzaSyBwZR5MJm4r5NE1AX5FbzOveBJhuYYbJCQ":
+            if api_key == "AIzaSyCYKuwXYcxW8u0y23UgYTKd9dx240bsm6U":
                 st.error("""
                 ❌ Gemini API key not configured!
                 
@@ -60,7 +60,7 @@ class Config:
                 
                 Example:
                 ```toml
-                GEMINI_API_KEY = "AIzaSyBwZR5MJm4r5NE1AX5FbzOveBJhuYYbJCQ"
+                GEMINI_API_KEY = "AIzaSyCYKuwXYcxW8u0y23UgYTKd9dx240bsm6U"
                 ```
                 """)
                 return False
