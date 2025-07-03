@@ -228,8 +228,8 @@ class DressSalesChatbot:
                 
                 # Calculate trend direction
                 if len(monthly_trend) >= 2:
-                    first_month = list(monthly_trend.values())[0]
-                    last_month = list(monthly_trend.values())[-1]
+                    first_month = monthly_trend.values[0]
+                    last_month = monthly_trend.values[-1]
                     if last_month > first_month:
                         trend_text += f"\n📈 **Trend:** Revenue is **increasing** (₹{last_month - first_month:+,.2f} change)"
                     else:
@@ -281,6 +281,58 @@ class DressSalesChatbot:
             premium_percentage = (premium_orders / total_orders * 100) if total_orders > 0 else 0
             
             return f"**Premium Quality Orders:** {premium_orders:,}\n\n• Revenue from Premium: ₹{premium_revenue:,.2f}\n• Percentage of Total: {premium_percentage:.1f}%"
+        
+        # Most/Least sold weave, quality, composition, customer, agent
+        elif ("most sold" in question_lower or "top selling" in question_lower or "highest selling" in question_lower) and "weave" in question_lower:
+            weave_sales = self.df.groupby('weave')['quantity'].sum().sort_values(ascending=False)
+            top_weave = weave_sales.index[0]
+            top_qty = weave_sales.iloc[0]
+            return f"**Most Sold Weave Type:** {top_weave}\n\n• Quantity Sold: {top_qty:,.0f} units"
+        elif ("least sold" in question_lower or "lowest selling" in question_lower) and "weave" in question_lower:
+            weave_sales = self.df.groupby('weave')['quantity'].sum().sort_values(ascending=True)
+            least_weave = weave_sales.index[0]
+            least_qty = weave_sales.iloc[0]
+            return f"**Least Sold Weave Type:** {least_weave}\n\n• Quantity Sold: {least_qty:,.0f} units"
+        elif ("most sold" in question_lower or "top selling" in question_lower or "highest selling" in question_lower) and "quality" in question_lower:
+            quality_sales = self.df.groupby('quality')['quantity'].sum().sort_values(ascending=False)
+            top_quality = quality_sales.index[0]
+            top_qty = quality_sales.iloc[0]
+            return f"**Most Sold Quality:** {top_quality}\n\n• Quantity Sold: {top_qty:,.0f} units"
+        elif ("least sold" in question_lower or "lowest selling" in question_lower) and "quality" in question_lower:
+            quality_sales = self.df.groupby('quality')['quantity'].sum().sort_values(ascending=True)
+            least_quality = quality_sales.index[0]
+            least_qty = quality_sales.iloc[0]
+            return f"**Least Sold Quality:** {least_quality}\n\n• Quantity Sold: {least_qty:,.0f} units"
+        elif ("most sold" in question_lower or "top selling" in question_lower or "highest selling" in question_lower) and "composition" in question_lower:
+            comp_sales = self.df.groupby('composition')['quantity'].sum().sort_values(ascending=False)
+            top_comp = comp_sales.index[0]
+            top_qty = comp_sales.iloc[0]
+            return f"**Most Sold Composition:** {top_comp}\n\n• Quantity Sold: {top_qty:,.0f} units"
+        elif ("least sold" in question_lower or "lowest selling" in question_lower) and "composition" in question_lower:
+            comp_sales = self.df.groupby('composition')['quantity'].sum().sort_values(ascending=True)
+            least_comp = comp_sales.index[0]
+            least_qty = comp_sales.iloc[0]
+            return f"**Least Sold Composition:** {least_comp}\n\n• Quantity Sold: {least_qty:,.0f} units"
+        elif ("most sold" in question_lower or "top selling" in question_lower or "highest selling" in question_lower) and ("customer" in question_lower or "customer name" in question_lower):
+            cust_sales = self.df.groupby('customerName')['quantity'].sum().sort_values(ascending=False)
+            top_cust = cust_sales.index[0]
+            top_qty = cust_sales.iloc[0]
+            return f"**Customer with Most Purchases:** {top_cust}\n\n• Quantity Purchased: {top_qty:,.0f} units"
+        elif ("least sold" in question_lower or "lowest selling" in question_lower) and ("customer" in question_lower or "customer name" in question_lower):
+            cust_sales = self.df.groupby('customerName')['quantity'].sum().sort_values(ascending=True)
+            least_cust = cust_sales.index[0]
+            least_qty = cust_sales.iloc[0]
+            return f"**Customer with Least Purchases:** {least_cust}\n\n• Quantity Purchased: {least_qty:,.0f} units"
+        elif ("most sold" in question_lower or "top selling" in question_lower or "highest selling" in question_lower) and ("agent" in question_lower or "agent name" in question_lower):
+            agent_sales = self.df.groupby('agentName')['quantity'].sum().sort_values(ascending=False)
+            top_agent = agent_sales.index[0]
+            top_qty = agent_sales.iloc[0]
+            return f"**Agent with Most Sales:** {top_agent}\n\n• Quantity Sold: {top_qty:,.0f} units"
+        elif ("least sold" in question_lower or "lowest selling" in question_lower) and ("agent" in question_lower or "agent name" in question_lower):
+            agent_sales = self.df.groupby('agentName')['quantity'].sum().sort_values(ascending=True)
+            least_agent = agent_sales.index[0]
+            least_qty = agent_sales.iloc[0]
+            return f"**Agent with Least Sales:** {least_agent}\n\n• Quantity Sold: {least_qty:,.0f} units"
         
         # Enhanced predictions
         elif "predict" in question_lower and "premium cotton" in question_lower:
@@ -406,206 +458,143 @@ class DressSalesChatbot:
                 return None
         return None
 
+    def find_nearest_date(self, target_date):
+        """Find the nearest available date in the dataset to the target_date."""
+        available_dates = self.df['date'].dt.date.unique()
+        if not available_dates.size:
+            return None
+        nearest = min(available_dates, key=lambda d: abs(d - target_date.date()))
+        return nearest
+
+    def get_most_relevant_data(self, question):
+        """Return the most relevant data from the dataset based on the question if exact data is not available."""
+        # Example: If question mentions a product, quality, or agent, return top results for that
+        q = question.lower()
+        if "premium" in q:
+            df = self.df[self.df['quality'] == 'premium']
+            if not df.empty:
+                return df
+        if "agent" in q:
+            top_agent = self.df.groupby('agentName')['total_value'].sum().idxmax()
+            df = self.df[self.df['agentName'] == top_agent]
+            if not df.empty:
+                return df
+        # Fallback: return most recent day's data
+        latest_date = self.df['date'].max().date()
+        return self.df[self.df['date'].dt.date == latest_date]
+
+    def extract_keywords(self, question):
+        """Extracts relevant keywords for routing the question to the right data logic."""
+        keywords = []
+        q = question.lower()
+        # Add more as needed
+        if any(k in q for k in ["trend", "sales revenue", "over the past", "last", "recent"]):
+            keywords.append("trend")
+        if any(k in q for k in ["predict", "forecast", "future sales"]):
+            keywords.append("predict")
+        if any(k in q for k in ["most sold", "top selling", "highest selling"]):
+            keywords.append("most_sold")
+        if any(k in q for k in ["least sold", "lowest selling"]):
+            keywords.append("least_sold")
+        if "weave" in q:
+            keywords.append("weave")
+        if "quality" in q:
+            keywords.append("quality")
+        if "composition" in q:
+            keywords.append("composition")
+        if "customer" in q:
+            keywords.append("customer")
+        if "agent" in q:
+            keywords.append("agent")
+        if "date" in q or any(char.isdigit() for char in q):
+            keywords.append("date")
+        if "revenue" in q:
+            keywords.append("revenue")
+        if "quantity" in q:
+            keywords.append("quantity")
+        if "order" in q:
+            keywords.append("order")
+        return keywords
+
     def answer_question(self, question):
-        """Answer user questions using data and Gemini API"""
+        """Answer user questions using data and always enhance with Gemini API if available."""
         try:
             self.initialize()  # Ensure initialization
+            keywords = self.extract_keywords(question)
+            data_answer = None
 
-            # 1. Check for date-specific queries
-            date = self.extract_date_from_question(question)
-            if date:
-                day_data = self.df[self.df['date'].dt.date == date.date()]
-                if not day_data.empty:
-                    # Summarize all relevant fields for that date
-                    summary = f"Sales data for {date.strftime('%Y-%m-%d')}:\n"
-                    for idx, row in day_data.iterrows():
+            # 1. Date-specific queries
+            if "date" in keywords:
+                date = self.extract_date_from_question(question)
+                if date:
+                    day_data = self.df[self.df['date'].dt.date == date.date()]
+                    if not day_data.empty:
+                        summary = f"\nHere is the exact sales data for {date.strftime('%Y-%m-%d')}:\n"
+                        for idx, row in day_data.iterrows():
+                            summary += (
+                                f"- Agent: {row['agentName']}, Customer: {row['customerName']}, "
+                                f"Quality: {row['quality']}, Weave: {row['weave']}, Quantity: {row['quantity']}, "
+                                f"Composition: {row['composition']}, Status: {row['status']}, Rate: {row['rate']}, Revenue: ₹{row['total_value']:.2f}\n"
+                            )
+                        data_answer = summary
+                    else:
+                        nearest = self.find_nearest_date(date)
+                        if nearest:
+                            nearest_data = self.df[self.df['date'].dt.date == nearest]
+                            summary = f"\nNo sales data found for {date.strftime('%Y-%m-%d')}. Showing nearest available data for {nearest.strftime('%Y-%m-%d')}:\n"
+                            for idx, row in nearest_data.iterrows():
+                                summary += (
+                                    f"- Agent: {row['agentName']}, Customer: {row['customerName']}, "
+                                    f"Quality: {row['quality']}, Weave: {row['weave']}, Quantity: {row['quantity']}, "
+                                    f"Composition: {row['composition']}, Status: {row['status']}, Rate: {row['rate']}, Revenue: ₹{row['total_value']:.2f}\n"
+                                )
+                            data_answer = summary
+                        else:
+                            data_answer = f"Sorry, no sales data is available for the requested or any nearby date."
+
+            # 2. Trend, prediction, most/least sold, and admin questions
+            if data_answer is None:
+                admin_answer = self.get_admin_question_answer(question)
+                if admin_answer:
+                    data_answer = admin_answer
+
+            # 3. Fallback: most relevant data
+            if data_answer is None:
+                relevant_data = self.get_most_relevant_data(question)
+                if relevant_data is not None and not relevant_data.empty:
+                    summary = "Here is the most relevant sales data I could find for your query:\n"
+                    for idx, row in relevant_data.iterrows():
                         summary += (
-                            f"- Agent: {row['agentName']}, Customer: {row['customerName']}, "
+                            f"- Date: {row['date'].strftime('%Y-%m-%d')}, Agent: {row['agentName']}, Customer: {row['customerName']}, "
                             f"Quality: {row['quality']}, Weave: {row['weave']}, Quantity: {row['quantity']}, "
                             f"Composition: {row['composition']}, Status: {row['status']}, Rate: {row['rate']}, Revenue: ₹{row['total_value']:.2f}\n"
                         )
-                    return summary
-                else:
-                    return f"No sales data found for {date.strftime('%Y-%m-%d')}."
+                    data_answer = summary
 
-            # 2. Check if this is an admin question that can be answered directly
-            admin_answer = self.get_admin_question_answer(question)
-            if admin_answer:
-                return admin_answer
+            # 4. If still nothing, generic fallback
+            if data_answer is None:
+                data_answer = "I apologize, but I could not find an exact answer in the sales data. Please try rephrasing your question or ask for a different sales insight."
 
-            # 3. If not an admin question, check if API is available
-            if not Config.validate_api_key():
-                # Use fallback response for non-admin questions
+            # 5. Always enhance with API if available
+            enhanced_answer = ""
+            if Config.validate_api_key():
                 analytics = self.get_sales_analytics()
-                return self.get_fallback_response(question, analytics)
-
-            # 4. Get analytics data for API context
-            analytics = self.get_sales_analytics()
-
-            # 5. Prepare context for Gemini
-            context = f"""
-            Dress Sales Data Context:
-            - Total Sales: {analytics['total_sales']} orders
-            - Total Revenue: ₹{analytics['total_revenue']:,.2f}
-            - Average Order Value: ₹{analytics['avg_order_value']:,.2f}
-            - Total Quantity Sold: {analytics['total_quantity']:,.0f} units
-
-            Status Breakdown: {analytics['status_breakdown']}
-            Top Agents: {list(analytics['top_agents'].keys())[:3]}
-            Top Customers: {list(analytics['top_customers'].keys())[:3]}
-
-            Question: {question}
-
-            Please provide a detailed, humanized answer based on this sales data. 
-            Focus only on dress sales information and be conversational yet professional.
-            """
-
-            # 6. Generate response using Gemini
-            try:
-                model = genai.GenerativeModel('gemini-2.0-flash')
-                response = model.generate_content(context)
-
-                if response and response.text:
-                    return response.text
-                else:
-                    return "I apologize, but I received an empty response from the AI service. Please try asking your question again."
-
-            except Exception as api_error:
-                st.error(f"API Error: {str(api_error)}")
-                # Fallback response without API
-                return self.get_fallback_response(question, analytics)
-
+                context = f"Data-driven answer:\n{data_answer}\n\nSales Data Context:\n- Total Sales: {analytics['total_sales']} orders\n- Total Revenue: ₹{analytics['total_revenue']:,.2f}\n- Average Order Value: ₹{analytics['avg_order_value']:,.2f}\n- Total Quantity Sold: {analytics['total_quantity']:,.0f} units\n\nStatus Breakdown: {analytics['status_breakdown']}\nTop Agents: {list(analytics['top_agents'].keys())[:3]}\nTop Customers: {list(analytics['top_customers'].keys())[:3]}\n\nQuestion: {question}\nPlease provide a professional, conversational, and insightful answer based on this data."
+                try:
+                    model = genai.GenerativeModel('gemini-2.0-flash')
+                    response = model.generate_content(context)
+                    if response and response.text:
+                        enhanced_answer = response.text
+                except Exception:
+                    pass
+            # 6. Return both answers (data first, then enhancement)
+            if enhanced_answer:
+                return f"{data_answer}\n\n---\n\n{enhanced_answer}"
+            else:
+                return data_answer
         except Exception as e:
             st.error(f"General Error: {str(e)}")
             return f"I apologize, but I encountered an error while processing your question. Please try rephrasing or ask a different question about dress sales data."
-    
-    def get_fallback_response(self, question, analytics):
-        """Provide fallback responses when API is not available"""
-        question_lower = question.lower()
-        
-        # Revenue and financial questions
-        if "revenue" in question_lower and "total" in question_lower:
-            return f"Based on our sales data, the total revenue is ₹{analytics['total_revenue']:,.2f} from {analytics['total_sales']} orders."
-        
-        elif "average" in question_lower and "order value" in question_lower:
-            return f"The average order value is ₹{analytics['avg_order_value']:,.2f}."
-        
-        elif "revenue" in question_lower and "month" in question_lower:
-            current_month = datetime.now().month
-            current_year = datetime.now().year
-            month_data = self.df[(self.df['date'].dt.month == current_month) & (self.df['date'].dt.year == current_year)]
-            month_revenue = month_data['total_value'].sum()
-            return f"This month's revenue is ₹{month_revenue:,.2f} from {len(month_data)} orders."
-        
-        # Agent performance questions
-        elif "agent" in question_lower and "highest" in question_lower:
-            top_agent = list(analytics['top_agents'].keys())[0]
-            agent_revenue = analytics['top_agents'][top_agent]
-            return f"The agent with the highest sales is {top_agent} with ₹{agent_revenue:,.2f} in revenue."
-        
-        elif "top" in question_lower and "agents" in question_lower:
-            top_agents_text = "Top performing agents:\n"
-            for i, (agent, revenue) in enumerate(analytics['top_agents'].items(), 1):
-                top_agents_text += f"{i}. {agent}: ₹{revenue:,.2f}\n"
-            return top_agents_text
-        
-        # Quality and product questions
-        elif "popular" in question_lower and "quality" in question_lower:
-            quality_perf = analytics['quality_performance']
-            best_quality = max(quality_perf, key=quality_perf.get)
-            return f"The most popular dress quality is {best_quality} with ₹{quality_perf[best_quality]:,.2f} in sales."
-        
-        elif "premium" in question_lower and "quality" in question_lower:
-            premium_orders = len(self.df[self.df['quality'] == 'premium'])
-            return f"There are {premium_orders:,} premium quality orders in our system."
-        
-        # Order status questions
-        elif "pending" in question_lower:
-            pending_count = analytics['status_breakdown'].get('Pending', 0)
-            return f"There are currently {pending_count} pending orders in our system."
-        
-        elif "confirmed" in question_lower and "orders" in question_lower:
-            confirmed_count = analytics['status_breakdown'].get('Confirmed', 0)
-            return f"There are {confirmed_count:,} confirmed orders in our system."
-        
-        elif "cancelled" in question_lower:
-            cancelled_count = analytics['status_breakdown'].get('Cancelled', 0)
-            return f"There are {cancelled_count:,} cancelled orders in our system."
-        
-        # Customer questions
-        elif "customer" in question_lower and "highest" in question_lower:
-            top_customer = list(analytics['top_customers'].keys())[0]
-            customer_value = analytics['top_customers'][top_customer]
-            return f"The customer with the highest purchase value is {top_customer} with ₹{customer_value:,.2f} in total purchases."
-        
-        # Trend and analysis questions
-        elif "trend" in question_lower and "month" in question_lower:
-            monthly_trends = analytics['monthly_trends']
-            if len(monthly_trends) > 0:
-                recent_months = list(monthly_trends.items())[-3:]  # Last 3 months
-                trend_text = "Recent monthly trends:\n"
-                for month, revenue in recent_months:
-                    trend_text += f"• {month}: ₹{revenue:,.2f}\n"
-                return trend_text
-            else:
-                return "Our monthly sales trends show varying performance across different months."
-        
-        # Conversion and performance questions
-        elif "conversion" in question_lower and "rate" in question_lower:
-            confirmed = analytics['status_breakdown'].get('Confirmed', 0)
-            total = analytics['total_sales']
-            conversion_rate = (confirmed / total * 100) if total > 0 else 0
-            return f"The order conversion rate is {conversion_rate:.1f}% ({confirmed:,} confirmed out of {total:,} total orders)."
-        
-        # Material and composition questions
-        elif "composition" in question_lower and "best" in question_lower:
-            composition_performance = self.df.groupby('composition')['total_value'].sum().sort_values(ascending=False)
-            best_composition = composition_performance.index[0]
-            return f"The best-selling composition material is {best_composition}."
-        
-        elif "weave" in question_lower and "popular" in question_lower:
-            weave_performance = self.df.groupby('weave')['total_value'].sum().sort_values(ascending=False)
-            best_weave = weave_performance.index[0]
-            return f"The most popular weave type is {best_weave}."
-        
-        # Quantity and volume questions
-        elif "quantity" in question_lower and "total" in question_lower:
-            return f"The total quantity sold is {analytics['total_quantity']:,.0f} units."
-        
-        elif "quantity" in question_lower and "average" in question_lower:
-            avg_quantity = analytics['total_quantity'] / analytics['total_sales']
-            return f"The average quantity per order is {avg_quantity:.1f} units."
-        
-        # Rate and pricing questions
-        elif "rate" in question_lower and "average" in question_lower:
-            avg_rate = self.df['rate'].mean()
-            return f"The average rate per unit is ₹{avg_rate:.2f}."
-        
-        # Prediction questions
-        elif "predict" in question_lower or "forecast" in question_lower:
-            # Get future predictions
-            predictions = self.predict_future_sales(3)
-            if isinstance(predictions, list):
-                prediction_text = "**Sales Forecast (Next 3 Months):**\n\n"
-                for pred in predictions:
-                    prediction_text += f"• {pred['month']}: ₹{pred['revenue']:,.2f} revenue, {pred['quantity']:.0f} units\n"
-                return prediction_text
-            else:
-                return predictions
-        
-        # General business questions
-        elif "performance" in question_lower or "overview" in question_lower:
-            return f"**Business Overview:**\n\n" \
-                   f"• Total Orders: {analytics['total_sales']:,}\n" \
-                   f"• Total Revenue: ₹{analytics['total_revenue']:,.2f}\n" \
-                   f"• Average Order Value: ₹{analytics['avg_order_value']:,.2f}\n" \
-                   f"• Total Quantity: {analytics['total_quantity']:,.0f} units\n" \
-                   f"• Top Agent: {list(analytics['top_agents'].keys())[0] if analytics['top_agents'] else 'N/A'}"
-        
-        # Default response for unrecognized questions
-        else:
-            return f"I can help you with dress sales information. Our total revenue is ₹{analytics['total_revenue']:,.2f} from {analytics['total_sales']} orders. " \
-                   f"What specific aspect would you like to know more about? You can ask about revenue, orders, agents, customers, trends, or predictions."
     
     def create_visualizations(self):
         """Create interactive visualizations"""
@@ -871,3 +860,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
